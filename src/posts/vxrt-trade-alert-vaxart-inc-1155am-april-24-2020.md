@@ -1,6 +1,6 @@
 ---
 title: "VXRT Trade Alert Vaxart Inc. 11:55am April 24, 2020"
-date: 2026-11-13
+date: 2022-07-01
 permalink: "/vxrt-trade-alert-vaxart-inc-1155am-april-24-2020/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/vxrt-trade-alert-vaxart-inc-1155am-april-24-2020/"

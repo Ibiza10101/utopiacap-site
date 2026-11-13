@@ -1,6 +1,6 @@
 ---
 title: "Novavax, Inc. NVAX Short Report, January 22, 2020"
-date: 2026-11-13
+date: 2020-01-21
 permalink: "/nvax/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/nvax/"

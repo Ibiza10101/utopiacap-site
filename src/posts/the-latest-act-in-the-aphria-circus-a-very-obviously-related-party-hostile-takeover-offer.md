@@ -1,6 +1,6 @@
 ---
 title: "The Latest Act in The Aphria Circus: A Very Obviously Related-Party ‘Hostile’ Takeover Offer"
-date: 2026-11-13
+date: 2026-02-15
 permalink: "/the-latest-act-in-the-aphria-circus-a-very-obviously-related-party-hostile-takeover-offer/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/the-latest-act-in-the-aphria-circus-a-very-obviously-related-party-hostile-takeover-offer/"

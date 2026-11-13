@@ -1,6 +1,6 @@
 ---
 title: "Investor Warning"
-date: 2026-11-13
+date: 2020-05-06
 permalink: "/investor-warning/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/investor-warning/"

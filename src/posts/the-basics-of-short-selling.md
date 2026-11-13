@@ -1,6 +1,6 @@
 ---
 title: "Basics of Short Selling"
-date: 2026-11-13
+date: 2020-09-24
 permalink: "/the-basics-of-short-selling/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/the-basics-of-short-selling/"

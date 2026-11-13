@@ -1,6 +1,6 @@
 ---
 title: "NNDM Trade Alert Nano Dimension Ltd 9:50am May 20, 2020"
-date: 2026-11-13
+date: 2022-07-01
 permalink: "/nndm-trade-alert-nano-dimension-ltd-950am-may-20-2020/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/nndm-trade-alert-nano-dimension-ltd-950am-may-20-2020/"

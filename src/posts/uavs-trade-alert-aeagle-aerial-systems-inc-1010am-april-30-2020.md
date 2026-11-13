@@ -1,6 +1,6 @@
 ---
 title: "UAVS Trade Alert Aeagle Aerial Systems Inc. 10:10am April 30, 2020"
-date: 2026-11-13
+date: 2022-07-01
 permalink: "/uavs-trade-alert-aeagle-aerial-systems-inc-1010am-april-30-2020/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/uavs-trade-alert-aeagle-aerial-systems-inc-1010am-april-30-2020/"

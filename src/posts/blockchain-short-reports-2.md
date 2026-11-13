@@ -1,6 +1,6 @@
 ---
 title: "Blockchain short reports"
-date: 2026-11-13
+date: 2020-09-24
 permalink: "/blockchain-short-reports-2/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/blockchain-short-reports-2/"

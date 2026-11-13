@@ -1,6 +1,6 @@
 ---
 title: "XYXY – UTOPIACAPITAL"
-date: 2026-11-13
+date: 2019-10-23
 permalink: "/xyxy/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/xyxy/"
