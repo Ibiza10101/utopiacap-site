@@ -15,7 +15,9 @@ export default function (eleventyConfig) {
     // custom domain is live, since that serves from the root.
     eleventyConfig.addTransform('path-prefix', (content, outputPath) => {
       if (!outputPath || !outputPath.endsWith('.html')) return content;
-      return content.replace(/((?:href|src)=")\/(?!\/)/g, `$1${PATH_PREFIX}/`);
+      return content
+        .replace(/((?:href|src)=")\/(?!\/)/g, `$1${PATH_PREFIX}/`)
+        .replace(/(url\(['"])\/(?!\/)/g, `$1${PATH_PREFIX}/`);
     });
   }
 
