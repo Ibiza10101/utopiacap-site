@@ -71,6 +71,12 @@ h2 { font-size: 1.3rem; margin-top: 2rem; }
   margin-top: 0;
 }
 
+.teaser {
+  border-top: 1px solid var(--border);
+  padding-top: 1.5rem;
+}
+.teaser h2 { margin-top: 0; }
+
 .post-list { list-style: none; padding: 0; margin: 0; }
 .post-list li {
   padding: 0.85rem 0;
