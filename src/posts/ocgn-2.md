@@ -1,0 +1,45 @@
+---
+title: "OCGN Trade Alert Ocugen Inc 9:40am December 23, 2020"
+date: 2026-11-13
+permalink: "/ocgn-2/"
+layout: post.njk
+sourceUrl: "https://utopiacap.com/ocgn-2/"
+archivedAt: "20260215142235"
+---
+<p>[fusion_builder_container hundred_percent=”no” hundred_percent_height=”no” hundred_percent_height_scroll=”no” hundred_percent_height_center_content=”yes” equal_height_columns=”no” menu_anchor=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” status=”published” publish_date=”” class=”” id=”” background_color=”” background_image=”” background_position=”center center” background_repeat=”no-repeat” fade=”no” background_parallax=”none” enable_mobile=”no” parallax_speed=”0.3″ video_mp4=”” video_webm=”” video_ogv=”” video_url=”” video_aspect_ratio=”16:9″ video_loop=”yes” video_mute=”yes” video_preview_image=”” border_size=”” border_color=”” border_style=”solid” margin_top=”” margin_bottom=”” padding_top=”” padding_right=”” padding_bottom=”” padding_left=””][fusion_builder_column type=”1_1″ layout=”1_1″ spacing=”” center_content=”no” link=”” target=”_self” min_height=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” background_color=”” background_image=”” background_image_id=”” background_position=”left top” background_repeat=”no-repeat” hover_type=”none” border_size=”0″ border_color=”” border_style=”solid” border_position=”all” border_radius=”” box_shadow=”no” dimension_box_shadow=”” box_shadow_blur=”0″ box_shadow_spread=”0″ box_shadow_color=”” box_shadow_style=”” padding_top=”” padding_right=”” padding_bottom=”” padding_left=”” margin_top=”” margin_bottom=”” animation_type=”” animation_direction=”left” animation_speed=”0.3″ animation_offset=”” last=”no”][fusion_text columns=”” column_min_width=”” column_spacing=”” rule_style=”default” rule_size=”” rule_color=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” animation_type=”” animation_direction=”left” animation_speed=”0.3″ animation_offset=””]<!-- TradingView Widget BEGIN --></p>
+<div class="tradingview-widget-container">
+
+<div class="tradingview-widget-copyright"><a href="https://uk.tradingview.com/symbols/NASDAQ-OCGN/" target="_blank" rel="noopener"><span class="blue-text">OCGN Chart</span></a> by TradingView</div>
+<p><a href="https://s3.tradingview.com/tv.js">https://s3.tradingview.com/tv.js</a></p>
+<p>  new TradingView.widget(<br>
+  {<br>
+  “width”: 980,<br>
+  “height”: 610,<br>
+  “symbol”: “NASDAQ:OCGN”,<br>
+  “interval”: “5”,<br>
+  “timezone”: “America/New_York”,<br>
+  “theme”: “dark”,<br>
+  “style”: “1”,<br>
+  “locale”: “uk”,<br>
+  “toolbar_bg”: “#f1f3f6”,<br>
+  “enable_publishing”: false,<br>
+  “allow_symbol_change”: true,<br>
+  “container_id”: “tradingview_66016”<br>
+}<br>
+  );</p>
+</div>
+<p><!-- TradingView Widget END -->[fusion_builder_container hundred_percent=”no” hundred_percent_height=”no” hundred_percent_height_scroll=”no” hundred_percent_height_center_content=”yes” equal_height_columns=”no” menu_anchor=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” status=”published” publish_date=”” class=”” id=”” background_color=”” background_image=”” background_position=”center center” background_repeat=”no-repeat” fade=”no” background_parallax=”none” enable_mobile=”no” parallax_speed=”0.3″ video_mp4=”” video_webm=”” video_ogv=”” video_url=”” video_aspect_ratio=”16:9″ video_loop=”yes” video_mute=”yes” video_preview_image=”” border_size=”” border_color=”” border_style=”solid” margin_top=”” margin_bottom=”” padding_top=”” padding_right=”” padding_bottom=”” padding_left=””][fusion_builder_column type=”1_2″ layout=”1_2″ spacing=”” center_content=”no” link=”” target=”_self” min_height=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” background_color=”” background_image=”” background_image_id=”” background_position=”left top” background_repeat=”no-repeat” hover_type=”none” border_size=”0″ border_color=”” border_style=”solid” border_position=”all” border_radius=”” box_shadow=”no” dimension_box_shadow=”” box_shadow_blur=”0″ box_shadow_spread=”0″ box_shadow_color=”” box_shadow_style=”” padding_top=”” padding_right=”” padding_bottom=”” padding_left=”” margin_top=”” margin_bottom=”” animation_type=”” animation_direction=”left” animation_speed=”0.3″ animation_offset=”” last=”no”][fusion_text columns=”” column_min_width=”” column_spacing=”” rule_style=”default” rule_size=”” rule_color=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” animation_type=”” animation_direction=”left” animation_speed=”0.3″ animation_offset=””]</p>
+<hr>
+<h4>Trade Alert Security Details:</h4>
+<p><strong>Symbol: </strong><a href="https://finance.yahoo.com/quote/OCGN?p=OCGN" target="_blank" rel="noopener">OCGN</a></p>
+<p><strong>Outstanding shares: </strong>162 million</p>
+<p><strong>Market Cap: </strong>$413 million</p>
+<p><strong>Share price at time of publishing:</strong> <span style="text-decoration: underline"><strong>$2.55</strong></span>&nbsp; December 23, 2020 9:40am (closing price of last 5 minute candle) [see bottom of page for third party verified blockchain time stamp*]</p>
+<p><strong>Target price: <span style="text-decoration: underline">$1.20</span></strong></p>
+<p>If you wish to get our trade alerts, short reports and investor warnings delivered straight to your email inbox as soon as they are published <a href="http://utopiacap.wordpress.com/">please subscribe</a>.</p>
+<p><em>*timing is of great importance when short selling. This is why all of our trade alerts are time stamped. These time stamps are third party verified using blockchain. Why blockchain? Because it is impossible to falsify. For more information please click <a href="https://www.investopedia.com/terms/b/blockchain.asp" target="_blank" rel="noopener noreferrer">here</a>.</em></p>
+<p>[fusion_builder_column type=”1_2″ layout=”1_2″ spacing=”” center_content=”no” link=”” target=”_self” min_height=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” background_color=”” background_image=”” background_image_id=”” background_position=”left top” background_repeat=”no-repeat” hover_type=”none” border_size=”0″ border_color=”” border_style=”solid” border_position=”all” border_radius=”” box_shadow=”no” dimension_box_shadow=”” box_shadow_blur=”0″ box_shadow_spread=”0″ box_shadow_color=”” box_shadow_style=”” padding_top=”” padding_right=”” padding_bottom=”” padding_left=”” margin_top=”” margin_bottom=”” animation_type=”” animation_direction=”left” animation_speed=”0.3″ animation_offset=”” last=”no”][fusion_text columns=”” column_min_width=”” column_spacing=”” rule_style=”default” rule_size=”” rule_color=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” animation_type=”” animation_direction=”left” animation_speed=”0.3″ animation_offset=””]</p>
+<hr>
+<h4>Trade Alert Company Information:</h4>
+<p>OCGN has enjoyed a notable run over the last two trading days, its price has increased by more than five fold and daily volume set an all time record yesterday. We believe OCGN is a great short selling opportunity at the current price and see a 55% short term downside.</p>
+<p>[fusion_builder_container hundred_percent=”no” hundred_percent_height=”no” hundred_percent_height_scroll=”no” hundred_percent_height_center_content=”yes” equal_height_columns=”no” menu_anchor=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” status=”published” publish_date=”” class=”” id=”” background_color=”rgba(0,0,0,0)” background_image=”” background_position=”center center” background_repeat=”no-repeat” fade=”no” background_parallax=”none” enable_mobile=”no” parallax_speed=”0.3″ video_mp4=”” video_webm=”” video_ogv=”” video_url=”” video_aspect_ratio=”16:9″ video_loop=”yes” video_mute=”yes” video_preview_image=”” border_size=”” border_color=”” border_style=”solid” margin_top=”” margin_bottom=”” padding_top=”” padding_right=”” padding_bottom=”” padding_left=””][fusion_builder_column type=”1_1″ layout=”1_1″ spacing=”” center_content=”no” link=”” target=”_self” min_height=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=”” background_color=”” background_image=”” background_image_id=”” background_position=”left top” background_repeat=”no-repeat” hover_type=”none” border_size=”0″ border_color=”” border_style=”solid” border_position=”all” border_radius=”” box_shadow=”no” dimension_box_shadow=”” box_shadow_blur=”0″ box_shadow_spread=”0″ box_shadow_color=”” box_shadow_style=”” padding_top=”” padding_right=”” padding_bottom=”” padding_left=”” margin_top=”” margin_bottom=”” animation_type=”” animation_direction=”left” animation_speed=”0.3″ animation_offset=”” last=”no”][fusion_text columns=”” column_min_width=”” column_spacing=”” rule_style=”default” rule_size=”” rule_color=”” hide_on_mobile=”small-visibility,medium-visibility,large-visibility” class=”” id=””][ihc-select-level]W21haWxwb2V0X2Zvcm0gaWQ9IjEiXQ==</p>
