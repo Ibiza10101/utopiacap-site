@@ -4,12 +4,12 @@ permalink: "/about/"
 layout: base.njk
 bodyClass: "about-page"
 ---
-<section class="about-hero" style="background-image: url('/wp-content/uploads/2020/08/dtla6thst.jpg');">
-  <div class="about-hero-inner">
+<section class="page-hero" style="background-image: url('/wp-content/uploads/2020/08/dtla6thst.jpg');">
+  <div class="page-hero-inner">
     <h1>We <span class="light">are a</span> community of short sellers <span class="light">who see the world</span> differently.</h1>
-    <p class="about-hero-tagline">Activist short sellers and veteran traders.</p>
+    <p class="page-hero-tagline">Activist short sellers and veteran traders.</p>
   </div>
-  <div class="about-hero-scroll"><span class="arrow-down">&#8595;</span> Scroll below</div>
+  <div class="page-hero-scroll"><span class="arrow-down">&#8595;</span> Scroll below</div>
 </section>
 
 Utopia Capital Research is a membership community of activist short sellers and veteran traders. We specialise in countertrend short trading small/medium cap USA publicly listed companies. Our approach is rooted in extensive technical analysis and due diligence that focuses on price volatility and the so-called "underhanded" practices of management and related third-parties. Precise timing and a deep understanding of fundamentals are crucial.
