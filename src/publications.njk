@@ -8,9 +8,10 @@ bodyClass: "publications-page"
 <p>Every short report, trade alert and investor warning we've published, newest first.</p>
 <div class="pub-grid">
   {% for post in collections.posts %}
+  {% set cover = post.data.coverImage or (post.templateContent | firstImageSrc) %}
   <a class="pub-card" href="{{ post.url }}">
-    {% if post.data.coverImage %}
-    <div class="pub-card-image" style="background-image: url('{{ post.data.coverImage }}');"></div>
+    {% if cover %}
+    <div class="pub-card-image" style="background-image: url('{{ cover }}');"></div>
     {% endif %}
     <div class="pub-card-body">
       <h3>{{ post.data.title }}</h3>

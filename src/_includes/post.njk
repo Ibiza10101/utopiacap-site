@@ -1,12 +1,22 @@
 ---
 layout: base.njk
 ---
+{% set cover = coverImage or (content | firstImageSrc) %}
 <article class="post">
+  {% if cover %}
+  <section class="post-hero" style="background-image: url('{{ cover }}');">
+    <div class="post-hero-inner">
+      <p class="post-hero-date">{{ page.date | postDate }}</p>
+      <h1>{{ title }}</h1>
+    </div>
+  </section>
+  {% else %}
   <p class="post-meta">
     <time datetime="{{ page.date | isoDate }}">{{ page.date | postDate }}</time>
     {% if category %} · <span class="post-category">{{ category }}</span>{% endif %}
   </p>
   <h1>{{ title }}</h1>
+  {% endif %}
   <div class="post-body">
     {{ content | safe }}
   </div>

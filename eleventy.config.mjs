@@ -28,6 +28,12 @@ export default function (eleventyConfig) {
     new Date(date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }));
 
   eleventyConfig.addFilter('isoDate', (date) => new Date(date).toISOString().slice(0, 10));
+
+  eleventyConfig.addFilter('firstImageSrc', (html) => {
+    if (!html) return null;
+    const match = /<img[^>]*\bsrc="([^"]+)"/.exec(html);
+    return match ? match[1] : null;
+  });
   eleventyConfig.addGlobalData('currentYear', () => new Date().getFullYear());
 
   return {
