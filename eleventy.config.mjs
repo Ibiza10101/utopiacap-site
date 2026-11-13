@@ -3,10 +3,7 @@ const PATH_PREFIX = (process.env.PATH_PREFIX || '').replace(/\/$/, '');
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/assets');
   eleventyConfig.addPassthroughCopy('src/wp-content');
-  // src/CNAME is intentionally renamed to src/CNAME.bak right now so the
-  // github.io preview URL works without redirecting to the custom domain
-  // before DNS is pointed at it -- see README. Restore the passthrough
-  // (and rename the file back) once DNS is ready to go live.
+  eleventyConfig.addPassthroughCopy('src/CNAME');
 
   if (PATH_PREFIX) {
     // GitHub Pages serves the preview under /utopiacap-site/, not the domain
