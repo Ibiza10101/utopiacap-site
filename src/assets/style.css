@@ -48,6 +48,13 @@ a:hover { text-decoration: underline; }
   font-weight: bold;
   letter-spacing: 0.02em;
   color: var(--text);
+  display: inline-flex;
+  align-items: center;
+}
+.site-header .brand img {
+  display: block;
+  height: 43px;
+  width: auto;
 }
 .site-header nav {
   display: flex;
@@ -61,6 +68,28 @@ main.wrap { padding-top: 2.5rem; padding-bottom: 3rem; }
 
 h1 { font-size: 1.9rem; line-height: 1.25; margin: 0 0 0.75rem; }
 h2 { font-size: 1.3rem; margin-top: 2rem; }
+
+.hero-banner {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  margin-bottom: 2.5rem;
+  background-size: cover;
+  background-position: center;
+  background-color: #000;
+}
+.hero-banner-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 5rem 1.25rem;
+  background: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35));
+  text-align: center;
+}
+.hero-banner-inner h1 {
+  color: #fff;
+  font-size: 1.7rem;
+  margin: 0;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.6);
+}
 
 .hero .tagline {
   font-family: Helvetica, Arial, sans-serif;
