@@ -19,7 +19,7 @@ archivedAt: "20201129023959"
  	<li><strong>One week trial </strong></li>
  	<li>Before joining please contact us. research@utopiacap.com.</li>
  	<li>After signing up, please log in <a href="https://utopiacap.slack.com/?redir=%2Fgantry%2Fclient"><strong>here</strong>.</a></li>
-</ul></div><div class="ihc-level-item-bottom"><div onclick="ihcBuyNewLevel('http://web.archive.org/web/20201129023959/https://utopiacap.com/register/?lid=8');" class="ihc-level-item-link " style="cursor: pointer;">Sign Up</div></div></div></div><div class="ihc-level-item"><div class="ihc-level-item-wrap"><div class="ihc-level-item-top"><div class="ihc-level-item-title">Monthly</div></div><div class="ihc-level-item-price">$665</div><div class="ihc-level-item-content"><ul>
+</ul></div><div class="ihc-level-item-bottom"><div onclick="ihcBuyNewLevel('http://web.archive.org/web/20201129023959/https://utopiacap.com/register/?lid=8');" class="ihc-level-item-link" style="cursor: pointer;">Sign Up</div></div></div></div><div class="ihc-level-item"><div class="ihc-level-item-wrap"><div class="ihc-level-item-top"><div class="ihc-level-item-title">Monthly</div></div><div class="ihc-level-item-price">$665</div><div class="ihc-level-item-content"><ul>
  	<li>Receive our trade alerts, short reports and other content straight to your inbox as soon as published. Take full advantage of trade our calls before others do.</li>
  	<li>Daily premarket watch list.</li>
  	<li>Access to a select group of experienced short sellers and researchers willing to assist your research, due diligence and trading.</li>
@@ -29,7 +29,7 @@ archivedAt: "20201129023959"
  	<li>Monthly Membership - <strong>Cancel anytime</strong></li>
  	<li>Before joining please contact us. research@utopiacap.com.</li>
  	<li>After signing up, please log in <a href="https://utopiacap.slack.com/?redir=%2Fgantry%2Fclient"><strong>here</strong>.</a></li>
-</ul></div><div class="ihc-level-item-bottom"><div onclick="ihcBuyNewLevel('http://web.archive.org/web/20201129023959/https://utopiacap.com/register/?lid=3');" class="ihc-level-item-link " style="cursor: pointer;">Sign Up</div></div></div></div><div class="ihc-level-item"><div class="ihc-level-item-wrap"><div class="ihc-level-item-top"><div class="ihc-level-item-title">Quarterly</div></div><div class="ihc-level-item-price">$1795</div><div class="ihc-level-item-content"><ul>
+</ul></div><div class="ihc-level-item-bottom"><div onclick="ihcBuyNewLevel('http://web.archive.org/web/20201129023959/https://utopiacap.com/register/?lid=3');" class="ihc-level-item-link" style="cursor: pointer;">Sign Up</div></div></div></div><div class="ihc-level-item"><div class="ihc-level-item-wrap"><div class="ihc-level-item-top"><div class="ihc-level-item-title">Quarterly</div></div><div class="ihc-level-item-price">$1795</div><div class="ihc-level-item-content"><ul>
  	<li>Receive our trade alerts, short reports and other content straight to your inbox as soon as published. Take full advantage of trade our calls before others do.</li>
  	<li>Daily premarket watch list.</li>
  	<li>Access to a select group of experienced short sellers and researchers willing to assist your research, due diligence and trading.</li>
@@ -39,7 +39,7 @@ archivedAt: "20201129023959"
  	<li>Quarterly Membership - <strong>Cancel anytime</strong></li>
  	<li>Before joining please contact us. research@utopiacap.com.</li>
  	<li>After signing up, please log in <a href="https://utopiacap.slack.com/?redir=%2Fgantry%2Fclient"><strong>here</strong>.</a></li>
-</ul></div><div class="ihc-level-item-bottom"><div onclick="ihcBuyNewLevel('http://web.archive.org/web/20201129023959/https://utopiacap.com/register/?lid=4');" class="ihc-level-item-link " style="cursor: pointer;">Sign Up</div></div></div></div><div class="ihc-level-item"><div class="ihc-level-item-wrap"><div class="ihc-level-item-top"><div class="ihc-level-item-title">Bi-Annually</div></div><div class="ihc-level-item-price">$3195</div><div class="ihc-level-item-content"><ul>
+</ul></div><div class="ihc-level-item-bottom"><div onclick="ihcBuyNewLevel('http://web.archive.org/web/20201129023959/https://utopiacap.com/register/?lid=4');" class="ihc-level-item-link" style="cursor: pointer;">Sign Up</div></div></div></div><div class="ihc-level-item"><div class="ihc-level-item-wrap"><div class="ihc-level-item-top"><div class="ihc-level-item-title">Bi-Annually</div></div><div class="ihc-level-item-price">$3195</div><div class="ihc-level-item-content"><ul>
  	<li>Receive our trade alerts, short reports and other content straight to your inbox as soon as published. Take full advantage of trade our calls before others do.</li>
  	<li>Daily premarket watch list.</li>
  	<li>Access to a select group of experienced short sellers and researchers willing to assist your research, due diligence and trading.</li>
@@ -49,4 +49,4 @@ archivedAt: "20201129023959"
  	<li>Bi-annual Membership - <strong>Cancel anytime</strong></li>
  	<li>Before joining please contact us. research@utopiacap.com.</li>
  	<li>After signing up, please log in <a href="https://utopiacap.slack.com/?redir=%2Fgantry%2Fclient"><strong>here</strong>.</a></li>
-</ul></div><div class="ihc-level-item-bottom"><div onclick="ihcBuyNewLevel('http://web.archive.org/web/20201129023959/https://utopiacap.com/register/?lid=7');" class="ihc-level-item-link " style="cursor: pointer;">Sign Up</div></div></div></div></div><p></p>
+</ul></div><div class="ihc-level-item-bottom"><div onclick="ihcBuyNewLevel('http://web.archive.org/web/20201129023959/https://utopiacap.com/register/?lid=7');" class="ihc-level-item-link" style="cursor: pointer;">Sign Up</div></div></div></div></div><p></p>

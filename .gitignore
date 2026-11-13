@@ -4,3 +4,7 @@ scripts/recover.state.json
 scripts/recover.log
 scripts/recover.stdout.log
 scripts/cdx.json
+node_modules/
+scripts/*.log
+scripts/*.stdout.log
+scripts/*.state.json
