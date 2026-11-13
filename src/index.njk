@@ -5,42 +5,95 @@ title: null
 <section class="hero-banner">
   <div class="hero-banner-bg" style="background-image: url('/wp-content/uploads/2015/01/Utopia-Background-IGC-2.png');"></div>
   <div class="hero-banner-inner">
-    <h1>Welcome to Utopia Capital Research, where scrutiny meets red flags</h1>
+    <h1><span class="hero-static">Where scrutiny meets</span> <span class="hero-cycle" data-words="red flags.,reversals.,timing."></span></h1>
+    <p class="hero-subtitle">Utopia Capital Research<br>Activist short sellers and veteran traders</p>
   </div>
 </section>
 
-<section class="hero">
-  <p class="tagline">Utopia Capital Research — activist short sellers and veteran traders.</p>
-  <p>Utopia Capital Research is a community of activist short sellers who see the world differently.
-     We focus on countertrend trading of volatile stocks, with an emphasis on small and medium cap US stocks.
-     <a href="/about/">Read more</a>.</p>
+<section class="section-split">
+  <div class="section-split-text">
+    <p class="eyebrow">Who are we?</p>
+    <h2>About us</h2>
+    <span class="divider-line"></span>
+    <p>Utopia Capital Research is a community of activist short sellers who see the world differently.</p>
+    <p>We focus countertrend trading volatile stocks, with an emphasis on small and medium cap US stocks.</p>
+    <a class="btn-readmore" href="/about/">Read more</a>
+  </div>
+  <div class="section-split-photo" style="background-image: url('/wp-content/uploads/2020/08/pexels-energepiccom-159888-scaled-1.jpg');"></div>
 </section>
 
-<section class="teaser">
-  <h2>Blockchain time stamped track record</h2>
-  <p>Since February 2020, we have time stamped over fifty short calls with the help of blockchain technology.
-     As our track record summary shows, the vast majority of these tickers have gone on to experience
-     significant short term price decreases. <a href="/track-record/">Read more</a>.</p>
+<section class="section-split reverse">
+  <div class="section-split-photo contain" style="background-image: url('/wp-content/uploads/2020/09/BC-TR-Graph-Sep10.png');"></div>
+  <div class="section-split-text">
+    <p class="eyebrow">Blockchain time stamped</p>
+    <h2>Track record</h2>
+    <span class="divider-line"></span>
+    <p>Since February 2020, we have time stamped over fifty short calls with the help of blockchain technology. As our track record summary shows, the vast majority of these tickers have gone on to experience significant short term price decreases.</p>
+    <a class="btn-readmore" href="/track-record/">Read more</a>
+  </div>
 </section>
 
-<section class="teaser">
-  <h2>Our service: Membership</h2>
-  <p>Utopia Capital Research provides institutional-grade research that's affordable to the everyday investor.
-     Unlike Wall Street investment banks, we don't get paid by companies to talk about them. Our research takes
-     a forensic approach and focuses on highly volatile US small and medium cap stocks. <a href="/membership/">Read more</a>.</p>
+<section class="section-split">
+  <div class="section-split-text">
+    <p class="eyebrow">Our service</p>
+    <h2>Membership</h2>
+    <span class="divider-line"></span>
+    <p>Utopia Capital Research provides institutional-grade research that's affordable to the everyday investor.</p>
+    <p>Unlike Wall Street investment banks, we don't get paid by companies to talk about them. Our research takes a forensic approach and focuses on highly volatile US small and medium cap stocks.</p>
+    <a class="btn-readmore" href="/membership/">Read more</a>
+  </div>
+  <div class="section-split-photo" style="background-image: url('/wp-content/uploads/2020/08/pexels-lukas-590022-1.png');"></div>
 </section>
 
-<section class="latest">
-  <h2>Latest publications</h2>
-  <ul class="post-list">
-    {% for post in collections.posts %}
-      {% if loop.index <= 15 %}
-      <li>
-        <a href="{{ post.url }}">{{ post.data.title }}</a>
-        <time datetime="{{ post.date | isoDate }}">{{ post.date | postDate }}</time>
-      </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-  <p><a href="/publications/">See all publications →</a></p>
+<section class="publications-dark" style="background-image: url('/wp-content/uploads/2020/08/dtla6thst.jpg');">
+  <div class="publications-dark-inner">
+    <h2>Latest publications</h2>
+    <span class="divider-line light"></span>
+    <ul class="post-list">
+      {% for post in collections.posts %}
+        {% if loop.index <= 15 %}
+        <li>
+          <a href="{{ post.url }}">{{ post.data.title }}</a>
+          <time datetime="{{ post.date | isoDate }}">{{ post.date | postDate }}</time>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    <p><a class="btn-readmore light" href="/publications/">See all publications →</a></p>
+  </div>
 </section>
+
+<script>
+(function () {
+  var el = document.querySelector('.hero-cycle');
+  if (!el) return;
+  var words = (el.getAttribute('data-words') || '').split(',').filter(Boolean);
+  if (!words.length) return;
+  if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    el.textContent = words[0];
+    return;
+  }
+  var wordIndex = 0, charIndex = 0, deleting = false;
+  function tick() {
+    var word = words[wordIndex];
+    if (!deleting) {
+      charIndex++;
+      el.textContent = word.slice(0, charIndex);
+      if (charIndex === word.length) {
+        deleting = true;
+        setTimeout(tick, 1800);
+        return;
+      }
+    } else {
+      charIndex--;
+      el.textContent = word.slice(0, charIndex);
+      if (charIndex === 0) {
+        deleting = false;
+        wordIndex = (wordIndex + 1) % words.length;
+      }
+    }
+    setTimeout(tick, deleting ? 40 : 80);
+  }
+  tick();
+})();
+</script>
