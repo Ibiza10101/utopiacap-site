@@ -1,6 +1,6 @@
 ---
 title: "Predictive Technology: 95%+ Downside on CEO and Former Chairman’s Past Securities Fraud Allegations, Acquisitions That Reek of Insider Self-Dealing and Dubious “Miracle Cure” Sales Tactics"
-date: 2026-02-15
+date: 2019-07-21
 permalink: "/predictive-technology-95-downside-on-ceo-and-former-chairmans-past-securities-fraud-allegations-acquisitions-that-reek-of-insider-self-dealing-and-dubious-miracle-cure-sa/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/predictive-technology-95-downside-on-ceo-and-former-chairmans-past-securities-fraud-allegations-acquisitions-that-reek-of-insider-self-dealing-and-dubious-miracle-cure-sa/"

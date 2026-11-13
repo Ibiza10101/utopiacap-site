@@ -1,6 +1,6 @@
 ---
 title: "Eros International: On-The-Ground Research, Employee Interviews, and Private Company Documents Expose Egregious Accounting Irregularities"
-date: 2026-02-15
+date: 2019-07-21
 permalink: "/eros-international-on-the-ground-research-employee-interviews-and-private-company-documents-expose-egregious-accounting-irregularities/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/eros-international-on-the-ground-research-employee-interviews-and-private-company-documents-expose-egregious-accounting-irregularities/"

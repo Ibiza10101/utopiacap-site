@@ -1,6 +1,6 @@
 ---
 title: "GNUS Trade Alert Genius Brands International Inc 9:55am May 14, 2020"
-date: 2022-07-01
+date: 2020-05-14
 permalink: "/gnus-trade-alert-genius-brands-international-inc-955am-may-14-2020/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/gnus-trade-alert-genius-brands-international-inc-955am-may-14-2020/"

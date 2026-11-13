@@ -1,6 +1,6 @@
 ---
 title: "CYDY Trade Alert CytoDyn Inc. 9:40am April 27, 2020"
-date: 2022-07-01
+date: 2020-04-27
 permalink: "/cydy-trade-alert-cytodyn-inc-940am-april-27-2020/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/cydy-trade-alert-cytodyn-inc-940am-april-27-2020/"

@@ -49,16 +49,21 @@ title: null
   <div class="publications-dark-inner">
     <h2>Latest publications</h2>
     <span class="divider-line light"></span>
-    <ul class="post-list">
+    <div class="pub-grid">
       {% for post in collections.posts %}
-        {% if loop.index <= 15 %}
-        <li>
-          <a href="{{ post.url }}">{{ post.data.title }}</a>
-          <time datetime="{{ post.date | isoDate }}">{{ post.date | postDate }}</time>
-        </li>
+        {% if loop.index <= 8 %}
+        <a class="pub-card" href="{{ post.url }}">
+          {% if post.data.coverImage %}
+          <div class="pub-card-image" style="background-image: url('{{ post.data.coverImage }}');"></div>
+          {% endif %}
+          <div class="pub-card-body">
+            <h3>{{ post.data.title }}</h3>
+            <span class="pub-card-readmore">Read more</span>
+          </div>
+        </a>
         {% endif %}
       {% endfor %}
-    </ul>
+    </div>
     <p><a class="btn-readmore light" href="/publications/">See all publications →</a></p>
   </div>
 </section>

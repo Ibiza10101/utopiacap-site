@@ -1,6 +1,6 @@
 ---
 title: "Sky Solar: Court Records Show That Lender Already Withdrew Buyout Proposal But Retail Investors Don’t Seem To Realize It Yet"
-date: 2026-02-15
+date: 2019-07-21
 permalink: "/sky-solar-court-records-show-that-lender-already-withdrew-buyout-proposal-but-retail-investors-dont-seem-to-realize-it-yet/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/sky-solar-court-records-show-that-lender-already-withdrew-buyout-proposal-but-retail-investors-dont-seem-to-realize-it-yet/"

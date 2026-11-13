@@ -5,6 +5,7 @@ permalink: "/2021/02/19/alpha-capital-anstalt/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/2021/02/19/alpha-capital-anstalt/"
 archivedAt: "20210219150556"
+coverImage: "/wp-content/uploads/2021/02/400e2-18481.jpg"
 ---
 
 <div class="recovered-images">

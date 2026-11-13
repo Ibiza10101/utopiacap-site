@@ -5,6 +5,7 @@ permalink: "/2021/04/05/aspire-capital/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/2021/04/05/aspire-capital/"
 archivedAt: "20210405163750"
+coverImage: "/wp-content/uploads/2021/04/Aspire-Capital-featured-image.jpg"
 ---
 
 <div class="recovered-images">
