@@ -81,7 +81,7 @@ h2 { font-size: 1.3rem; margin-top: 2rem; }
   position: absolute;
   inset: 0;
   background-size: cover;
-  background-position: center;
+  background-position: 72% center;
 }
 @media (prefers-reduced-motion: no-preference) {
   .hero-banner-bg {
