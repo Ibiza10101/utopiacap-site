@@ -1,0 +1,18 @@
+---
+layout: base.njk
+---
+<article class="post">
+  <p class="post-meta">
+    <time datetime="{{ page.date | isoDate }}">{{ page.date | postDate }}</time>
+    {% if category %} · <span class="post-category">{{ category }}</span>{% endif %}
+  </p>
+  <h1>{{ title }}</h1>
+  <div class="post-body">
+    {{ content | safe }}
+  </div>
+  <p class="post-disclaimer">
+    This is commentary and opinion, not investment advice. The author(s) may hold a position
+    in the security discussed and may profit if its price moves favorably to that position.
+    See our <a href="/legal-disclaimer/">full disclaimer</a>.
+  </p>
+</article>

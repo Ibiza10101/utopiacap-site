@@ -1,0 +1,15 @@
+{
+  "name": "utopiacap-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "recover": "node scripts/recover.mjs"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "cheerio": "^1.2.0"
+  }
+}

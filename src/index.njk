@@ -1,0 +1,26 @@
+---
+layout: base.njk
+title: null
+---
+<section class="hero">
+  <h1>Where scrutiny meets red flags, reversals, timing.</h1>
+  <p class="tagline">Utopia Capital Research — activist short sellers and veteran traders.</p>
+  <p>We're a community of countertrend traders focused on volatile small and mid-cap US equities.
+     We don't get paid by companies to talk about them. <a href="/about/">Read more about us</a>
+     or see our <a href="/track-record/">blockchain-timestamped track record</a>.</p>
+</section>
+
+<section class="latest">
+  <h2>Latest publications</h2>
+  <ul class="post-list">
+    {% for post in collections.posts %}
+      {% if loop.index <= 15 %}
+      <li>
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
+        <time datetime="{{ post.date | isoDate }}">{{ post.date | postDate }}</time>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  <p><a href="/publications/">See all publications →</a></p>
+</section>

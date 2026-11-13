@@ -1,0 +1,115 @@
+:root {
+  --bg: #0f1115;
+  --bg-elevated: #161922;
+  --text: #e8e6e1;
+  --text-muted: #9a9a9a;
+  --accent: #c99a3f;
+  --border: #2a2d36;
+  --link: #e0b35c;
+  --danger: #c75146;
+  --max-width: 760px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: Georgia, 'Times New Roman', serif;
+  line-height: 1.6;
+}
+
+.wrap {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 1.25rem;
+}
+
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  background: var(--bg-elevated);
+}
+.site-header .wrap {
+  max-width: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.site-header .brand {
+  font-size: 1.25rem;
+  font-weight: bold;
+  letter-spacing: 0.02em;
+  color: var(--text);
+}
+.site-header nav {
+  display: flex;
+  gap: 1.1rem;
+  flex-wrap: wrap;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.9rem;
+}
+
+main.wrap { padding-top: 2.5rem; padding-bottom: 3rem; }
+
+h1 { font-size: 1.9rem; line-height: 1.25; margin: 0 0 0.75rem; }
+h2 { font-size: 1.3rem; margin-top: 2rem; }
+
+.hero .tagline {
+  font-family: Helvetica, Arial, sans-serif;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.85rem;
+  margin-top: 0;
+}
+
+.post-list { list-style: none; padding: 0; margin: 0; }
+.post-list li {
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.post-list time, .post-category {
+  color: var(--text-muted);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.post-meta {
+  font-family: Helvetica, Arial, sans-serif;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.post-body img { max-width: 100%; height: auto; }
+.post-body { word-wrap: break-word; }
+
+.post-disclaimer {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
