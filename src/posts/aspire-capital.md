@@ -6,6 +6,12 @@ layout: post.njk
 sourceUrl: "https://utopiacap.com/2021/04/05/aspire-capital/"
 archivedAt: "20210405163750"
 ---
+
+<div class="recovered-images">
+<img src="/wp-content/uploads/2021/02/122Aspire-IBIO.png" loading="lazy" style="max-width:100%;height:auto;">
+<img src="/wp-content/uploads/2021/04/Aspire-Capital-featured-image.jpg" loading="lazy" style="max-width:100%;height:auto;">
+</div>
+
 <div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-0 fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:0px;margin-bottom:20px;"><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url=""><div class="fusion-text"><ul>
 <li><span style="color: #000000;"><strong> Several of the companies Aspire Capital Partners has been involved with raise several red flags.<br>
 </strong></span></li>

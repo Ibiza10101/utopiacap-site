@@ -6,6 +6,11 @@ layout: post.njk
 sourceUrl: "https://utopiacap.com/2020/02/18/agrx/"
 archivedAt: "20200505233027"
 ---
+
+<div class="recovered-images">
+<img src="/wp-content/uploads/2020/02/AGRX_candles.png" loading="lazy" style="max-width:100%;height:auto;">
+</div>
+
 <div class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"></div><div class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2 fusion-builder-column-2 fusion-one-half fusion-column-first 1_2" style="margin-top:0px;margin-bottom:20px;width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;">
 					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
 						<div class="fusion-text"><hr>

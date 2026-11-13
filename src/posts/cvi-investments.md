@@ -6,6 +6,14 @@ layout: post.njk
 sourceUrl: "https://utopiacap.com/2020/04/21/cvi-investments/"
 archivedAt: "20200506012650"
 ---
+
+<div class="recovered-images">
+<img src="/wp-content/uploads/2020/04/CVI-featured-image.png" loading="lazy" style="max-width:100%;height:auto;">
+<img src="/wp-content/uploads/2020/04/CVI-Index.png" loading="lazy" style="max-width:100%;height:auto;">
+<img src="/wp-content/uploads/2020/04/CVI-SAVA-long-term.png" loading="lazy" style="max-width:100%;height:auto;">
+<img src="/wp-content/uploads/2020/04/CVI_TNXP.png" loading="lazy" style="max-width:100%;height:auto;">
+</div>
+
 <p></p><ul>
  	<li><strong>Several of the companies CVI Investments has been involved with raise several red flags. Examples include: SAVA, CODX, INPX and TNXP.
 </strong></li>

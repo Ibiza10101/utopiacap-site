@@ -6,6 +6,11 @@ layout: post.njk
 sourceUrl: "https://utopiacap.com/2020/03/20/hudson-bay-capital-management/"
 archivedAt: "20200519154939"
 ---
+
+<div class="recovered-images">
+<img src="/wp-content/uploads/2020/03/Hudson_Bay_SAVA_1.png" loading="lazy" style="max-width:100%;height:auto;">
+</div>
+
 <p></p><ul>
  	<li><strong>Hudson Bay Capital Management is a fund that has previously settled SEC charges for securities laws violations and has been linked to an ongoing investigation relating to an alleged pump and dump ring. </strong></li>
  	<li><strong> Several of the companies Hudson Bay Capital Management has been involved with raise many red flags. Examples include: FCEL and SAVA. </strong></li>

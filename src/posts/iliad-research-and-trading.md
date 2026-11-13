@@ -6,6 +6,13 @@ layout: post.njk
 sourceUrl: "https://utopiacap.com/2020/03/18/iliad-research-and-trading/"
 archivedAt: "20200514145015"
 ---
+
+<div class="recovered-images">
+<img src="/wp-content/uploads/2020/03/Iliad_featured_image.png" loading="lazy" style="max-width:100%;height:auto;">
+<img src="/wp-content/uploads/2020/03/Iliad_index.png" loading="lazy" style="max-width:100%;height:auto;">
+<img src="/wp-content/uploads/2020/03/Iliad_INPX.png" loading="lazy" style="max-width:100%;height:auto;">
+</div>
+
 <p></p><ul>
  	<li><strong>Iliad Research and trading L.P. is arguably one of the most prolific so-called “toxic lenders” currently operating in the realm of small/micro/nano caps.</strong></li>
  	<li><strong>Several of the companies Iliad Research and Trading has been involved with raise several red flags. Examples include: CYDY and INPX.</strong></li>

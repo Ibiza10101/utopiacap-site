@@ -6,6 +6,11 @@ layout: post.njk
 sourceUrl: "https://utopiacap.com/2020/11/06/sava/"
 archivedAt: "20201106210713"
 ---
+
+<div class="recovered-images">
+<img src="/wp-content/uploads/apollo13_images/26dfb-sava-candles-7qyh1p2v4dlapjk6r9420idch3he9t8kl6.png" loading="lazy" style="max-width:100%;height:auto;">
+</div>
+
 <div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-0 fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:0px;margin-bottom:20px;"><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url=""><div class="fusion-text"><ul>
 <li><strong>Cassava Sciences Inc, can be described as another bio zombie with a “colourful” history, plodding along via toxic/dilutive financing.</strong></li>
 <li><strong> Some of the most notorious so-called “vulture” funds have been involved with the company over the last couple of years.</strong></li>

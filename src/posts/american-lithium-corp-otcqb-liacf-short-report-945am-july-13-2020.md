@@ -6,6 +6,11 @@ layout: post.njk
 sourceUrl: "https://utopiacap.com/2020/07/13/american-lithium-corp-otcqb-liacf-short-report-945am-july-13-2020/"
 archivedAt: "20200814180544"
 ---
+
+<div class="recovered-images">
+<img src="/wp-content/uploads/2020/07/LIACF_candles_2.png" loading="lazy" style="max-width:100%;height:auto;">
+</div>
+
 <div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2 fusion-builder-column-0 fusion-one-half fusion-column-first 1_2" style="margin-top:0px;margin-bottom:20px;width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;"><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url=""><div class="fusion-text"><hr>
 <h4>Intro:</h4>
 <p>Over the last couple of months American Lithium Corp.’s stock (OTCQB: LIACF) has enjoyed over an eight fold increase in its price and daily record trading volumes were set last week on Wednesday, Thursday and Friday. Given this somewhat common (in this day and age of “unorthodox” quantitative easing) market activity we decided to take a closer look at LIACF and unsurprisingly we found enough red flags to warrant putting out a short report. These red flags include: poor financials,&nbsp; paid promotion, severe dilution, an abundance of recently issued cheap shares and warrants.</p>

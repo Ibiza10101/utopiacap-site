@@ -6,6 +6,11 @@ layout: post.njk
 sourceUrl: "https://utopiacap.com/2019/08/02/tivo-corp-nasdaq-tivo-recently-promoted-colourful-past-shareholder-with-a-track-record-of-expensive-lawsuit-settlements/"
 archivedAt: "20191113073941"
 ---
+
+<div class="recovered-images">
+<img src="/wp-content/uploads/2019/08/TIVO-candles.png" loading="lazy" style="max-width:100%;height:auto;">
+</div>
+
 <div class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-1 fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:0px;margin-bottom:20px;">
 					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
 						<div class="fusion-text"><p>A stock recently featured on a promotion newsletter (this feature was not paid for) (1). TiVo Corp. describes itself as a “global leader in media and entertainment products that power consumer entertainment experiences and enable its customers to deepen and further monetize their audience relationships.” It came into inception on April 2016, when TiVo Inc. and Rovi Corp. merged through Rovi’s acquisition TiVo. Rovi’s is no stranger to controversy. In 2015, Christian Keller. Rovi’s vice president of corporate finance was sued by the SEC for insider trading for his dealings with John Gray (2), an equities researcher for a major brokerage firm. Keller and Gray were subsequently charged with conspiracy and securities fraud (3).</p>

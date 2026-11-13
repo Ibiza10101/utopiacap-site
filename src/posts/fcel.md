@@ -6,6 +6,11 @@ layout: post.njk
 sourceUrl: "https://utopiacap.com/2020/01/02/fcel/"
 archivedAt: "20200619161853"
 ---
+
+<div class="recovered-images">
+<img src="/wp-content/uploads/apollo13_images/b05fc-fcel-2-candles-7qyh1q51s3md03gzgfanczw0xx3xc27mgy.png" loading="lazy" style="max-width:100%;height:auto;">
+</div>
+
 <div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"></div><div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2 fusion-builder-column-1 fusion-one-half fusion-column-first 1_2" style="margin-top:0px;margin-bottom:20px;width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;"><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url=""><div class="fusion-text"><hr>
 <h4>Intro:</h4>
 <p>Like most of the tickers featured in our short reports FCEL has exhibited a combination of a drastic price increase (a near ten-fold price increase over the last 2 months), trading volume substantially above the 30-day daily average (151.5 million vs 25.7 million) and high RSI (92). One might argue that this is not a particularly strange occurrence in the world of small caps but upon further inspection we have found enough red flags to bring them to the public’s attention. FCEL exhibits a combination of extreme dilution over the last 5 months, unsustainable levels of debt (part of which comes from a “spiral of death” creditor) and a shareholder that has been in trouble with the SEC because of its alleged involvement with a pump and dump ring.</p>

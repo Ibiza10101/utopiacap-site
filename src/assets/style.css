@@ -93,6 +93,19 @@ h2 { font-size: 1.3rem; margin-top: 2rem; }
   white-space: nowrap;
 }
 
+.recovered-images {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+.recovered-images img {
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  max-height: 420px;
+  width: auto;
+}
+
 .post-meta {
   font-family: Helvetica, Arial, sans-serif;
   color: var(--text-muted);

@@ -6,6 +6,14 @@ layout: post.njk
 sourceUrl: "https://utopiacap.com/2019/10/09/dcgd-part-3/"
 archivedAt: "20191113063928"
 ---
+
+<div class="recovered-images">
+<img src="/wp-content/uploads/2019/08/DCGD-candles-aug-7th.png" loading="lazy" style="max-width:100%;height:auto;">
+<img src="/wp-content/uploads/2019/08/DCGD-candles-aug-8th.png" loading="lazy" style="max-width:100%;height:auto;">
+<img src="/wp-content/uploads/2019/10/DCGD-candles-oct-10th.png" loading="lazy" style="max-width:100%;height:auto;">
+<img src="/wp-content/uploads/2019/11/DCGD-costello-trial-feb-2020.png" loading="lazy" style="max-width:100%;height:auto;">
+</div>
+
 <div class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-1 fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:0px;margin-bottom:20px;">
 					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
 						<div class="fusion-text"><p>Discovery Gold Corp. (DCGD) has been quite the roller-coaster over the last couple of months as shown by its share price volatility. This comes as no surprise given the strong contrasts that exists between the statements made by the new owners/management and recent filings as well as the findings of Utopia Capital and other researchers.</p>

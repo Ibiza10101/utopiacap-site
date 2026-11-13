@@ -6,6 +6,11 @@ layout: post.njk
 sourceUrl: "https://utopiacap.com/2019/07/30/smith-micro-software-inc-nasdaq-smsi-previous-class-action-lawsuit-shareholders-named-in-recent-fraud-lawsuit/"
 archivedAt: "20191113063946"
 ---
+
+<div class="recovered-images">
+<img src="/wp-content/uploads/2019/07/SMSI-candles.png" loading="lazy" style="max-width:100%;height:auto;">
+</div>
+
 <div class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-1 fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:0px;margin-bottom:20px;">
 					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
 						<div class="fusion-text"><p>A software developer and a recently promoted stock (1), its shares saw a price increase of over 70% between July 25<sup>th</sup> and July 29<sup>th</sup> 2019. Their past is a bit colourful, they were subject a stock fraud class action lawsuit (2) which was filed by their shareholders in November 2010 and alleged SMSI had “issued materially false and misleading statements regarding the Company’s business prospects and financial results” .</p>

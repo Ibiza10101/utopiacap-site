@@ -6,6 +6,13 @@ layout: post.njk
 sourceUrl: "https://utopiacap.com/2020/03/25/sabby-management/"
 archivedAt: "20200520121356"
 ---
+
+<div class="recovered-images">
+<img src="/wp-content/uploads/2020/03/Sabby-Index-1-1.png" loading="lazy" style="max-width:100%;height:auto;">
+<img src="/wp-content/uploads/2020/03/Sabby-Index-2-1.png" loading="lazy" style="max-width:100%;height:auto;">
+<img src="/wp-content/uploads/2020/03/Sabby-SEC-lawsuit.png" loading="lazy" style="max-width:100%;height:auto;">
+</div>
+
 <p></p><ul>
  	<li><strong>Sabby Management LLC is arguably one of the most prolific so-called “vulture funds” currently operating in the realm of small/micro/nano caps. </strong></li>
  	<li><strong> Several of the companies Sabby Management has been involved with raise several red flags. Examples include: INXP, CODX and GNPX. </strong></li>

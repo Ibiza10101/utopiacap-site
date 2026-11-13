@@ -6,6 +6,14 @@ layout: post.njk
 sourceUrl: "https://utopiacap.com/2020/08/17/iroquois-capital-management-llc/"
 archivedAt: "20200924215448"
 ---
+
+<div class="recovered-images">
+<img src="/wp-content/uploads/2020/08/Iroquois-featured-image.png" loading="lazy" style="max-width:100%;height:auto;">
+<img src="/wp-content/uploads/2020/08/Iroquois-TNXP-long-term.png" loading="lazy" style="max-width:100%;height:auto;">
+<img src="/wp-content/uploads/2020/08/Iroquois-TNXP-spike.png" loading="lazy" style="max-width:100%;height:auto;">
+<img src="/wp-content/uploads/2020/08/Iroquois-XSPA-short-term-spike.png" loading="lazy" style="max-width:100%;height:auto;">
+</div>
+
 <div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-0 fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:0px;margin-bottom:20px;"><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url=""><div class="fusion-text"><ul>
 <li><span style="color: #000000;"><strong> Several of the companies Iroquois Capital Management LLC has been involved with raise several red flags. Examples include: XSPA, GNUS and TNXP.<br>
 </strong></span></li>
