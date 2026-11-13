@@ -70,14 +70,30 @@ h1 { font-size: 1.9rem; line-height: 1.25; margin: 0 0 0.75rem; }
 h2 { font-size: 1.3rem; margin-top: 2rem; }
 
 .hero-banner {
+  position: relative;
   width: 100vw;
   margin-left: calc(-50vw + 50%);
   margin-bottom: 2.5rem;
+  background-color: #000;
+  overflow: hidden;
+}
+.hero-banner-bg {
+  position: absolute;
+  inset: 0;
   background-size: cover;
   background-position: center;
-  background-color: #000;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .hero-banner-bg {
+    animation: hero-banner-pan 18s ease-in-out infinite alternate;
+  }
+}
+@keyframes hero-banner-pan {
+  from { transform: scale(1); }
+  to { transform: scale(1.12); }
 }
 .hero-banner-inner {
+  position: relative;
   max-width: var(--max-width);
   margin: 0 auto;
   padding: 5rem 1.25rem;
