@@ -41,7 +41,11 @@ export default function (eleventyConfig) {
     const [day, month, year] = dateStr.split('/').map(Number);
     if (!day || !month || !year) return null;
     const target = `${year}-${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
-    const safeTicker = ticker.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    // Rows for a repeated ticker are disambiguated with a trailing " N" or
+    // "*" in the recovered table (e.g. "CYDY 4", "XSPA*") -- strip that back
+    // off before matching, since no post title contains that suffix.
+    const baseTicker = ticker.replace(/\s+\d+$/, '').replace(/\*+$/, '');
+    const safeTicker = baseTicker.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     const tickerRe = new RegExp(`\\b${safeTicker}\\b`);
 
     const byDate = (iso) => posts.filter((p) => {

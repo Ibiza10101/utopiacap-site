@@ -454,6 +454,8 @@ body.publications-page main.wrap { max-width: 1100px; }
 .post-body img { max-width: 100%; height: auto; }
 .post-body { word-wrap: break-word; }
 
+.track-record-page main.wrap { max-width: 1180px; }
+
 .track-table-wrap {
   overflow-x: auto;
   margin: 1.5rem 0;
@@ -468,7 +470,7 @@ body.publications-page main.wrap { max-width: 1100px; }
   white-space: nowrap;
 }
 .track-table th, .track-table td {
-  padding: 0.5rem 0.6rem;
+  padding: 0.5rem 0.5rem;
   border-bottom: 1px solid var(--border);
   text-align: left;
 }
