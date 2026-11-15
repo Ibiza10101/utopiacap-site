@@ -61,7 +61,7 @@ archivedAt: "20200814175432"
 <div class="caption">
 <div class="fusion-title-sc-wrapper fusion-block-element">
 <div class="fusion-title title fusion-title-2 fusion-title-center fusion-title-size-three fusion-border-below-title">
-<p><strong><span style="color: #008000;">Utopia Cap’s Short seller Academy is focused on the short side of trading. Through years of constant monitoring and trading of the American stock market, our members have acquired a wealth of knowledge that has allowed them to device various methods of shorting opportunity identification and trading. Our approach leans heavily on extensive due diligence and in-depth research and seeks to expose potential fraud and criminal activity, something we take great pride in.</span> For More information on how to JOIN US -&gt; <a href="/premium-service/" target="_blank" rel="noopener noreferrer">Short seller Academy</a></strong></p>
+<p><strong><span style="color: #008000;">Utopia Cap’s Short seller Academy is focused on the short side of trading. Through years of constant monitoring and trading of the American stock market, our members have acquired a wealth of knowledge that has allowed them to device various methods of shorting opportunity identification and trading. Our approach leans heavily on extensive due diligence and in-depth research and seeks to expose potential fraud and criminal activity, something we take great pride in.</span> For More information on how to JOIN US -&gt; <a href="/membership/" class="join-cta">Short seller Academy</a></strong></p>
 </div>
 </div>
 </div>

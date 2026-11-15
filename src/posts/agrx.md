@@ -88,7 +88,7 @@ archivedAt: "20200505233027"
 </div><div class="fusion-text"><hr>
 <h2>GET OUR LATEST REPORTS AND TRADE ALERTS DELIVERED TO YOUR INBOX</h2>
 </div><div class="fusion-text"><hr>
-<h3>If you found this short report useful please consider <a href="/premium/"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
+<h3>If you found this short report useful please consider <a href="/membership/" class="join-cta"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
 <hr>
 </div><div class="fusion-text"><ol>
 <li><a href="https://www.sec.gov/Archives/edgar/data/1587221/000119312515239447/d949285d8k.htm">https://www.sec.gov/Archives/edgar/data/1587221/000119312515239447/d949285d8k.htm</a></li>

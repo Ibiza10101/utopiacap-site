@@ -81,7 +81,7 @@ archivedAt: "20200307103531"
 <h4>Opinion:</h4>
 <p>INPX is an awful investment. The combination of terrible financials, extreme dilution that has been largely the result of dealings with what appears to be a dubious lender and a questionable underwriter, should make most reasonable folk feel quite apprehensive. Stay away from this company’s shares unless you are trader with experience in dealing with this type of tickers.</p>
 </div><div class="fusion-text"><hr>
-<h3>If you found this short report useful please consider <a href="/premium/"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
+<h3>If you found this short report useful please consider <a href="/membership/" class="join-cta"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
 <hr>
 </div><div class="fusion-text"><ol>
 <li><a href="https://www.streetinsider.com/Corporate+News/Inpixon+%28INPX%29+Board+Approves+1-for-40+Reverse+Stock+Split/14773382.html">https://www.streetinsider.com/Corporate+News/Inpixon+%28INPX%29+Board+Approves+1-for-40+Reverse+Stock+Split/14773382.html</a></li>

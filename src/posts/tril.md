@@ -73,7 +73,7 @@ archivedAt: "20200211213756"
 <h4>Opinion:</h4>
 <p>In conclusion, TRIL does not look like a good investment. The combination of a recent corporate restructuring that halved the workforce along with significant dilution and the involvement of suspicious institutional shareholders over the last year, is (in our opinion) a strong indication that things are likely to get worse before they get better. We thus advise investors to stay away from this company and advise traders to tread very carefully unless they have experience with this type of tickers.</p>
 </div><div class="fusion-text"><hr>
-<h3>If you found this short report useful please consider <a href="/premium/"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
+<h3>If you found this short report useful please consider <a href="/membership/" class="join-cta"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
 <hr>
 </div><div class="fusion-text"><ol>
 <li style="list-style-type: none;">

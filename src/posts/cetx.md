@@ -70,7 +70,7 @@ archivedAt: "20200215125806"
 <h4>Opinion:</h4>
 <p>CETX is not a good investment. The combination of worsening financials, dilution, revere splits, management that has settled securities class action lawsuits for hundreds of thousands of dollars and shareholders that have been involved with other dubious tickers, should give any investor/trader reasons to be wary. Stay away from this ticker unless you are an experienced trader.</p>
 </div><div class="fusion-text"><hr>
-<h3>If you found this short report useful please consider <a href="/premium/"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
+<h3>If you found this short report useful please consider <a href="/membership/" class="join-cta"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
 <hr>
 </div><div class="fusion-text"><ol>
 <li><a href="https://sec.report/Document/0001493152-20-000576/#gg_003">https://sec.report/Document/0001493152-20-000576/#gg_003</a></li>

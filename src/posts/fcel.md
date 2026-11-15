@@ -61,7 +61,7 @@ archivedAt: "20200619161853"
 <h4>Opinion:</h4>
 <p>FCEL is certainly not a good investment. It is basically a company that is financially distressed and has been taken advantage of by what appears to be an unscrupulous creditor, resulting in obscene levels of dilution and the involvement of a shareholder that has a poor track record as far as securities laws violations go. Stay away unless you have extensive experience trading this type of tickers.</p>
 </div><div class="fusion-text"><hr>
-<h3>If you found this short report useful please consider <a href="/premium/"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
+<h3>If you found this short report useful please consider <a href="/membership/" class="join-cta"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
 <hr>
 </div><div class="fusion-text"><ol>
 <li><a href="https://www.otcmarkets.com/filing/html?id=13791364&amp;guid=zkwjUHuCxwMOEth">https://www.otcmarkets.com/filing/html?id=13791364&amp;guid=zkwjUHuCxwMOEth</a></li>

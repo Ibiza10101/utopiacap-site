@@ -46,7 +46,7 @@ archivedAt: "20200514102119"
 <h4>Opinion</h4>
 <p>TNXP is a horrific investment. Its involvement with several dubious institutional shareholders (many of which have been in serious trouble with the SEC), lousy financials and obscene levels of dilution are big red flags. Stay away from this ticker unless you are an experienced short seller.</p>
 </div><div class="fusion-text"><hr>
-<h3>Through invitation-only and member publications, Utopia Capital Research fosters a community of intelligent investors united by a passion of lifelong learning and critical thinking. For more information on how to become a member of community click here: <a href="/premium-service/" target="_blank" rel="noopener noreferrer">Waiting List</a></h3>
+<h3>Through invitation-only and member publications, Utopia Capital Research fosters a community of intelligent investors united by a passion of lifelong learning and critical thinking. For more information on how to become a member of community click here: <a href="/membership/" class="join-cta">Waiting List</a></h3>
 <hr>
 </div><div class="fusion-text"><hr>
 <ol>

@@ -67,7 +67,7 @@ archivedAt: "20191113073750"
 <p>QALB fits the description of a shell, as shown by its financials over the last three years. Furthermore, it appears that its directors don’t have a track record of success as shown by their links to a now defunct company that was deemed delinquent in its reporting by the SEC in 2014. And last but not least, its transfer agent played a role in a high-profile pump and dump scheme by enabling the sale of unregistered shares.</p>
 <p>We thus advise longs to stay away from it and see a high likelihood of profits being made through short selling, provided the right conditions are met over the coming days.</p>
 </div><div class="fusion-text"><hr>
-<h3>If you found this short report useful please consider <a href="/premium/"><span style="color: #00ff00;"><strong>signing up</strong></span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
+<h3>If you found this short report useful please consider <a href="/membership/" class="join-cta"><span style="color: #00ff00;"><strong>signing up</strong></span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
 <hr>
 </div>
 

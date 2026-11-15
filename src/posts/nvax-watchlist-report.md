@@ -52,7 +52,7 @@ archivedAt: "20210226103821"
 <h4>Opinion:</h4>
 <p>NVAX does not look like a good investment. Its recent price run does not reflect the serious issues this company is currently facing. Dwindling revenues, imposing debt levels, huge annual losses, a recent history of Phase 3 clinical trial failures and a reliance on dilution to stay afloat is combination that should make everyone wary. <span style="color: #ff0000;">We recommend everyone to stay away from this ticker for the meantime, but we do recommend it be added to your short selling watchlist. It might be a good short if price per share exceeds £10.</span></p>
 </div><div class="fusion-text"><hr>
-<h3>If you found this watchlist report useful please consider <a href="/premium/"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
+<h3>If you found this watchlist report useful please consider <a href="/membership/" class="join-cta"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
 <hr>
 </div><div class="fusion-text"><ol>
 <li><a href="https://www.marketwatch.com/story/experimental-vaccine-stocks-jump-on-concerns-about-new-virus-in-china-2020-01-21?siteid=yhoof2&amp;yptr=yahoo">https://www.marketwatch.com/story/experimental-vaccine-stocks-jump-on-concerns-about-new-virus-in-china-2020-01-21?siteid=yhoof2&amp;yptr=yahoo</a></li>

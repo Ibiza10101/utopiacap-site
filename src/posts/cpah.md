@@ -74,7 +74,7 @@ archivedAt: "20200305124617"
 <h4>Opinion:</h4>
 <p>CPAH does not look like a good investment. The combination of “pump” newsletters, ever increasing debts, insiders registering shares for sale (namely the CFO) and an drastic share price and volume increase, does not bode well at all and is eerily similar to a “P&amp;D” set up. Stay away from this one unless you are an experienced trader.</p>
 </div><div class="fusion-text"><hr>
-<h3>If you found this short report useful please consider <a href="/premium/"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
+<h3>If you found this short report useful please consider <a href="/membership/" class="join-cta"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
 <hr>
 </div><div class="fusion-text"><ol>
 <li><a href="https://www.otcmarkets.com/filing/html?id=13534136&amp;guid=ogmjUeKdSJWUb3h#FORM10K_HTM_PAGE_5">https://www.otcmarkets.com/filing/html?id=13534136&amp;guid=ogmjUeKdSJWUb3h#FORM10K_HTM_PAGE_5</a></li>

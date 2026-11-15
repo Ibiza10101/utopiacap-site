@@ -78,7 +78,7 @@ archivedAt: "20200506060752"
 </div><div class="fusion-text"><hr>
 <h2>GET OUR LATEST REPORTS AND TRADE ALERTS DELIVERED TO YOUR INBOX</h2>
 </div><div class="fusion-text"><hr>
-<h3>Through invitation-only and member publications, Utopia Capital Research fosters a community of intelligent investors united by a passion of lifelong learning and critical thinking. For more information on how to become a member of community click here: <span style="color: #00ff00;"><a style="color: #00ff00;" href="/premium-service/" target="_blank" rel="noopener noreferrer">Waiting List</a></span></h3>
+<h3>Through invitation-only and member publications, Utopia Capital Research fosters a community of intelligent investors united by a passion of lifelong learning and critical thinking. For more information on how to become a member of community click here: <span style="color: #00ff00;"><a style="color: #00ff00;" href="/membership/" class="join-cta">Waiting List</a></span></h3>
 <hr>
 </div><div class="fusion-text"><ol>
 <li><a href="https://www.otcmarkets.com/filing/html?id=14025867&amp;guid=BofWUp4gOAthmth">https://www.otcmarkets.com/filing/html?id=14025867&amp;guid=BofWUp4gOAthmth</a></li>

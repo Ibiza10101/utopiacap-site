@@ -14,7 +14,7 @@ archivedAt: "20191215085527"
 <div class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-1 fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:0px;margin-bottom:20px;">
 					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
 						<div class="fusion-text"><hr>
-<h3>If you find this short report useful please consider <a href="/premium/"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
+<h3>If you find this short report useful please consider <a href="/membership/" class="join-cta"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
 </div>
 
 					</div>
@@ -81,7 +81,7 @@ archivedAt: "20191215085527"
 <h4>Opinion:</h4>
 <p>NEXCF raises a few red flags and these flags are big. A financially distressed company with dubious directors that is issuing shares left right and centre at a fraction of the current trading price in order to finance every single aspect of its operations as well as paying tens of thousands of dollars for the promotion of its shares.&nbsp; We thus advise investors to stay away from NEXCF and believe that profits can be made on the short side provided the proper circumstances present themselves over the coming days.</p>
 </div><div class="fusion-text"><hr>
-<h3>If you found this short report useful please consider <a href="/premium/"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
+<h3>If you found this short report useful please consider <a href="/membership/" class="join-cta"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
 <hr>
 </div>
 
