@@ -1,189 +1,219 @@
 [
   {
+    "canonicalPath": "/wp-content/uploads/2020/02/AGRX_candles.png",
+    "ts": "20200505233027",
+    "variants": [
+      "/wp-content/uploads/2020/02/AGRX_candles.png"
+    ]
+  },
+  {
     "canonicalPath": "/wp-content/uploads/2020/02/AGRX_financials-1.png",
     "ts": "20200505233027",
     "variants": [
-      "/wp-content/uploads/2020/02/AGRX_financials-1-200x41.png",
-      "/wp-content/uploads/2020/02/AGRX_financials-1.png",
-      "/wp-content/uploads/2020/02/AGRX_financials-1-400x81.png",
-      "/wp-content/uploads/2020/02/AGRX_financials-1-600x122.png",
-      "/wp-content/uploads/2020/02/AGRX_financials-1-800x163.png"
+      "/wp-content/uploads/2020/02/AGRX_financials-1.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/AGRX_Hercules_1.png",
     "ts": "20200505233027",
     "variants": [
-      "/wp-content/uploads/2020/02/AGRX_Hercules_1-200x40.png",
-      "/wp-content/uploads/2020/02/AGRX_Hercules_1.png",
-      "/wp-content/uploads/2020/02/AGRX_Hercules_1-400x81.png",
-      "/wp-content/uploads/2020/02/AGRX_Hercules_1-600x121.png",
-      "/wp-content/uploads/2020/02/AGRX_Hercules_1-800x162.png"
+      "/wp-content/uploads/2020/02/AGRX_Hercules_1.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/AGRX_flags.png",
     "ts": "20200505233027",
     "variants": [
-      "/wp-content/uploads/2020/02/AGRX_flags-200x198.png",
-      "/wp-content/uploads/2020/02/AGRX_flags.png",
-      "/wp-content/uploads/2020/02/AGRX_flags-400x395.png",
-      "/wp-content/uploads/2020/02/AGRX_flags-600x593.png"
+      "/wp-content/uploads/2020/02/AGRX_flags.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/04/AKER_candles.png",
+    "ts": "20200506060752",
+    "variants": [
+      "/wp-content/uploads/2020/04/AKER_candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/04/AKER-financials.png",
     "ts": "20200506060752",
     "variants": [
-      "/wp-content/uploads/2020/04/AKER-financials-200x44.png",
-      "/wp-content/uploads/2020/04/AKER-financials.png",
-      "/wp-content/uploads/2020/04/AKER-financials-400x89.png",
-      "/wp-content/uploads/2020/04/AKER-financials-600x133.png"
+      "/wp-content/uploads/2020/04/AKER-financials.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/04/AKER_MIPA.png",
     "ts": "20200506060752",
     "variants": [
-      "/wp-content/uploads/2020/04/AKER_MIPA-200x170.png",
-      "/wp-content/uploads/2020/04/AKER_MIPA.png",
-      "/wp-content/uploads/2020/04/AKER_MIPA-400x339.png",
-      "/wp-content/uploads/2020/04/AKER_MIPA-600x509.png",
-      "/wp-content/uploads/2020/04/AKER_MIPA-800x679.png"
+      "/wp-content/uploads/2020/04/AKER_MIPA.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/04/AKER-lawsuit.png",
     "ts": "20200506060752",
     "variants": [
-      "/wp-content/uploads/2020/04/AKER-lawsuit-200x97.png",
-      "/wp-content/uploads/2020/04/AKER-lawsuit.png",
-      "/wp-content/uploads/2020/04/AKER-lawsuit-400x194.png",
-      "/wp-content/uploads/2020/04/AKER-lawsuit-600x292.png",
-      "/wp-content/uploads/2020/04/AKER-lawsuit-800x389.png"
+      "/wp-content/uploads/2020/04/AKER-lawsuit.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/04/AKER-settlement.png",
     "ts": "20200506060752",
     "variants": [
-      "/wp-content/uploads/2020/04/AKER-settlement-200x130.png",
-      "/wp-content/uploads/2020/04/AKER-settlement.png",
-      "/wp-content/uploads/2020/04/AKER-settlement-400x259.png",
-      "/wp-content/uploads/2020/04/AKER-settlement-600x389.png"
+      "/wp-content/uploads/2020/04/AKER-settlement.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/Hudson_Bay_SEC_2013.png",
     "ts": "20200506060752",
     "variants": [
-      "/wp-content/uploads/2020/03/Hudson_Bay_SEC_2013-200x125.png",
-      "/wp-content/uploads/2020/03/Hudson_Bay_SEC_2013.png",
-      "/wp-content/uploads/2020/03/Hudson_Bay_SEC_2013-400x250.png",
-      "/wp-content/uploads/2020/03/Hudson_Bay_SEC_2013-600x376.png",
-      "/wp-content/uploads/2020/03/Hudson_Bay_SEC_2013-800x501.png"
+      "/wp-content/uploads/2020/03/Hudson_Bay_SEC_2013.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CODX_Vstock_BEAG.png",
     "ts": "20200506060752",
     "variants": [
-      "/wp-content/uploads/2020/01/CODX_Vstock_BEAG-200x184.png",
-      "/wp-content/uploads/2020/01/CODX_Vstock_BEAG.png",
-      "/wp-content/uploads/2020/01/CODX_Vstock_BEAG-400x368.png",
-      "/wp-content/uploads/2020/01/CODX_Vstock_BEAG-600x552.png",
-      "/wp-content/uploads/2020/01/CODX_Vstock_BEAG-800x736.png"
+      "/wp-content/uploads/2020/01/CODX_Vstock_BEAG.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/04/AKER-flags.png",
     "ts": "20200506060752",
     "variants": [
-      "/wp-content/uploads/2020/04/AKER-flags-200x204.png",
-      "/wp-content/uploads/2020/04/AKER-flags.png",
-      "/wp-content/uploads/2020/04/AKER-flags-400x407.png"
+      "/wp-content/uploads/2020/04/AKER-flags.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2021/02/400e2-18481.jpg",
+    "ts": "20210219150556",
+    "variants": [
+      "/wp-content/uploads/2021/02/400e2-18481.jpg"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2021/02/OBLG-graph.jpg",
+    "ts": "20210219150556",
+    "variants": [
+      "/wp-content/uploads/2021/02/OBLG-graph.jpg"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2021/02/OBLG-table.png",
+    "ts": "20210219150556",
+    "variants": [
+      "/wp-content/uploads/2021/02/OBLG-table.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2021/02/CGIX-graph.jpg",
+    "ts": "20210219150556",
+    "variants": [
+      "/wp-content/uploads/2021/02/CGIX-graph.jpg"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2021/02/CGIX-lawsuit.jpg",
+    "ts": "20210219150556",
+    "variants": [
+      "/wp-content/uploads/2021/02/CGIX-lawsuit.jpg"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2021/02/SFET-graph.jpg",
+    "ts": "20210219150556",
+    "variants": [
+      "/wp-content/uploads/2021/02/SFET-graph.jpg"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2021/02/Alpha-Capital-Anstalt-index.png",
+    "ts": "20210219150556",
+    "variants": [
+      "/wp-content/uploads/2021/02/Alpha-Capital-Anstalt-index.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2021/05/image-54.png",
+    "ts": "20210527180644",
+    "variants": [
+      "/wp-content/uploads/2021/05/image-54.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/07/LIACF_candles_2.png",
+    "ts": "20200814180544",
+    "variants": [
+      "/wp-content/uploads/2020/07/LIACF_candles_2.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/07/LIACF_promo_1.png",
     "ts": "20200814180544",
     "variants": [
-      "/wp-content/uploads/2020/07/LIACF_promo_1-200x75.png",
-      "/wp-content/uploads/2020/07/LIACF_promo_1.png",
-      "/wp-content/uploads/2020/07/LIACF_promo_1-400x150.png",
-      "/wp-content/uploads/2020/07/LIACF_promo_1-600x225.png",
-      "/wp-content/uploads/2020/07/LIACF_promo_1-800x300.png",
-      "/wp-content/uploads/2020/07/LIACF_promo_1-1200x450.png"
+      "/wp-content/uploads/2020/07/LIACF_promo_1.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/07/LIACF_promo_2.png",
     "ts": "20200814180544",
     "variants": [
-      "/wp-content/uploads/2020/07/LIACF_promo_2-200x105.png",
-      "/wp-content/uploads/2020/07/LIACF_promo_2.png",
-      "/wp-content/uploads/2020/07/LIACF_promo_2-400x209.png",
-      "/wp-content/uploads/2020/07/LIACF_promo_2-600x314.png",
-      "/wp-content/uploads/2020/07/LIACF_promo_2-800x419.png"
+      "/wp-content/uploads/2020/07/LIACF_promo_2.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/07/LIACF_issuance_1.png",
     "ts": "20200814180544",
     "variants": [
-      "/wp-content/uploads/2020/07/LIACF_issuance_1-200x132.png",
-      "/wp-content/uploads/2020/07/LIACF_issuance_1.png",
-      "/wp-content/uploads/2020/07/LIACF_issuance_1-400x264.png",
-      "/wp-content/uploads/2020/07/LIACF_issuance_1-600x396.png",
-      "/wp-content/uploads/2020/07/LIACF_issuance_1-800x529.png"
+      "/wp-content/uploads/2020/07/LIACF_issuance_1.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/07/LIACF_issuance_2_warrants.png",
     "ts": "20200814180544",
     "variants": [
-      "/wp-content/uploads/2020/07/LIACF_issuance_2_warrants-200x72.png",
-      "/wp-content/uploads/2020/07/LIACF_issuance_2_warrants.png",
-      "/wp-content/uploads/2020/07/LIACF_issuance_2_warrants-400x143.png",
-      "/wp-content/uploads/2020/07/LIACF_issuance_2_warrants-600x215.png",
-      "/wp-content/uploads/2020/07/LIACF_issuance_2_warrants-800x286.png"
+      "/wp-content/uploads/2020/07/LIACF_issuance_2_warrants.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/07/LIACF_issuance_3_options.png",
     "ts": "20200814180544",
     "variants": [
-      "/wp-content/uploads/2020/07/LIACF_issuance_3_options-200x60.png",
-      "/wp-content/uploads/2020/07/LIACF_issuance_3_options.png",
-      "/wp-content/uploads/2020/07/LIACF_issuance_3_options-400x120.png",
-      "/wp-content/uploads/2020/07/LIACF_issuance_3_options-600x180.png",
-      "/wp-content/uploads/2020/07/LIACF_issuance_3_options-800x240.png"
+      "/wp-content/uploads/2020/07/LIACF_issuance_3_options.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/07/LIACF-flags.png",
     "ts": "20200814180544",
     "variants": [
-      "/wp-content/uploads/2020/07/LIACF-flags-200x205.png",
-      "/wp-content/uploads/2020/07/LIACF-flags.png",
-      "/wp-content/uploads/2020/07/LIACF-flags-400x410.png",
-      "/wp-content/uploads/2020/07/LIACF-flags-600x615.png"
+      "/wp-content/uploads/2020/07/LIACF-flags.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2021/04/Aspire-Capital-featured-image.jpg",
+    "ts": "20210405163750",
+    "variants": [
+      "/wp-content/uploads/2021/04/Aspire-Capital-featured-image.jpg"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2021/02/122Aspire-IBIO.png",
+    "ts": "20210405163750",
+    "variants": [
+      "/wp-content/uploads/2021/02/122Aspire-IBIO.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2021/04/Aspire-IBIO.png",
     "ts": "20210405163750",
     "variants": [
-      "/wp-content/uploads/2021/04/Aspire-IBIO.png",
-      "/wp-content/uploads/2021/04/Aspire-IBIO-1200x724.png"
+      "/wp-content/uploads/2021/04/Aspire-IBIO.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2021/04/Aspire-NTEC.png",
     "ts": "20210405163750",
     "variants": [
-      "/wp-content/uploads/2021/04/Aspire-NTEC.png",
-      "/wp-content/uploads/2021/04/Aspire-NTEC-1200x723.png"
+      "/wp-content/uploads/2021/04/Aspire-NTEC.png"
     ]
   },
   {
@@ -194,708 +224,590 @@
     ]
   },
   {
+    "canonicalPath": "/wp-content/uploads/2020/02/AVXL_candles.png",
+    "ts": "20200506020735",
+    "variants": [
+      "/wp-content/uploads/2020/02/AVXL_candles.png"
+    ]
+  },
+  {
     "canonicalPath": "/wp-content/uploads/2020/02/AVXL_financials.png",
     "ts": "20200506020735",
     "variants": [
-      "/wp-content/uploads/2020/02/AVXL_financials-200x38.png",
-      "/wp-content/uploads/2020/02/AVXL_financials.png",
-      "/wp-content/uploads/2020/02/AVXL_financials-400x77.png",
-      "/wp-content/uploads/2020/02/AVXL_financials-600x115.png",
-      "/wp-content/uploads/2020/02/AVXL_financials-800x154.png"
+      "/wp-content/uploads/2020/02/AVXL_financials.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/AVXL_S3.png",
     "ts": "20200506020735",
     "variants": [
-      "/wp-content/uploads/2020/02/AVXL_S3-200x36.png",
-      "/wp-content/uploads/2020/02/AVXL_S3.png",
-      "/wp-content/uploads/2020/02/AVXL_S3-400x71.png",
-      "/wp-content/uploads/2020/02/AVXL_S3-600x107.png",
-      "/wp-content/uploads/2020/02/AVXL_S3-800x143.png"
+      "/wp-content/uploads/2020/02/AVXL_S3.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/AVXL_class_action_lawsuit.png",
     "ts": "20200506020735",
     "variants": [
-      "/wp-content/uploads/2020/02/AVXL_class_action_lawsuit-200x108.png",
-      "/wp-content/uploads/2020/02/AVXL_class_action_lawsuit.png",
-      "/wp-content/uploads/2020/02/AVXL_class_action_lawsuit-400x217.png",
-      "/wp-content/uploads/2020/02/AVXL_class_action_lawsuit-600x325.png",
-      "/wp-content/uploads/2020/02/AVXL_class_action_lawsuit-800x434.png"
+      "/wp-content/uploads/2020/02/AVXL_class_action_lawsuit.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/AVXL_Lincoln_Park_June_2019.png",
     "ts": "20200506020735",
     "variants": [
-      "/wp-content/uploads/2020/02/AVXL_Lincoln_Park_June_2019-200x49.png",
-      "/wp-content/uploads/2020/02/AVXL_Lincoln_Park_June_2019.png",
-      "/wp-content/uploads/2020/02/AVXL_Lincoln_Park_June_2019-400x99.png",
-      "/wp-content/uploads/2020/02/AVXL_Lincoln_Park_June_2019-600x148.png",
-      "/wp-content/uploads/2020/02/AVXL_Lincoln_Park_June_2019-800x197.png"
+      "/wp-content/uploads/2020/02/AVXL_Lincoln_Park_June_2019.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/AVXL-management.png",
     "ts": "20200506020735",
     "variants": [
-      "/wp-content/uploads/2020/02/AVXL-management-200x180.png",
-      "/wp-content/uploads/2020/02/AVXL-management.png",
-      "/wp-content/uploads/2020/02/AVXL-management-400x360.png",
-      "/wp-content/uploads/2020/02/AVXL-management-600x540.png",
-      "/wp-content/uploads/2020/02/AVXL-management-800x720.png"
+      "/wp-content/uploads/2020/02/AVXL-management.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/AVXL_flags.png",
     "ts": "20200506020735",
     "variants": [
-      "/wp-content/uploads/2020/02/AVXL_flags-200x202.png",
-      "/wp-content/uploads/2020/02/AVXL_flags.png",
-      "/wp-content/uploads/2020/02/AVXL_flags-400x405.png",
-      "/wp-content/uploads/2020/02/AVXL_flags-600x607.png"
+      "/wp-content/uploads/2020/02/AVXL_flags.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/07/TNXP2-candles.png",
+    "ts": "20200924201017",
+    "variants": [
+      "/wp-content/uploads/2020/07/TNXP2-candles.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/07/WKHS_candles.png",
+    "ts": "20200924201017",
+    "variants": [
+      "/wp-content/uploads/2020/07/WKHS_candles.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/04/CYDY_candles_2.png",
+    "ts": "20200924201017",
+    "variants": [
+      "/wp-content/uploads/2020/04/CYDY_candles_2.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/04/WORX_candles.png",
+    "ts": "20200924201017",
+    "variants": [
+      "/wp-content/uploads/2020/04/WORX_candles.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/03/USAU_candles.png",
+    "ts": "20200924201017",
+    "variants": [
+      "/wp-content/uploads/2020/03/USAU_candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/05/Wordproof-blockchain-timestamp.png",
     "ts": "20200514102116",
     "variants": [
-      "/wp-content/uploads/2020/05/Wordproof-blockchain-timestamp.png",
-      "/wp-content/uploads/2020/05/Wordproof-blockchain-timestamp-200x13.png",
-      "/wp-content/uploads/2020/05/Wordproof-blockchain-timestamp-400x25.png",
-      "/wp-content/uploads/2020/05/Wordproof-blockchain-timestamp-600x38.png",
-      "/wp-content/uploads/2020/05/Wordproof-blockchain-timestamp-800x51.png"
+      "/wp-content/uploads/2020/05/Wordproof-blockchain-timestamp.png"
     ]
   },
   {
-    "canonicalPath": "/wp-content/uploads/2020/04/CYDY_candles_2.png",
-    "ts": "20200514102116",
+    "canonicalPath": "/wp-content/uploads/2020/02/BTCY_candles.png",
+    "ts": "20200514132452",
     "variants": [
-      "/wp-content/uploads/2020/04/CYDY_candles_2.png",
-      "/wp-content/uploads/2020/04/CYDY_candles_2-300x205.png",
-      "/wp-content/uploads/2020/04/CYDY_candles_2-1024x700.png",
-      "/wp-content/uploads/2020/04/CYDY_candles_2-200x137.png"
-    ]
-  },
-  {
-    "canonicalPath": "/wp-content/uploads/2020/04/WORX_candles.png",
-    "ts": "20200514102116",
-    "variants": [
-      "/wp-content/uploads/2020/04/WORX_candles.png",
-      "/wp-content/uploads/2020/04/WORX_candles-300x211.png",
-      "/wp-content/uploads/2020/04/WORX_candles-1024x720.png",
-      "/wp-content/uploads/2020/04/WORX_candles-200x141.png"
-    ]
-  },
-  {
-    "canonicalPath": "/wp-content/uploads/2020/04/AKER_candles.png",
-    "ts": "20200514102116",
-    "variants": [
-      "/wp-content/uploads/2020/04/AKER_candles.png",
-      "/wp-content/uploads/2020/04/AKER_candles-300x201.png",
-      "/wp-content/uploads/2020/04/AKER_candles-1024x687.png",
-      "/wp-content/uploads/2020/04/AKER_candles-200x134.png"
-    ]
-  },
-  {
-    "canonicalPath": "/wp-content/uploads/2020/03/USAU_candles.png",
-    "ts": "20200514102116",
-    "variants": [
-      "/wp-content/uploads/2020/03/USAU_candles.png",
-      "/wp-content/uploads/2020/03/USAU_candles-300x210.png",
-      "/wp-content/uploads/2020/03/USAU_candles-1024x718.png",
-      "/wp-content/uploads/2020/03/USAU_candles-200x140.png"
-    ]
-  },
-  {
-    "canonicalPath": "/wp-content/uploads/2020/02/AVXL_candles.png",
-    "ts": "20200514102116",
-    "variants": [
-      "/wp-content/uploads/2020/02/AVXL_candles.png",
-      "/wp-content/uploads/2020/02/AVXL_candles-300x205.png",
-      "/wp-content/uploads/2020/02/AVXL_candles-1024x701.png",
-      "/wp-content/uploads/2020/02/AVXL_candles-200x137.png"
-    ]
-  },
-  {
-    "canonicalPath": "/wp-content/uploads/2020/02/AGRX_candles.png",
-    "ts": "20200514102116",
-    "variants": [
-      "/wp-content/uploads/2020/02/AGRX_candles.png",
-      "/wp-content/uploads/2020/02/AGRX_candles-300x207.png",
-      "/wp-content/uploads/2020/02/AGRX_candles-1024x706.png",
-      "/wp-content/uploads/2020/02/AGRX_candles-200x138.png"
+      "/wp-content/uploads/2020/02/BTCY_candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/BTCY_financials.png",
     "ts": "20200514132452",
     "variants": [
-      "/wp-content/uploads/2020/02/BTCY_financials-200x37.png",
-      "/wp-content/uploads/2020/02/BTCY_financials.png",
-      "/wp-content/uploads/2020/02/BTCY_financials-400x75.png",
-      "/wp-content/uploads/2020/02/BTCY_financials-600x112.png",
-      "/wp-content/uploads/2020/02/BTCY_financials-800x150.png"
+      "/wp-content/uploads/2020/02/BTCY_financials.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/BCTY_SPA_Lincoln_Park.png",
     "ts": "20200514132452",
     "variants": [
-      "/wp-content/uploads/2020/02/BCTY_SPA_Lincoln_Park-200x91.png",
-      "/wp-content/uploads/2020/02/BCTY_SPA_Lincoln_Park.png",
-      "/wp-content/uploads/2020/02/BCTY_SPA_Lincoln_Park-400x181.png",
-      "/wp-content/uploads/2020/02/BCTY_SPA_Lincoln_Park-600x272.png",
-      "/wp-content/uploads/2020/02/BCTY_SPA_Lincoln_Park-800x363.png"
+      "/wp-content/uploads/2020/02/BCTY_SPA_Lincoln_Park.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/BTCY_EMC_main_disclaimer.png",
     "ts": "20200514132452",
     "variants": [
-      "/wp-content/uploads/2020/02/BTCY_EMC_main_disclaimer-200x56.png",
-      "/wp-content/uploads/2020/02/BTCY_EMC_main_disclaimer.png",
-      "/wp-content/uploads/2020/02/BTCY_EMC_main_disclaimer-400x113.png",
-      "/wp-content/uploads/2020/02/BTCY_EMC_main_disclaimer-600x169.png",
-      "/wp-content/uploads/2020/02/BTCY_EMC_main_disclaimer-800x226.png"
+      "/wp-content/uploads/2020/02/BTCY_EMC_main_disclaimer.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/BTCY_EMC_second_disclaimer.png",
     "ts": "20200514132452",
     "variants": [
-      "/wp-content/uploads/2020/02/BTCY_EMC_second_disclaimer-200x39.png",
-      "/wp-content/uploads/2020/02/BTCY_EMC_second_disclaimer.png",
-      "/wp-content/uploads/2020/02/BTCY_EMC_second_disclaimer-400x79.png",
-      "/wp-content/uploads/2020/02/BTCY_EMC_second_disclaimer-600x118.png",
-      "/wp-content/uploads/2020/02/BTCY_EMC_second_disclaimer-800x158.png"
+      "/wp-content/uploads/2020/02/BTCY_EMC_second_disclaimer.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/BTCY_2018_disclaimer.png",
     "ts": "20200514132452",
     "variants": [
-      "/wp-content/uploads/2020/02/BTCY_2018_disclaimer-200x64.png",
-      "/wp-content/uploads/2020/02/BTCY_2018_disclaimer.png",
-      "/wp-content/uploads/2020/02/BTCY_2018_disclaimer-400x128.png",
-      "/wp-content/uploads/2020/02/BTCY_2018_disclaimer-600x192.png",
-      "/wp-content/uploads/2020/02/BTCY_2018_disclaimer-800x257.png"
+      "/wp-content/uploads/2020/02/BTCY_2018_disclaimer.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/BTCY_2015_promo.png",
     "ts": "20200514132452",
     "variants": [
-      "/wp-content/uploads/2020/02/BTCY_2015_promo-200x88.png",
-      "/wp-content/uploads/2020/02/BTCY_2015_promo.png",
-      "/wp-content/uploads/2020/02/BTCY_2015_promo-400x177.png",
-      "/wp-content/uploads/2020/02/BTCY_2015_promo-600x265.png",
-      "/wp-content/uploads/2020/02/BTCY_2015_promo-800x353.png",
-      "/wp-content/uploads/2020/02/BTCY_2015_promo-1200x530.png"
+      "/wp-content/uploads/2020/02/BTCY_2015_promo.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/BTCY_flags.png",
     "ts": "20200514132452",
     "variants": [
-      "/wp-content/uploads/2020/02/BTCY_flags-200x206.png",
-      "/wp-content/uploads/2020/02/BTCY_flags.png",
-      "/wp-content/uploads/2020/02/BTCY_flags-400x411.png",
-      "/wp-content/uploads/2020/02/BTCY_flags-600x617.png"
+      "/wp-content/uploads/2020/02/BTCY_flags.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2021/05/Screenshot-2021-05-03-at-12.20.50.png",
+    "ts": "20210503194540",
+    "variants": [
+      "/wp-content/uploads/2021/05/Screenshot-2021-05-03-at-12.20.50.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/01/CETX-candles.png",
+    "ts": "20201212023134",
+    "variants": [
+      "/wp-content/uploads/2020/01/CETX-candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CETX-litigation.png",
     "ts": "20200215125806",
     "variants": [
-      "/wp-content/uploads/2020/01/CETX-litigation-200x104.png",
-      "/wp-content/uploads/2020/01/CETX-litigation.png",
-      "/wp-content/uploads/2020/01/CETX-litigation-400x209.png",
-      "/wp-content/uploads/2020/01/CETX-litigation-600x313.png"
+      "/wp-content/uploads/2020/01/CETX-litigation.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CETX-financials.png",
     "ts": "20200215125806",
     "variants": [
-      "/wp-content/uploads/2020/01/CETX-financials-200x43.png",
-      "/wp-content/uploads/2020/01/CETX-financials.png",
-      "/wp-content/uploads/2020/01/CETX-financials-400x86.png",
-      "/wp-content/uploads/2020/01/CETX-financials-600x129.png"
+      "/wp-content/uploads/2020/01/CETX-financials.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CETX-private-placemant-1.png",
     "ts": "20200215125806",
     "variants": [
-      "/wp-content/uploads/2020/01/CETX-private-placemant-1-200x21.png",
-      "/wp-content/uploads/2020/01/CETX-private-placemant-1.png",
-      "/wp-content/uploads/2020/01/CETX-private-placemant-1-400x42.png",
-      "/wp-content/uploads/2020/01/CETX-private-placemant-1-600x63.png",
-      "/wp-content/uploads/2020/01/CETX-private-placemant-1-800x85.png"
+      "/wp-content/uploads/2020/01/CETX-private-placemant-1.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CETX-private-placement-2.png",
     "ts": "20200215125806",
     "variants": [
-      "/wp-content/uploads/2020/01/CETX-private-placement-2-200x21.png",
-      "/wp-content/uploads/2020/01/CETX-private-placement-2.png",
-      "/wp-content/uploads/2020/01/CETX-private-placement-2-400x43.png",
-      "/wp-content/uploads/2020/01/CETX-private-placement-2-600x64.png",
-      "/wp-content/uploads/2020/01/CETX-private-placement-2-800x86.png"
+      "/wp-content/uploads/2020/01/CETX-private-placement-2.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CETX-BIOC-chart.png",
     "ts": "20200215125806",
     "variants": [
-      "/wp-content/uploads/2020/01/CETX-BIOC-chart-200x110.png",
-      "/wp-content/uploads/2020/01/CETX-BIOC-chart.png",
-      "/wp-content/uploads/2020/01/CETX-BIOC-chart-400x220.png",
-      "/wp-content/uploads/2020/01/CETX-BIOC-chart-600x330.png",
-      "/wp-content/uploads/2020/01/CETX-BIOC-chart-800x440.png"
+      "/wp-content/uploads/2020/01/CETX-BIOC-chart.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CETX-CLRB-chart.png",
     "ts": "20200215125806",
     "variants": [
-      "/wp-content/uploads/2020/01/CETX-CLRB-chart-200x109.png",
-      "/wp-content/uploads/2020/01/CETX-CLRB-chart.png",
-      "/wp-content/uploads/2020/01/CETX-CLRB-chart-400x219.png",
-      "/wp-content/uploads/2020/01/CETX-CLRB-chart-600x328.png",
-      "/wp-content/uploads/2020/01/CETX-CLRB-chart-800x438.png"
+      "/wp-content/uploads/2020/01/CETX-CLRB-chart.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CETX-RKDA-chart.png",
     "ts": "20200215125806",
     "variants": [
-      "/wp-content/uploads/2020/01/CETX-RKDA-chart-200x110.png",
-      "/wp-content/uploads/2020/01/CETX-RKDA-chart.png",
-      "/wp-content/uploads/2020/01/CETX-RKDA-chart-400x221.png",
-      "/wp-content/uploads/2020/01/CETX-RKDA-chart-600x331.png",
-      "/wp-content/uploads/2020/01/CETX-RKDA-chart-800x442.png"
+      "/wp-content/uploads/2020/01/CETX-RKDA-chart.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CETX-flags-2.png",
     "ts": "20200215125806",
     "variants": [
-      "/wp-content/uploads/2020/01/CETX-flags-2-200x199.png",
-      "/wp-content/uploads/2020/01/CETX-flags-2.png",
-      "/wp-content/uploads/2020/01/CETX-flags-2-400x398.png",
-      "/wp-content/uploads/2020/01/CETX-flags-2-600x598.png"
+      "/wp-content/uploads/2020/01/CETX-flags-2.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2021/03/image-44.png",
+    "ts": "20210315191426",
+    "variants": [
+      "/wp-content/uploads/2021/03/image-44.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/02/COCP_candles.png",
+    "ts": "20201203031447",
+    "variants": [
+      "/wp-content/uploads/2020/02/COCP_candles.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/01/CODX-candles-e1580463370621.png",
+    "ts": "20200514161002",
+    "variants": [
+      "/wp-content/uploads/2020/01/CODX-candles-e1580463370621.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/03/Sabby-management-CODX-disclaimer.png",
+    "ts": "20200514161002",
+    "variants": [
+      "/wp-content/uploads/2020/03/Sabby-management-CODX-disclaimer.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CODX_going_concern.png",
     "ts": "20200318024026",
     "variants": [
-      "/wp-content/uploads/2020/01/CODX_going_concern-200x81.png",
-      "/wp-content/uploads/2020/01/CODX_going_concern.png",
-      "/wp-content/uploads/2020/01/CODX_going_concern-400x162.png",
-      "/wp-content/uploads/2020/01/CODX_going_concern-600x242.png"
+      "/wp-content/uploads/2020/01/CODX_going_concern.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CODX_financials.png",
     "ts": "20200318024026",
     "variants": [
-      "/wp-content/uploads/2020/01/CODX_financials-200x29.png",
-      "/wp-content/uploads/2020/01/CODX_financials.png",
-      "/wp-content/uploads/2020/01/CODX_financials-400x58.png",
-      "/wp-content/uploads/2020/01/CODX_financials-600x87.png",
-      "/wp-content/uploads/2020/01/CODX_financials-800x116.png"
+      "/wp-content/uploads/2020/01/CODX_financials.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CODX_CVI.png",
     "ts": "20200318024026",
     "variants": [
-      "/wp-content/uploads/2020/01/CODX_CVI-200x159.png",
-      "/wp-content/uploads/2020/01/CODX_CVI.png",
-      "/wp-content/uploads/2020/01/CODX_CVI-400x317.png",
-      "/wp-content/uploads/2020/01/CODX_CVI-600x476.png",
-      "/wp-content/uploads/2020/01/CODX_CVI-800x634.png"
+      "/wp-content/uploads/2020/01/CODX_CVI.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CODX_CVI_BPTH.png",
     "ts": "20200318024026",
     "variants": [
-      "/wp-content/uploads/2020/01/CODX_CVI_BPTH-200x120.png",
-      "/wp-content/uploads/2020/01/CODX_CVI_BPTH.png",
-      "/wp-content/uploads/2020/01/CODX_CVI_BPTH-400x240.png",
-      "/wp-content/uploads/2020/01/CODX_CVI_BPTH-600x359.png",
-      "/wp-content/uploads/2020/01/CODX_CVI_BPTH-800x479.png"
+      "/wp-content/uploads/2020/01/CODX_CVI_BPTH.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CODX_CVI_RKDA.png",
     "ts": "20200318024026",
     "variants": [
-      "/wp-content/uploads/2020/01/CODX_CVI_RKDA-200x109.png",
-      "/wp-content/uploads/2020/01/CODX_CVI_RKDA.png",
-      "/wp-content/uploads/2020/01/CODX_CVI_RKDA-400x217.png",
-      "/wp-content/uploads/2020/01/CODX_CVI_RKDA-600x326.png",
-      "/wp-content/uploads/2020/01/CODX_CVI_RKDA-800x435.png"
+      "/wp-content/uploads/2020/01/CODX_CVI_RKDA.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CODX_CVI_TRNX.png",
     "ts": "20200318024026",
     "variants": [
-      "/wp-content/uploads/2020/01/CODX_CVI_TRNX-200x109.png",
-      "/wp-content/uploads/2020/01/CODX_CVI_TRNX.png",
-      "/wp-content/uploads/2020/01/CODX_CVI_TRNX-400x218.png",
-      "/wp-content/uploads/2020/01/CODX_CVI_TRNX-600x326.png",
-      "/wp-content/uploads/2020/01/CODX_CVI_TRNX-800x435.png"
+      "/wp-content/uploads/2020/01/CODX_CVI_TRNX.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CODX_Vstock_lawsuit.png",
     "ts": "20200318024026",
     "variants": [
-      "/wp-content/uploads/2020/01/CODX_Vstock_lawsuit-200x150.png",
-      "/wp-content/uploads/2020/01/CODX_Vstock_lawsuit.png",
-      "/wp-content/uploads/2020/01/CODX_Vstock_lawsuit-400x300.png",
-      "/wp-content/uploads/2020/01/CODX_Vstock_lawsuit-600x450.png",
-      "/wp-content/uploads/2020/01/CODX_Vstock_lawsuit-800x599.png"
+      "/wp-content/uploads/2020/01/CODX_Vstock_lawsuit.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CODX_promo_otctip.png",
     "ts": "20200318024026",
     "variants": [
-      "/wp-content/uploads/2020/01/CODX_promo_otctip-200x175.png",
-      "/wp-content/uploads/2020/01/CODX_promo_otctip.png",
-      "/wp-content/uploads/2020/01/CODX_promo_otctip-400x350.png",
-      "/wp-content/uploads/2020/01/CODX_promo_otctip-600x525.png"
+      "/wp-content/uploads/2020/01/CODX_promo_otctip.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CODX_promo_james_connemy.png",
     "ts": "20200318024026",
     "variants": [
-      "/wp-content/uploads/2020/01/CODX_promo_james_connemy-200x170.png",
-      "/wp-content/uploads/2020/01/CODX_promo_james_connemy.png",
-      "/wp-content/uploads/2020/01/CODX_promo_james_connemy-400x339.png",
-      "/wp-content/uploads/2020/01/CODX_promo_james_connemy-600x509.png"
+      "/wp-content/uploads/2020/01/CODX_promo_james_connemy.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CODX_promo_Buzzstocks.png",
     "ts": "20200318024026",
     "variants": [
-      "/wp-content/uploads/2020/01/CODX_promo_Buzzstocks-200x189.png",
-      "/wp-content/uploads/2020/01/CODX_promo_Buzzstocks.png",
-      "/wp-content/uploads/2020/01/CODX_promo_Buzzstocks-400x377.png",
-      "/wp-content/uploads/2020/01/CODX_promo_Buzzstocks-600x566.png"
+      "/wp-content/uploads/2020/01/CODX_promo_Buzzstocks.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CODX_flags.png",
     "ts": "20200318024026",
     "variants": [
-      "/wp-content/uploads/2020/01/CODX_flags-200x206.png",
-      "/wp-content/uploads/2020/01/CODX_flags.png",
-      "/wp-content/uploads/2020/01/CODX_flags-400x412.png",
-      "/wp-content/uploads/2020/01/CODX_flags-600x617.png"
+      "/wp-content/uploads/2020/01/CODX_flags.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/01/CPAH-candles.png",
+    "ts": "20200305124617",
+    "variants": [
+      "/wp-content/uploads/2020/01/CPAH-candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CPAH-financials.png",
     "ts": "20200305124617",
     "variants": [
-      "/wp-content/uploads/2020/01/CPAH-financials-200x41.png",
-      "/wp-content/uploads/2020/01/CPAH-financials.png",
-      "/wp-content/uploads/2020/01/CPAH-financials-400x82.png",
-      "/wp-content/uploads/2020/01/CPAH-financials-600x123.png",
-      "/wp-content/uploads/2020/01/CPAH-financials-800x164.png"
+      "/wp-content/uploads/2020/01/CPAH-financials.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CPAH_loan_1.png",
     "ts": "20200305124617",
     "variants": [
-      "/wp-content/uploads/2020/01/CPAH_loan_1-200x57.png",
-      "/wp-content/uploads/2020/01/CPAH_loan_1.png",
-      "/wp-content/uploads/2020/01/CPAH_loan_1-400x113.png",
-      "/wp-content/uploads/2020/01/CPAH_loan_1-600x170.png",
-      "/wp-content/uploads/2020/01/CPAH_loan_1-800x226.png"
+      "/wp-content/uploads/2020/01/CPAH_loan_1.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CPAH_loan_2.png",
     "ts": "20200305124617",
     "variants": [
-      "/wp-content/uploads/2020/01/CPAH_loan_2-200x89.png",
-      "/wp-content/uploads/2020/01/CPAH_loan_2.png",
-      "/wp-content/uploads/2020/01/CPAH_loan_2-400x179.png",
-      "/wp-content/uploads/2020/01/CPAH_loan_2-600x268.png",
-      "/wp-content/uploads/2020/01/CPAH_loan_2-800x358.png"
+      "/wp-content/uploads/2020/01/CPAH_loan_2.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CPAH_loan_3.png",
     "ts": "20200305124617",
     "variants": [
-      "/wp-content/uploads/2020/01/CPAH_loan_3-200x66.png",
-      "/wp-content/uploads/2020/01/CPAH_loan_3.png",
-      "/wp-content/uploads/2020/01/CPAH_loan_3-400x133.png",
-      "/wp-content/uploads/2020/01/CPAH_loan_3-600x199.png",
-      "/wp-content/uploads/2020/01/CPAH_loan_3-800x265.png"
+      "/wp-content/uploads/2020/01/CPAH_loan_3.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CAPH-stock-options.png",
     "ts": "20200305124617",
     "variants": [
-      "/wp-content/uploads/2020/01/CAPH-stock-options-200x83.png",
-      "/wp-content/uploads/2020/01/CAPH-stock-options.png",
-      "/wp-content/uploads/2020/01/CAPH-stock-options-400x165.png",
-      "/wp-content/uploads/2020/01/CAPH-stock-options-600x248.png",
-      "/wp-content/uploads/2020/01/CAPH-stock-options-800x331.png"
+      "/wp-content/uploads/2020/01/CAPH-stock-options.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CPAH_otc_tip.png",
     "ts": "20200305124617",
     "variants": [
-      "/wp-content/uploads/2020/01/CPAH_otc_tip-200x180.png",
-      "/wp-content/uploads/2020/01/CPAH_otc_tip.png",
-      "/wp-content/uploads/2020/01/CPAH_otc_tip-400x359.png",
-      "/wp-content/uploads/2020/01/CPAH_otc_tip-600x539.png"
+      "/wp-content/uploads/2020/01/CPAH_otc_tip.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CPAH_Prophet.png",
     "ts": "20200305124617",
     "variants": [
-      "/wp-content/uploads/2020/01/CPAH_Prophet-200x228.png",
-      "/wp-content/uploads/2020/01/CPAH_Prophet.png",
-      "/wp-content/uploads/2020/01/CPAH_Prophet-400x455.png",
-      "/wp-content/uploads/2020/01/CPAH_Prophet-600x683.png"
+      "/wp-content/uploads/2020/01/CPAH_Prophet.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CPAH_Buzzstocks.png",
     "ts": "20200305124617",
     "variants": [
-      "/wp-content/uploads/2020/01/CPAH_Buzzstocks-200x199.png",
-      "/wp-content/uploads/2020/01/CPAH_Buzzstocks.png",
-      "/wp-content/uploads/2020/01/CPAH_Buzzstocks-400x398.png",
-      "/wp-content/uploads/2020/01/CPAH_Buzzstocks-600x597.png"
+      "/wp-content/uploads/2020/01/CPAH_Buzzstocks.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/CAPH_flags.png",
     "ts": "20200305124617",
     "variants": [
-      "/wp-content/uploads/2020/01/CAPH_flags-200x203.png",
-      "/wp-content/uploads/2020/01/CAPH_flags.png",
-      "/wp-content/uploads/2020/01/CAPH_flags-400x406.png",
-      "/wp-content/uploads/2020/01/CAPH_flags-600x609.png"
+      "/wp-content/uploads/2020/01/CAPH_flags.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/04/CVI-featured-image.png",
+    "ts": "20200506012650",
+    "variants": [
+      "/wp-content/uploads/2020/04/CVI-featured-image.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/04/CVI-Index.png",
+    "ts": "20200506012650",
+    "variants": [
+      "/wp-content/uploads/2020/04/CVI-Index.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/04/CVI-SAVA-long-term.png",
+    "ts": "20200506012650",
+    "variants": [
+      "/wp-content/uploads/2020/04/CVI-SAVA-long-term.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/04/CVI_TNXP.png",
+    "ts": "20200506012650",
+    "variants": [
+      "/wp-content/uploads/2020/04/CVI_TNXP.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/02/CYDY_candles.png",
+    "ts": "20200427015600",
+    "variants": [
+      "/wp-content/uploads/2020/02/CYDY_candles.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/03/Iliad_CYDY.png",
+    "ts": "20200427015600",
+    "variants": [
+      "/wp-content/uploads/2020/03/Iliad_CYDY.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/04/CYDY_financials_2.png",
     "ts": "20200427015600",
     "variants": [
-      "/wp-content/uploads/2020/04/CYDY_financials_2-200x22.png",
-      "/wp-content/uploads/2020/04/CYDY_financials_2.png",
-      "/wp-content/uploads/2020/04/CYDY_financials_2-400x44.png",
-      "/wp-content/uploads/2020/04/CYDY_financials_2-600x67.png",
-      "/wp-content/uploads/2020/04/CYDY_financials_2-800x89.png"
+      "/wp-content/uploads/2020/04/CYDY_financials_2.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/04/CYDY_emerginggrowth_disclaimer.png",
     "ts": "20200427015600",
     "variants": [
-      "/wp-content/uploads/2020/04/CYDY_emerginggrowth_disclaimer-200x134.png",
-      "/wp-content/uploads/2020/04/CYDY_emerginggrowth_disclaimer.png",
-      "/wp-content/uploads/2020/04/CYDY_emerginggrowth_disclaimer-400x268.png",
-      "/wp-content/uploads/2020/04/CYDY_emerginggrowth_disclaimer-600x402.png",
-      "/wp-content/uploads/2020/04/CYDY_emerginggrowth_disclaimer-800x536.png"
+      "/wp-content/uploads/2020/04/CYDY_emerginggrowth_disclaimer.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/04/CYDY-proactive-disclaimer-2.png",
     "ts": "20200427015600",
     "variants": [
-      "/wp-content/uploads/2020/04/CYDY-proactive-disclaimer-2-200x167.png",
-      "/wp-content/uploads/2020/04/CYDY-proactive-disclaimer-2.png",
-      "/wp-content/uploads/2020/04/CYDY-proactive-disclaimer-2-400x335.png",
-      "/wp-content/uploads/2020/04/CYDY-proactive-disclaimer-2-600x502.png",
-      "/wp-content/uploads/2020/04/CYDY-proactive-disclaimer-2-800x669.png",
-      "/wp-content/uploads/2020/04/CYDY-proactive-disclaimer-2-1200x1004.png"
+      "/wp-content/uploads/2020/04/CYDY-proactive-disclaimer-2.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/04/CYDY-SEC-letter.png",
     "ts": "20200427015600",
     "variants": [
-      "/wp-content/uploads/2020/04/CYDY-SEC-letter-200x157.png",
-      "/wp-content/uploads/2020/04/CYDY-SEC-letter.png",
-      "/wp-content/uploads/2020/04/CYDY-SEC-letter-400x314.png",
-      "/wp-content/uploads/2020/04/CYDY-SEC-letter-600x471.png"
+      "/wp-content/uploads/2020/04/CYDY-SEC-letter.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/04/CYDY-flags-2.png",
     "ts": "20200427015600",
     "variants": [
-      "/wp-content/uploads/2020/04/CYDY-flags-2-200x205.png",
-      "/wp-content/uploads/2020/04/CYDY-flags-2.png",
-      "/wp-content/uploads/2020/04/CYDY-flags-2-400x409.png",
-      "/wp-content/uploads/2020/04/CYDY-flags-2-600x614.png"
+      "/wp-content/uploads/2020/04/CYDY-flags-2.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/CYDY_financials.png",
     "ts": "20200301033522",
     "variants": [
-      "/wp-content/uploads/2020/02/CYDY_financials-200x27.png",
-      "/wp-content/uploads/2020/02/CYDY_financials.png",
-      "/wp-content/uploads/2020/02/CYDY_financials-400x53.png",
-      "/wp-content/uploads/2020/02/CYDY_financials-600x80.png",
-      "/wp-content/uploads/2020/02/CYDY_financials-800x106.png"
+      "/wp-content/uploads/2020/02/CYDY_financials.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/CYDY_warrants_outstanding.png",
     "ts": "20200301033522",
     "variants": [
-      "/wp-content/uploads/2020/02/CYDY_warrants_outstanding-200x43.png",
-      "/wp-content/uploads/2020/02/CYDY_warrants_outstanding.png",
-      "/wp-content/uploads/2020/02/CYDY_warrants_outstanding-400x86.png",
-      "/wp-content/uploads/2020/02/CYDY_warrants_outstanding-600x129.png",
-      "/wp-content/uploads/2020/02/CYDY_warrants_outstanding-800x172.png"
+      "/wp-content/uploads/2020/02/CYDY_warrants_outstanding.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/CYDY_stock_options_CEO.png",
     "ts": "20200301033522",
     "variants": [
-      "/wp-content/uploads/2020/02/CYDY_stock_options_CEO-200x46.png",
-      "/wp-content/uploads/2020/02/CYDY_stock_options_CEO.png",
-      "/wp-content/uploads/2020/02/CYDY_stock_options_CEO-400x92.png",
-      "/wp-content/uploads/2020/02/CYDY_stock_options_CEO-600x138.png",
-      "/wp-content/uploads/2020/02/CYDY_stock_options_CEO-800x184.png"
+      "/wp-content/uploads/2020/02/CYDY_stock_options_CEO.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/CYDY_Pestell_lawsuit.png",
     "ts": "20200301033522",
     "variants": [
-      "/wp-content/uploads/2020/02/CYDY_Pestell_lawsuit-200x57.png",
-      "/wp-content/uploads/2020/02/CYDY_Pestell_lawsuit.png",
-      "/wp-content/uploads/2020/02/CYDY_Pestell_lawsuit-400x114.png",
-      "/wp-content/uploads/2020/02/CYDY_Pestell_lawsuit-600x172.png",
-      "/wp-content/uploads/2020/02/CYDY_Pestell_lawsuit-800x229.png"
+      "/wp-content/uploads/2020/02/CYDY_Pestell_lawsuit.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/CYDY_Pestell_selling_shares.png",
     "ts": "20200301033522",
     "variants": [
-      "/wp-content/uploads/2020/02/CYDY_Pestell_selling_shares-200x88.png",
-      "/wp-content/uploads/2020/02/CYDY_Pestell_selling_shares.png",
-      "/wp-content/uploads/2020/02/CYDY_Pestell_selling_shares-400x176.png",
-      "/wp-content/uploads/2020/02/CYDY_Pestell_selling_shares-600x264.png",
-      "/wp-content/uploads/2020/02/CYDY_Pestell_selling_shares-800x352.png"
+      "/wp-content/uploads/2020/02/CYDY_Pestell_selling_shares.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/CYDY_cease_and_desist.png",
     "ts": "20200301033522",
     "variants": [
-      "/wp-content/uploads/2020/02/CYDY_cease_and_desist-200x123.png",
-      "/wp-content/uploads/2020/02/CYDY_cease_and_desist.png",
-      "/wp-content/uploads/2020/02/CYDY_cease_and_desist-400x245.png",
-      "/wp-content/uploads/2020/02/CYDY_cease_and_desist-600x368.png",
-      "/wp-content/uploads/2020/02/CYDY_cease_and_desist-800x491.png"
+      "/wp-content/uploads/2020/02/CYDY_cease_and_desist.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/CYDY_Paulson_FINRA.png",
     "ts": "20200301033522",
     "variants": [
-      "/wp-content/uploads/2020/02/CYDY_Paulson_FINRA-200x133.png",
-      "/wp-content/uploads/2020/02/CYDY_Paulson_FINRA.png",
-      "/wp-content/uploads/2020/02/CYDY_Paulson_FINRA-400x267.png",
-      "/wp-content/uploads/2020/02/CYDY_Paulson_FINRA-600x400.png",
-      "/wp-content/uploads/2020/02/CYDY_Paulson_FINRA-800x534.png",
-      "/wp-content/uploads/2020/02/CYDY_Paulson_FINRA-1200x801.png"
+      "/wp-content/uploads/2020/02/CYDY_Paulson_FINRA.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/CYDY_Paulson_Churning.png",
     "ts": "20200301033522",
     "variants": [
-      "/wp-content/uploads/2020/02/CYDY_Paulson_Churning-200x83.png",
-      "/wp-content/uploads/2020/02/CYDY_Paulson_Churning.png",
-      "/wp-content/uploads/2020/02/CYDY_Paulson_Churning-400x166.png",
-      "/wp-content/uploads/2020/02/CYDY_Paulson_Churning-600x250.png"
+      "/wp-content/uploads/2020/02/CYDY_Paulson_Churning.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/CYDY_Iliad_jan_2019.png",
     "ts": "20200301033522",
     "variants": [
-      "/wp-content/uploads/2020/02/CYDY_Iliad_jan_2019-200x43.png",
-      "/wp-content/uploads/2020/02/CYDY_Iliad_jan_2019.png",
-      "/wp-content/uploads/2020/02/CYDY_Iliad_jan_2019-400x87.png",
-      "/wp-content/uploads/2020/02/CYDY_Iliad_jan_2019-600x130.png",
-      "/wp-content/uploads/2020/02/CYDY_Iliad_jan_2019-800x173.png"
+      "/wp-content/uploads/2020/02/CYDY_Iliad_jan_2019.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/CYDY_Iliad_june_2018.png",
     "ts": "20200301033522",
     "variants": [
-      "/wp-content/uploads/2020/02/CYDY_Iliad_june_2018-200x50.png",
-      "/wp-content/uploads/2020/02/CYDY_Iliad_june_2018.png",
-      "/wp-content/uploads/2020/02/CYDY_Iliad_june_2018-400x100.png",
-      "/wp-content/uploads/2020/02/CYDY_Iliad_june_2018-600x150.png",
-      "/wp-content/uploads/2020/02/CYDY_Iliad_june_2018-800x199.png"
+      "/wp-content/uploads/2020/02/CYDY_Iliad_june_2018.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/CYDY_Iliad_conversion_debt.png",
     "ts": "20200301033522",
     "variants": [
-      "/wp-content/uploads/2020/02/CYDY_Iliad_conversion_debt-200x23.png",
-      "/wp-content/uploads/2020/02/CYDY_Iliad_conversion_debt.png",
-      "/wp-content/uploads/2020/02/CYDY_Iliad_conversion_debt-400x46.png",
-      "/wp-content/uploads/2020/02/CYDY_Iliad_conversion_debt-600x69.png",
-      "/wp-content/uploads/2020/02/CYDY_Iliad_conversion_debt-800x92.png"
+      "/wp-content/uploads/2020/02/CYDY_Iliad_conversion_debt.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/CYDY_flags.png",
     "ts": "20200301033522",
     "variants": [
-      "/wp-content/uploads/2020/02/CYDY_flags-200x204.png",
-      "/wp-content/uploads/2020/02/CYDY_flags.png",
-      "/wp-content/uploads/2020/02/CYDY_flags-400x408.png",
-      "/wp-content/uploads/2020/02/CYDY_flags-600x612.png"
+      "/wp-content/uploads/2020/02/CYDY_flags.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/08/DCGD-candles-aug-7th.png",
+    "ts": "20191113063928",
+    "variants": [
+      "/wp-content/uploads/2019/08/DCGD-candles-aug-7th.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/08/DCGD-candles-aug-8th.png",
+    "ts": "20191113063928",
+    "variants": [
+      "/wp-content/uploads/2019/08/DCGD-candles-aug-8th.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/10/DCGD-candles-oct-10th.png",
+    "ts": "20191113063928",
+    "variants": [
+      "/wp-content/uploads/2019/10/DCGD-candles-oct-10th.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/11/DCGD-costello-trial-feb-2020.png",
+    "ts": "20191113063928",
+    "variants": [
+      "/wp-content/uploads/2019/11/DCGD-costello-trial-feb-2020.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/10/DCGD_Assets_sep_2019.png",
-    "ts": "20191215080258",
+    "ts": "20191113063928",
     "variants": [
-      "/wp-content/uploads/2019/10/DCGD_Assets_sep_2019-200x56.png",
-      "/wp-content/uploads/2019/10/DCGD_Assets_sep_2019-1024x288.png",
-      "/wp-content/uploads/2019/10/DCGD_Assets_sep_2019-400x113.png",
-      "/wp-content/uploads/2019/10/DCGD_Assets_sep_2019-600x169.png",
-      "/wp-content/uploads/2019/10/DCGD_Assets_sep_2019-800x225.png",
       "/wp-content/uploads/2019/10/DCGD_Assets_sep_2019.png"
     ]
   },
@@ -903,11 +815,6 @@
     "canonicalPath": "/wp-content/uploads/2019/10/DCGD_Revenue_Sep_2019.png",
     "ts": "20191113063928",
     "variants": [
-      "/wp-content/uploads/2019/10/DCGD_Revenue_Sep_2019-200x39.png",
-      "/wp-content/uploads/2019/10/DCGD_Revenue_Sep_2019-1024x199.png",
-      "/wp-content/uploads/2019/10/DCGD_Revenue_Sep_2019-400x78.png",
-      "/wp-content/uploads/2019/10/DCGD_Revenue_Sep_2019-600x117.png",
-      "/wp-content/uploads/2019/10/DCGD_Revenue_Sep_2019-800x156.png",
       "/wp-content/uploads/2019/10/DCGD_Revenue_Sep_2019.png"
     ]
   },
@@ -915,33 +822,20 @@
     "canonicalPath": "/wp-content/uploads/2019/10/DCGD_HBS_Costello_lie.png",
     "ts": "20191113063928",
     "variants": [
-      "/wp-content/uploads/2019/10/DCGD_HBS_Costello_lie-200x39.png",
-      "/wp-content/uploads/2019/10/DCGD_HBS_Costello_lie.png",
-      "/wp-content/uploads/2019/10/DCGD_HBS_Costello_lie-400x78.png",
-      "/wp-content/uploads/2019/10/DCGD_HBS_Costello_lie-600x117.png",
-      "/wp-content/uploads/2019/10/DCGD_HBS_Costello_lie-800x157.png"
+      "/wp-content/uploads/2019/10/DCGD_HBS_Costello_lie.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/10/DCGD_Costello_Felony.png",
-    "ts": "20191215080258",
+    "ts": "20191113063928",
     "variants": [
-      "/wp-content/uploads/2019/10/DCGD_Costello_Felony-200x133.png",
-      "/wp-content/uploads/2019/10/DCGD_Costello_Felony.png",
-      "/wp-content/uploads/2019/10/DCGD_Costello_Felony-400x265.png",
-      "/wp-content/uploads/2019/10/DCGD_Costello_Felony-600x398.png",
-      "/wp-content/uploads/2019/10/DCGD_Costello_Felony-800x531.png"
+      "/wp-content/uploads/2019/10/DCGD_Costello_Felony.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/10/DCG_Justin_crimes.png",
-    "ts": "20191215080258",
+    "ts": "20191113063928",
     "variants": [
-      "/wp-content/uploads/2019/10/DCG_Justin_crimes-200x182.png",
-      "/wp-content/uploads/2019/10/DCG_Justin_crimes-1024x934.png",
-      "/wp-content/uploads/2019/10/DCG_Justin_crimes-400x365.png",
-      "/wp-content/uploads/2019/10/DCG_Justin_crimes-600x547.png",
-      "/wp-content/uploads/2019/10/DCG_Justin_crimes-800x730.png",
       "/wp-content/uploads/2019/10/DCG_Justin_crimes.png"
     ]
   },
@@ -949,11 +843,6 @@
     "canonicalPath": "/wp-content/uploads/2019/10/DCGD_failed_sale_2017.png",
     "ts": "20191113063928",
     "variants": [
-      "/wp-content/uploads/2019/10/DCGD_failed_sale_2017-200x164.png",
-      "/wp-content/uploads/2019/10/DCGD_failed_sale_2017-1024x840.png",
-      "/wp-content/uploads/2019/10/DCGD_failed_sale_2017-400x328.png",
-      "/wp-content/uploads/2019/10/DCGD_failed_sale_2017-600x492.png",
-      "/wp-content/uploads/2019/10/DCGD_failed_sale_2017-800x656.png",
       "/wp-content/uploads/2019/10/DCGD_failed_sale_2017.png"
     ]
   },
@@ -961,25 +850,13 @@
     "canonicalPath": "/wp-content/uploads/2019/08/One-Source-CBD-website-fail.png",
     "ts": "20191113064332",
     "variants": [
-      "/wp-content/uploads/2019/08/One-Source-CBD-website-fail-200x125.png",
-      "/wp-content/uploads/2019/08/One-Source-CBD-website-fail-300x188.png",
-      "/wp-content/uploads/2019/08/One-Source-CBD-website-fail-400x251.png",
-      "/wp-content/uploads/2019/08/One-Source-CBD-website-fail-600x376.png",
-      "/wp-content/uploads/2019/08/One-Source-CBD-website-fail-800x501.png",
-      "/wp-content/uploads/2019/08/One-Source-CBD-website-fail-1200x752.png",
       "/wp-content/uploads/2019/08/One-Source-CBD-website-fail.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/Seed-Science-FDA-disclaimer.png",
-    "ts": "20191215080258",
+    "ts": "20191113064332",
     "variants": [
-      "/wp-content/uploads/2019/08/Seed-Science-FDA-disclaimer-200x109.png",
-      "/wp-content/uploads/2019/08/Seed-Science-FDA-disclaimer-300x164.png",
-      "/wp-content/uploads/2019/08/Seed-Science-FDA-disclaimer-400x219.png",
-      "/wp-content/uploads/2019/08/Seed-Science-FDA-disclaimer-600x328.png",
-      "/wp-content/uploads/2019/08/Seed-Science-FDA-disclaimer-800x437.png",
-      "/wp-content/uploads/2019/08/Seed-Science-FDA-disclaimer-1200x656.png",
       "/wp-content/uploads/2019/08/Seed-Science-FDA-disclaimer.png"
     ]
   },
@@ -987,25 +864,13 @@
     "canonicalPath": "/wp-content/uploads/2019/08/Seed-Science-Insta.png",
     "ts": "20191113064332",
     "variants": [
-      "/wp-content/uploads/2019/08/Seed-Science-Insta-200x104.png",
-      "/wp-content/uploads/2019/08/Seed-Science-Insta-300x156.png",
-      "/wp-content/uploads/2019/08/Seed-Science-Insta-400x208.png",
-      "/wp-content/uploads/2019/08/Seed-Science-Insta-600x313.png",
-      "/wp-content/uploads/2019/08/Seed-Science-Insta-800x417.png",
-      "/wp-content/uploads/2019/08/Seed-Science-Insta-1200x625.png",
       "/wp-content/uploads/2019/08/Seed-Science-Insta.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/Soulshine-disclaimer.png",
-    "ts": "20191215080258",
+    "ts": "20191113064332",
     "variants": [
-      "/wp-content/uploads/2019/08/Soulshine-disclaimer-200x119.png",
-      "/wp-content/uploads/2019/08/Soulshine-disclaimer-300x178.png",
-      "/wp-content/uploads/2019/08/Soulshine-disclaimer-400x237.png",
-      "/wp-content/uploads/2019/08/Soulshine-disclaimer-600x356.png",
-      "/wp-content/uploads/2019/08/Soulshine-disclaimer-800x474.png",
-      "/wp-content/uploads/2019/08/Soulshine-disclaimer-1200x712.png",
       "/wp-content/uploads/2019/08/Soulshine-disclaimer.png"
     ]
   },
@@ -1013,37 +878,20 @@
     "canonicalPath": "/wp-content/uploads/2019/08/Soulshine-policies.png",
     "ts": "20191113064332",
     "variants": [
-      "/wp-content/uploads/2019/08/Soulshine-policies-200x103.png",
-      "/wp-content/uploads/2019/08/Soulshine-policies-300x154.png",
-      "/wp-content/uploads/2019/08/Soulshine-policies-400x205.png",
-      "/wp-content/uploads/2019/08/Soulshine-policies-600x308.png",
-      "/wp-content/uploads/2019/08/Soulshine-policies-800x410.png",
-      "/wp-content/uploads/2019/08/Soulshine-policies-1200x616.png",
       "/wp-content/uploads/2019/08/Soulshine-policies.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/Pacific-Merchant-insta.png",
-    "ts": "20191215080258",
+    "ts": "20191113064332",
     "variants": [
-      "/wp-content/uploads/2019/08/Pacific-Merchant-insta-200x83.png",
-      "/wp-content/uploads/2019/08/Pacific-Merchant-insta-300x125.png",
-      "/wp-content/uploads/2019/08/Pacific-Merchant-insta-400x167.png",
-      "/wp-content/uploads/2019/08/Pacific-Merchant-insta-600x250.png",
-      "/wp-content/uploads/2019/08/Pacific-Merchant-insta-800x333.png",
-      "/wp-content/uploads/2019/08/Pacific-Merchant-insta-1200x500.png",
       "/wp-content/uploads/2019/08/Pacific-Merchant-insta.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/Pacific-Merchant-facebook.png",
-    "ts": "20191215080258",
+    "ts": "20191113064332",
     "variants": [
-      "/wp-content/uploads/2019/08/Pacific-Merchant-facebook-200x170.png",
-      "/wp-content/uploads/2019/08/Pacific-Merchant-facebook-300x255.png",
-      "/wp-content/uploads/2019/08/Pacific-Merchant-facebook-400x339.png",
-      "/wp-content/uploads/2019/08/Pacific-Merchant-facebook-600x509.png",
-      "/wp-content/uploads/2019/08/Pacific-Merchant-facebook-800x679.png",
       "/wp-content/uploads/2019/08/Pacific-Merchant-facebook.png"
     ]
   },
@@ -1051,11 +899,6 @@
     "canonicalPath": "/wp-content/uploads/2019/08/DCGD-financials-1.png",
     "ts": "20191113075758",
     "variants": [
-      "/wp-content/uploads/2019/08/DCGD-financials-1-200x187.png",
-      "/wp-content/uploads/2019/08/DCGD-financials-1-300x280.png",
-      "/wp-content/uploads/2019/08/DCGD-financials-1-400x373.png",
-      "/wp-content/uploads/2019/08/DCGD-financials-1-600x560.png",
-      "/wp-content/uploads/2019/08/DCGD-financials-1-800x747.png",
       "/wp-content/uploads/2019/08/DCGD-financials-1.png"
     ]
   },
@@ -1063,11 +906,6 @@
     "canonicalPath": "/wp-content/uploads/2019/08/DCGD-financials-2.png",
     "ts": "20191113075758",
     "variants": [
-      "/wp-content/uploads/2019/08/DCGD-financials-2-200x187.png",
-      "/wp-content/uploads/2019/08/DCGD-financials-2-300x281.png",
-      "/wp-content/uploads/2019/08/DCGD-financials-2-400x374.png",
-      "/wp-content/uploads/2019/08/DCGD-financials-2-600x562.png",
-      "/wp-content/uploads/2019/08/DCGD-financials-2-800x749.png",
       "/wp-content/uploads/2019/08/DCGD-financials-2.png"
     ]
   },
@@ -1075,11 +913,6 @@
     "canonicalPath": "/wp-content/uploads/2019/08/DCGD-pump-1.png",
     "ts": "20191113075758",
     "variants": [
-      "/wp-content/uploads/2019/08/DCGD-pump-1-200x188.png",
-      "/wp-content/uploads/2019/08/DCGD-pump-1-300x282.png",
-      "/wp-content/uploads/2019/08/DCGD-pump-1-400x376.png",
-      "/wp-content/uploads/2019/08/DCGD-pump-1-600x565.png",
-      "/wp-content/uploads/2019/08/DCGD-pump-1-800x753.png",
       "/wp-content/uploads/2019/08/DCGD-pump-1.png"
     ]
   },
@@ -1087,11 +920,6 @@
     "canonicalPath": "/wp-content/uploads/2019/08/DCGD-pump-2.png",
     "ts": "20191113075758",
     "variants": [
-      "/wp-content/uploads/2019/08/DCGD-pump-2-200x168.png",
-      "/wp-content/uploads/2019/08/DCGD-pump-2-300x252.png",
-      "/wp-content/uploads/2019/08/DCGD-pump-2-400x336.png",
-      "/wp-content/uploads/2019/08/DCGD-pump-2-600x504.png",
-      "/wp-content/uploads/2019/08/DCGD-pump-2-800x672.png",
       "/wp-content/uploads/2019/08/DCGD-pump-2.png"
     ]
   },
@@ -1099,55 +927,118 @@
     "canonicalPath": "/wp-content/uploads/2019/08/DCGD-pump-3.png",
     "ts": "20191113075758",
     "variants": [
-      "/wp-content/uploads/2019/08/DCGD-pump-3-200x189.png",
-      "/wp-content/uploads/2019/08/DCGD-pump-3-300x283.png",
-      "/wp-content/uploads/2019/08/DCGD-pump-3-400x377.png",
-      "/wp-content/uploads/2019/08/DCGD-pump-3-600x566.png",
-      "/wp-content/uploads/2019/08/DCGD-pump-3-800x755.png",
       "/wp-content/uploads/2019/08/DCGD-pump-3.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2021/03/image-40.png",
+    "ts": "20210301230017",
+    "variants": [
+      "/wp-content/uploads/2021/03/image-40.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/apollo13_images/e92b5-enlv-candles-1-7qyh1mfeh2imz5s70bnknaknb1f2m6st0q.png",
+    "ts": "20201026065838",
+    "variants": [
+      "/wp-content/uploads/apollo13_images/e92b5-enlv-candles-1-7qyh1mfeh2imz5s70bnknaknb1f2m6st0q.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/09/BC-TR-Graph-Sep10.png",
+    "ts": "20201026065838",
+    "variants": [
+      "/wp-content/uploads/2020/09/BC-TR-Graph-Sep10.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/apollo13_images/b05fc-fcel-2-candles-7qyh1q51s3md03gzgfanczw0xx3xc27mgy.png",
+    "ts": "20200619161853",
+    "variants": [
+      "/wp-content/uploads/apollo13_images/b05fc-fcel-2-candles-7qyh1q51s3md03gzgfanczw0xx3xc27mgy.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/FCEL-debt.png",
     "ts": "20200619161853",
     "variants": [
-      "/wp-content/uploads/2020/01/FCEL-debt-200x143.png",
-      "/wp-content/uploads/2020/01/FCEL-debt.png",
-      "/wp-content/uploads/2020/01/FCEL-debt-400x285.png",
-      "/wp-content/uploads/2020/01/FCEL-debt-600x428.png",
-      "/wp-content/uploads/2020/01/FCEL-debt-800x571.png"
+      "/wp-content/uploads/2020/01/FCEL-debt.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/FCEL_Hercules_rape.png",
     "ts": "20200619161853",
     "variants": [
-      "/wp-content/uploads/2020/01/FCEL_Hercules_rape-200x67.png",
-      "/wp-content/uploads/2020/01/FCEL_Hercules_rape.png",
-      "/wp-content/uploads/2020/01/FCEL_Hercules_rape-400x135.png",
-      "/wp-content/uploads/2020/01/FCEL_Hercules_rape-600x202.png",
-      "/wp-content/uploads/2020/01/FCEL_Hercules_rape-800x270.png"
+      "/wp-content/uploads/2020/01/FCEL_Hercules_rape.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/FCEL-flags.png",
     "ts": "20200619161853",
     "variants": [
-      "/wp-content/uploads/2020/01/FCEL-flags-200x201.png",
-      "/wp-content/uploads/2020/01/FCEL-flags.png",
-      "/wp-content/uploads/2020/01/FCEL-flags-400x402.png",
-      "/wp-content/uploads/2020/01/FCEL-flags-600x604.png"
+      "/wp-content/uploads/2020/01/FCEL-flags.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/11/FCEL2-debt-issues.png",
+    "ts": "20201119152615",
+    "variants": [
+      "/wp-content/uploads/2020/11/FCEL2-debt-issues.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/11/FCEL2-Orion-share-sale.png",
+    "ts": "20201119152615",
+    "variants": [
+      "/wp-content/uploads/2020/11/FCEL2-Orion-share-sale.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/11/FCEL2-CVI-filing.png",
+    "ts": "20201119152615",
+    "variants": [
+      "/wp-content/uploads/2020/11/FCEL2-CVI-filing.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/11/FCEL-flags.png",
+    "ts": "20201119152615",
+    "variants": [
+      "/wp-content/uploads/2020/11/FCEL-flags.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/01/GNPX_promotion.png",
+    "ts": "20201129023959",
+    "variants": [
+      "/wp-content/uploads/2020/01/GNPX_promotion.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/08/Iroquois-GNUS-long-term.png",
+    "ts": "20201212071418",
+    "variants": [
+      "/wp-content/uploads/2020/08/Iroquois-GNUS-long-term.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/08/Iroquois-GNUS-S3-shares.png",
+    "ts": "20201212071418",
+    "variants": [
+      "/wp-content/uploads/2020/08/Iroquois-GNUS-S3-shares.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/11/GRNF-candles.png",
+    "ts": "20191215080258",
+    "variants": [
+      "/wp-content/uploads/2019/11/GRNF-candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/11/GRN-portfolio.png",
     "ts": "20191215080258",
     "variants": [
-      "/wp-content/uploads/2019/11/GRN-portfolio-200x103.png",
-      "/wp-content/uploads/2019/11/GRN-portfolio-600x310.png",
-      "/wp-content/uploads/2019/11/GRN-portfolio-400x206.png",
-      "/wp-content/uploads/2019/11/GRN-portfolio-800x413.png",
-      "/wp-content/uploads/2019/11/GRN-portfolio-1200x619.png",
       "/wp-content/uploads/2019/11/GRN-portfolio.png"
     ]
   },
@@ -1155,10 +1046,6 @@
     "canonicalPath": "/wp-content/uploads/2019/11/One-Source-CBD-domain-sale.png",
     "ts": "20191215080258",
     "variants": [
-      "/wp-content/uploads/2019/11/One-Source-CBD-domain-sale-200x121.png",
-      "/wp-content/uploads/2019/11/One-Source-CBD-domain-sale-600x364.png",
-      "/wp-content/uploads/2019/11/One-Source-CBD-domain-sale-400x243.png",
-      "/wp-content/uploads/2019/11/One-Source-CBD-domain-sale-800x486.png",
       "/wp-content/uploads/2019/11/One-Source-CBD-domain-sale.png"
     ]
   },
@@ -1166,10 +1053,6 @@
     "canonicalPath": "/wp-content/uploads/2019/11/GRNF_billions.png",
     "ts": "20191215080258",
     "variants": [
-      "/wp-content/uploads/2019/11/GRNF_billions-200x73.png",
-      "/wp-content/uploads/2019/11/GRNF_billions-600x220.png",
-      "/wp-content/uploads/2019/11/GRNF_billions-400x147.png",
-      "/wp-content/uploads/2019/11/GRNF_billions-800x293.png",
       "/wp-content/uploads/2019/11/GRNF_billions.png"
     ]
   },
@@ -1177,8 +1060,6 @@
     "canonicalPath": "/wp-content/uploads/2019/11/GRN_midget_stock.png",
     "ts": "20191215080258",
     "variants": [
-      "/wp-content/uploads/2019/11/GRN_midget_stock-200x341.png",
-      "/wp-content/uploads/2019/11/GRN_midget_stock-400x683.png",
       "/wp-content/uploads/2019/11/GRN_midget_stock.png"
     ]
   },
@@ -1186,8 +1067,6 @@
     "canonicalPath": "/wp-content/uploads/2019/11/GRN_midget_and_pumper.png",
     "ts": "20191215080258",
     "variants": [
-      "/wp-content/uploads/2019/11/GRN_midget_and_pumper-200x221.png",
-      "/wp-content/uploads/2019/11/GRN_midget_and_pumper-400x442.png",
       "/wp-content/uploads/2019/11/GRN_midget_and_pumper.png"
     ]
   },
@@ -1195,21 +1074,13 @@
     "canonicalPath": "/wp-content/uploads/2019/11/DCGD_HBS_Costello_lie.png",
     "ts": "20191215080258",
     "variants": [
-      "/wp-content/uploads/2019/11/DCGD_HBS_Costello_lie-200x39.png",
-      "/wp-content/uploads/2019/11/DCGD_HBS_Costello_lie.png",
-      "/wp-content/uploads/2019/11/DCGD_HBS_Costello_lie-400x78.png",
-      "/wp-content/uploads/2019/11/DCGD_HBS_Costello_lie-600x117.png",
-      "/wp-content/uploads/2019/11/DCGD_HBS_Costello_lie-800x157.png"
+      "/wp-content/uploads/2019/11/DCGD_HBS_Costello_lie.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/11/Screenshot-11-Copy.png",
     "ts": "20191215080258",
     "variants": [
-      "/wp-content/uploads/2019/11/Screenshot-11-Copy-200x137.png",
-      "/wp-content/uploads/2019/11/Screenshot-11-Copy-800x547.png",
-      "/wp-content/uploads/2019/11/Screenshot-11-Copy-400x274.png",
-      "/wp-content/uploads/2019/11/Screenshot-11-Copy-600x410.png",
       "/wp-content/uploads/2019/11/Screenshot-11-Copy.png"
     ]
   },
@@ -1217,10 +1088,6 @@
     "canonicalPath": "/wp-content/uploads/2019/11/Cease-and-desist-seekingalpha.png",
     "ts": "20191215080258",
     "variants": [
-      "/wp-content/uploads/2019/11/Cease-and-desist-seekingalpha-200x162.png",
-      "/wp-content/uploads/2019/11/Cease-and-desist-seekingalpha-800x650.png",
-      "/wp-content/uploads/2019/11/Cease-and-desist-seekingalpha-400x325.png",
-      "/wp-content/uploads/2019/11/Cease-and-desist-seekingalpha-600x487.png",
       "/wp-content/uploads/2019/11/Cease-and-desist-seekingalpha.png"
     ]
   },
@@ -1228,10 +1095,6 @@
     "canonicalPath": "/wp-content/uploads/2019/11/COWPP_Bux.png",
     "ts": "20191215080258",
     "variants": [
-      "/wp-content/uploads/2019/11/COWPP_Bux-200x109.png",
-      "/wp-content/uploads/2019/11/COWPP_Bux-400x219.png",
-      "/wp-content/uploads/2019/11/COWPP_Bux-600x328.png",
-      "/wp-content/uploads/2019/11/COWPP_Bux-800x438.png",
       "/wp-content/uploads/2019/11/COWPP_Bux.png"
     ]
   },
@@ -1239,11 +1102,42 @@
     "canonicalPath": "/wp-content/uploads/2019/11/COWPP-SEC.png",
     "ts": "20191215080258",
     "variants": [
-      "/wp-content/uploads/2019/11/COWPP-SEC-200x131.png",
-      "/wp-content/uploads/2019/11/COWPP-SEC-400x261.png",
-      "/wp-content/uploads/2019/11/COWPP-SEC-600x392.png",
-      "/wp-content/uploads/2019/11/COWPP-SEC-800x523.png",
       "/wp-content/uploads/2019/11/COWPP-SEC.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/apollo13_images/76054-htz-candles-7qyh1nhl4sjp9pozphu5zs3brv1lofruo6.png",
+    "ts": "20201026065125",
+    "variants": [
+      "/wp-content/uploads/apollo13_images/76054-htz-candles-7qyh1nhl4sjp9pozphu5zs3brv1lofruo6.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/03/Hudson_Bay_SAVA_1.png",
+    "ts": "20200519154939",
+    "variants": [
+      "/wp-content/uploads/2020/03/Hudson_Bay_SAVA_1.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/03/Iliad_featured_image.png",
+    "ts": "20200514145015",
+    "variants": [
+      "/wp-content/uploads/2020/03/Iliad_featured_image.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/03/Iliad_index.png",
+    "ts": "20200514145015",
+    "variants": [
+      "/wp-content/uploads/2020/03/Iliad_index.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/03/Iliad_INPX.png",
+    "ts": "20200514145015",
+    "variants": [
+      "/wp-content/uploads/2020/03/Iliad_INPX.png"
     ]
   },
   {
@@ -1254,153 +1148,261 @@
     ]
   },
   {
+    "canonicalPath": "/wp-content/uploads/2020/01/INPX-candles.png",
+    "ts": "20200307103531",
+    "variants": [
+      "/wp-content/uploads/2020/01/INPX-candles.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/03/Sabby_INPX.png",
+    "ts": "20200307103531",
+    "variants": [
+      "/wp-content/uploads/2020/03/Sabby_INPX.png"
+    ]
+  },
+  {
     "canonicalPath": "/wp-content/uploads/2020/01/INPX-financials.png",
     "ts": "20200307103531",
     "variants": [
-      "/wp-content/uploads/2020/01/INPX-financials-200x47.png",
-      "/wp-content/uploads/2020/01/INPX-financials.png",
-      "/wp-content/uploads/2020/01/INPX-financials-400x95.png",
-      "/wp-content/uploads/2020/01/INPX-financials-600x142.png"
+      "/wp-content/uploads/2020/01/INPX-financials.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/INPX-Iliad-cheap-shares.png",
     "ts": "20200307103531",
     "variants": [
-      "/wp-content/uploads/2020/01/INPX-Iliad-cheap-shares-200x126.png",
-      "/wp-content/uploads/2020/01/INPX-Iliad-cheap-shares.png",
-      "/wp-content/uploads/2020/01/INPX-Iliad-cheap-shares-400x252.png",
-      "/wp-content/uploads/2020/01/INPX-Iliad-cheap-shares-600x379.png",
-      "/wp-content/uploads/2020/01/INPX-Iliad-cheap-shares-800x505.png"
+      "/wp-content/uploads/2020/01/INPX-Iliad-cheap-shares.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/INPX-Chicago-cheap-shares.png",
     "ts": "20200307103531",
     "variants": [
-      "/wp-content/uploads/2020/01/INPX-Chicago-cheap-shares-200x59.png",
-      "/wp-content/uploads/2020/01/INPX-Chicago-cheap-shares.png",
-      "/wp-content/uploads/2020/01/INPX-Chicago-cheap-shares-400x117.png",
-      "/wp-content/uploads/2020/01/INPX-Chicago-cheap-shares-600x176.png",
-      "/wp-content/uploads/2020/01/INPX-Chicago-cheap-shares-800x235.png"
+      "/wp-content/uploads/2020/01/INPX-Chicago-cheap-shares.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/INPX-flags.png",
     "ts": "20200307103531",
     "variants": [
-      "/wp-content/uploads/2020/01/INPX-flags-200x200.png",
-      "/wp-content/uploads/2020/01/INPX-flags.png",
-      "/wp-content/uploads/2020/01/INPX-flags-400x399.png",
-      "/wp-content/uploads/2020/01/INPX-flags-600x599.png"
+      "/wp-content/uploads/2020/01/INPX-flags.png"
     ]
   },
   {
-    "canonicalPath": "/wp-content/uploads/2020/03/Iliad_featured_image.png",
-    "ts": "20200506023043",
+    "canonicalPath": "/wp-content/uploads/2020/02/COCP_financials.png",
+    "ts": "20201125133847",
     "variants": [
-      "/wp-content/uploads/2020/03/Iliad_featured_image.png",
-      "/wp-content/uploads/2020/03/Iliad_featured_image-300x220.png",
-      "/wp-content/uploads/2020/03/Iliad_featured_image-200x147.png"
+      "/wp-content/uploads/2020/02/COCP_financials.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/02/COCP_offering.png",
+    "ts": "20201125133847",
+    "variants": [
+      "/wp-content/uploads/2020/02/COCP_offering.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/02/COCP_OPKO_stake.png",
+    "ts": "20201125133847",
+    "variants": [
+      "/wp-content/uploads/2020/02/COCP_OPKO_stake.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/02/COCP_frost_SEC_lawsuit.png",
+    "ts": "20201125133847",
+    "variants": [
+      "/wp-content/uploads/2020/02/COCP_frost_SEC_lawsuit.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/Capture.png",
     "ts": "20200506023043",
     "variants": [
-      "/wp-content/uploads/2020/03/Capture.png",
-      "/wp-content/uploads/2020/03/Capture-300x241.png",
-      "/wp-content/uploads/2020/03/Capture-1024x821.png",
-      "/wp-content/uploads/2020/03/Capture-200x160.png"
+      "/wp-content/uploads/2020/03/Capture.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/51gMZKtGkrL._AC_UX522_.jpg",
     "ts": "20200506023043",
     "variants": [
-      "/wp-content/uploads/2020/03/51gMZKtGkrL._AC_UX522_.jpg",
-      "/wp-content/uploads/2020/03/51gMZKtGkrL._AC_UX522_-300x213.jpg",
-      "/wp-content/uploads/2020/03/51gMZKtGkrL._AC_UX522_-200x142.jpg"
-    ]
-  },
-  {
-    "canonicalPath": "/wp-content/uploads/2020/04/CVI-featured-image.png",
-    "ts": "20200506023043",
-    "variants": [
-      "/wp-content/uploads/2020/04/CVI-featured-image.png",
-      "/wp-content/uploads/2020/04/CVI-featured-image-300x187.png",
-      "/wp-content/uploads/2020/04/CVI-featured-image-1024x640.png",
-      "/wp-content/uploads/2020/04/CVI-featured-image-200x125.png"
+      "/wp-content/uploads/2020/03/51gMZKtGkrL._AC_UX522_.jpg"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/image.jpg",
     "ts": "20200506023043",
     "variants": [
-      "/wp-content/uploads/2020/03/image.jpg",
-      "/wp-content/uploads/2020/03/image-300x169.jpg",
-      "/wp-content/uploads/2020/03/image-1024x575.jpg",
-      "/wp-content/uploads/2020/03/image-200x112.jpg"
+      "/wp-content/uploads/2020/03/image.jpg"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/corona_squeeze.png",
     "ts": "20200506023043",
     "variants": [
-      "/wp-content/uploads/2020/02/corona_squeeze.png",
-      "/wp-content/uploads/2020/02/corona_squeeze-300x201.png",
-      "/wp-content/uploads/2020/02/corona_squeeze-1024x687.png",
-      "/wp-content/uploads/2020/02/corona_squeeze-200x134.png"
+      "/wp-content/uploads/2020/02/corona_squeeze.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/TNXP_candles.png",
     "ts": "20200506023043",
     "variants": [
-      "/wp-content/uploads/2020/02/TNXP_candles.png",
-      "/wp-content/uploads/2020/02/TNXP_candles-300x207.png",
-      "/wp-content/uploads/2020/02/TNXP_candles-1024x706.png",
-      "/wp-content/uploads/2020/02/TNXP_candles-200x138.png"
-    ]
-  },
-  {
-    "canonicalPath": "/wp-content/uploads/2020/02/COCP_candles.png",
-    "ts": "20200506023043",
-    "variants": [
-      "/wp-content/uploads/2020/02/COCP_candles.png",
-      "/wp-content/uploads/2020/02/COCP_candles-300x205.png",
-      "/wp-content/uploads/2020/02/COCP_candles-1024x700.png",
-      "/wp-content/uploads/2020/02/COCP_candles-200x137.png"
+      "/wp-content/uploads/2020/02/TNXP_candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/12/ONCY-candles.png",
     "ts": "20200506023043",
     "variants": [
-      "/wp-content/uploads/2019/12/ONCY-candles.png",
-      "/wp-content/uploads/2019/12/ONCY-candles-300x214.png",
-      "/wp-content/uploads/2019/12/ONCY-candles-1024x730.png",
-      "/wp-content/uploads/2019/12/ONCY-candles-200x143.png"
+      "/wp-content/uploads/2019/12/ONCY-candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/11/RIVX_candles.png",
     "ts": "20200506023043",
     "variants": [
-      "/wp-content/uploads/2019/11/RIVX_candles.png",
-      "/wp-content/uploads/2019/11/RIVX_candles-300x201.png",
-      "/wp-content/uploads/2019/11/RIVX_candles-200x134.png"
+      "/wp-content/uploads/2019/11/RIVX_candles.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/08/Iroquois-featured-image.png",
+    "ts": "20200924221933",
+    "variants": [
+      "/wp-content/uploads/2020/08/Iroquois-featured-image.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/06/PA-featured-image.png",
+    "ts": "20200924221933",
+    "variants": [
+      "/wp-content/uploads/2020/06/PA-featured-image.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/08/Iroquois-TNXP-long-term.png",
+    "ts": "20200924215448",
+    "variants": [
+      "/wp-content/uploads/2020/08/Iroquois-TNXP-long-term.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/08/Iroquois-TNXP-spike.png",
+    "ts": "20200924215448",
+    "variants": [
+      "/wp-content/uploads/2020/08/Iroquois-TNXP-spike.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/08/Iroquois-XSPA-short-term-spike.png",
+    "ts": "20200924215448",
+    "variants": [
+      "/wp-content/uploads/2020/08/Iroquois-XSPA-short-term-spike.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/08/Iroquois-XSPA-actual-short-term-spike.png",
+    "ts": "20200924215448",
+    "variants": [
+      "/wp-content/uploads/2020/08/Iroquois-XSPA-actual-short-term-spike.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/07/TNXP2-Iroquois-Lawsuit.png",
+    "ts": "20200924215448",
+    "variants": [
+      "/wp-content/uploads/2020/07/TNXP2-Iroquois-Lawsuit.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/08/Iroquois-GNUS-short-term-spike.png",
+    "ts": "20200924215448",
+    "variants": [
+      "/wp-content/uploads/2020/08/Iroquois-GNUS-short-term-spike.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/07/TNXP2-Zacks-promo.png",
+    "ts": "20200924215448",
+    "variants": [
+      "/wp-content/uploads/2020/07/TNXP2-Zacks-promo.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/08/Iroquois-Index.png",
+    "ts": "20200924215448",
+    "variants": [
+      "/wp-content/uploads/2020/08/Iroquois-Index.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/12/ISCNF_candles.png",
+    "ts": "20200922151732",
+    "variants": [
+      "/wp-content/uploads/2019/12/ISCNF_candles.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/12/ISCNF_scam_timeline.png",
+    "ts": "20200922151732",
+    "variants": [
+      "/wp-content/uploads/2019/12/ISCNF_scam_timeline.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/12/ISCNF-equityguru.png",
+    "ts": "20200922151732",
+    "variants": [
+      "/wp-content/uploads/2019/12/ISCNF-equityguru.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/12/ISCNF_landing_page.png",
+    "ts": "20200922151732",
+    "variants": [
+      "/wp-content/uploads/2019/12/ISCNF_landing_page.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/12/ISCNF-flags.png",
+    "ts": "20200922151732",
+    "variants": [
+      "/wp-content/uploads/2019/12/ISCNF-flags.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/12/ISEE_candles_2.png",
+    "ts": "20200922135512",
+    "variants": [
+      "/wp-content/uploads/2019/12/ISEE_candles_2.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/11/ISEE_ATM.png",
+    "ts": "20200922135512",
+    "variants": [
+      "/wp-content/uploads/2019/11/ISEE_ATM.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/12/ISEE_flags-1.png",
+    "ts": "20200922135512",
+    "variants": [
+      "/wp-content/uploads/2019/12/ISEE_flags-1.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/07/LQWC-candles.png",
+    "ts": "20191113082007",
+    "variants": [
+      "/wp-content/uploads/2019/07/LQWC-candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/07/Capture.png",
     "ts": "20191113082007",
     "variants": [
-      "/wp-content/uploads/2019/07/Capture-200x172.png",
-      "/wp-content/uploads/2019/07/Capture-300x258.png",
-      "/wp-content/uploads/2019/07/Capture-400x344.png",
-      "/wp-content/uploads/2019/07/Capture-600x516.png",
-      "/wp-content/uploads/2019/07/Capture-800x689.png",
       "/wp-content/uploads/2019/07/Capture.png"
     ]
   },
@@ -1408,11 +1410,6 @@
     "canonicalPath": "/wp-content/uploads/2019/07/Capture-2.png",
     "ts": "20191113082007",
     "variants": [
-      "/wp-content/uploads/2019/07/Capture-2-200x172.png",
-      "/wp-content/uploads/2019/07/Capture-2-300x258.png",
-      "/wp-content/uploads/2019/07/Capture-2-400x344.png",
-      "/wp-content/uploads/2019/07/Capture-2-600x517.png",
-      "/wp-content/uploads/2019/07/Capture-2-800x689.png",
       "/wp-content/uploads/2019/07/Capture-2.png"
     ]
   },
@@ -1420,112 +1417,76 @@
     "canonicalPath": "/wp-content/uploads/2020/03/Lincoln_Park_TNXP.png",
     "ts": "20200510015139",
     "variants": [
-      "/wp-content/uploads/2020/03/Lincoln_Park_TNXP-200x112.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_TNXP.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_TNXP-400x223.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_TNXP-600x335.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_TNXP-800x447.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_TNXP-1200x670.png"
+      "/wp-content/uploads/2020/03/Lincoln_Park_TNXP.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/Lincoln_Park_TNXP_2019_SPA.png",
     "ts": "20200510015139",
     "variants": [
-      "/wp-content/uploads/2020/03/Lincoln_Park_TNXP_2019_SPA-200x55.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_TNXP_2019_SPA.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_TNXP_2019_SPA-400x109.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_TNXP_2019_SPA-600x164.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_TNXP_2019_SPA-800x218.png"
+      "/wp-content/uploads/2020/03/Lincoln_Park_TNXP_2019_SPA.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/Lincoln_Park_AVXL_candles.png",
     "ts": "20200510015139",
     "variants": [
-      "/wp-content/uploads/2020/03/Lincoln_Park_AVXL_candles-200x111.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_AVXL_candles.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_AVXL_candles-400x222.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_AVXL_candles-600x333.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_AVXL_candles-800x445.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_AVXL_candles-1200x667.png"
+      "/wp-content/uploads/2020/03/Lincoln_Park_AVXL_candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/Lincoln_Park_AVXL_SPA_2019.png",
     "ts": "20200510015139",
     "variants": [
-      "/wp-content/uploads/2020/03/Lincoln_Park_AVXL_SPA_2019-200x74.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_AVXL_SPA_2019.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_AVXL_SPA_2019-400x149.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_AVXL_SPA_2019-600x223.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_AVXL_SPA_2019-800x297.png"
+      "/wp-content/uploads/2020/03/Lincoln_Park_AVXL_SPA_2019.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/Lincoln_Park_ONCY_candles.png",
     "ts": "20200510015139",
     "variants": [
-      "/wp-content/uploads/2020/03/Lincoln_Park_ONCY_candles-200x111.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_ONCY_candles.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_ONCY_candles-400x223.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_ONCY_candles-600x334.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_ONCY_candles-800x445.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_ONCY_candles-1200x668.png"
+      "/wp-content/uploads/2020/03/Lincoln_Park_ONCY_candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/Lincoln_Park_BTCY_candles.png",
     "ts": "20200510015139",
     "variants": [
-      "/wp-content/uploads/2020/03/Lincoln_Park_BTCY_candles-200x111.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_BTCY_candles.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_BTCY_candles-400x223.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_BTCY_candles-600x334.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_BTCY_candles-800x446.png",
-      "/wp-content/uploads/2020/03/Lincoln_Park_BTCY_candles-1200x668.png"
+      "/wp-content/uploads/2020/03/Lincoln_Park_BTCY_candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/LPC-Index.png",
     "ts": "20200510015139",
     "variants": [
-      "/wp-content/uploads/2020/03/LPC-Index-200x202.png",
-      "/wp-content/uploads/2020/03/LPC-Index.png",
-      "/wp-content/uploads/2020/03/LPC-Index-400x403.png",
-      "/wp-content/uploads/2020/03/LPC-Index-600x605.png",
-      "/wp-content/uploads/2020/03/LPC-Index-800x807.png"
+      "/wp-content/uploads/2020/03/LPC-Index.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/05/MVIS_Lincoln_Park_SPA.png",
     "ts": "20200514201649",
     "variants": [
-      "/wp-content/uploads/2020/05/MVIS_Lincoln_Park_SPA-200x34.png",
-      "/wp-content/uploads/2020/05/MVIS_Lincoln_Park_SPA.png",
-      "/wp-content/uploads/2020/05/MVIS_Lincoln_Park_SPA-400x67.png",
-      "/wp-content/uploads/2020/05/MVIS_Lincoln_Park_SPA-600x101.png",
-      "/wp-content/uploads/2020/05/MVIS_Lincoln_Park_SPA-800x135.png"
+      "/wp-content/uploads/2020/05/MVIS_Lincoln_Park_SPA.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/11/NEXCF_candles_Nov_19th.png",
+    "ts": "20191215085527",
+    "variants": [
+      "/wp-content/uploads/2019/11/NEXCF_candles_Nov_19th.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/11/NEXCF-financials.png",
     "ts": "20191215085527",
     "variants": [
-      "/wp-content/uploads/2019/11/NEXCF-financials-200x66.png",
-      "/wp-content/uploads/2019/11/NEXCF-financials.png",
-      "/wp-content/uploads/2019/11/NEXCF-financials-400x133.png",
-      "/wp-content/uploads/2019/11/NEXCF-financials-600x199.png"
+      "/wp-content/uploads/2019/11/NEXCF-financials.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/11/NEXCF_Vacuum.png",
     "ts": "20191215085527",
     "variants": [
-      "/wp-content/uploads/2019/11/NEXCF_Vacuum-200x266.png",
-      "/wp-content/uploads/2019/11/NEXCF_Vacuum-226x300.png",
-      "/wp-content/uploads/2019/11/NEXCF_Vacuum-400x531.png",
-      "/wp-content/uploads/2019/11/NEXCF_Vacuum-600x797.png",
       "/wp-content/uploads/2019/11/NEXCF_Vacuum.png"
     ]
   },
@@ -1533,184 +1494,195 @@
     "canonicalPath": "/wp-content/uploads/2019/11/NEXCF-Zacks-disclaimer.png",
     "ts": "20191215085527",
     "variants": [
-      "/wp-content/uploads/2019/11/NEXCF-Zacks-disclaimer-200x10.png",
-      "/wp-content/uploads/2019/11/NEXCF-Zacks-disclaimer.png",
-      "/wp-content/uploads/2019/11/NEXCF-Zacks-disclaimer-400x20.png",
-      "/wp-content/uploads/2019/11/NEXCF-Zacks-disclaimer-600x30.png",
-      "/wp-content/uploads/2019/11/NEXCF-Zacks-disclaimer-800x39.png",
-      "/wp-content/uploads/2019/11/NEXCF-Zacks-disclaimer-1200x59.png"
+      "/wp-content/uploads/2019/11/NEXCF-Zacks-disclaimer.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/10/Short-post-flag-table-NEXCF.png",
     "ts": "20191215085527",
     "variants": [
-      "/wp-content/uploads/2019/10/Short-post-flag-table-NEXCF-200x190.png",
-      "/wp-content/uploads/2019/10/Short-post-flag-table-NEXCF.png",
-      "/wp-content/uploads/2019/10/Short-post-flag-table-NEXCF-400x379.png",
-      "/wp-content/uploads/2019/10/Short-post-flag-table-NEXCF-600x569.png",
-      "/wp-content/uploads/2019/10/Short-post-flag-table-NEXCF-800x759.png"
+      "/wp-content/uploads/2019/10/Short-post-flag-table-NEXCF.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/01/NVAX-candles.png",
+    "ts": "20210226103821",
+    "variants": [
+      "/wp-content/uploads/2020/01/NVAX-candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/NVAX-price-history.png",
     "ts": "20210226103821",
     "variants": [
-      "/wp-content/uploads/2020/01/NVAX-price-history.png",
-      "/wp-content/uploads/2020/01/NVAX-price-history-200x111.png",
-      "/wp-content/uploads/2020/01/NVAX-price-history-400x223.png",
-      "/wp-content/uploads/2020/01/NVAX-price-history-600x334.png",
-      "/wp-content/uploads/2020/01/NVAX-price-history-800x446.png",
-      "/wp-content/uploads/2020/01/NVAX-price-history-1200x668.png"
+      "/wp-content/uploads/2020/01/NVAX-price-history.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/NVAX-financials.png",
     "ts": "20210226103821",
     "variants": [
-      "/wp-content/uploads/2020/01/NVAX-financials.png",
-      "/wp-content/uploads/2020/01/NVAX-financials-200x38.png",
-      "/wp-content/uploads/2020/01/NVAX-financials-400x75.png",
-      "/wp-content/uploads/2020/01/NVAX-financials-600x113.png",
-      "/wp-content/uploads/2020/01/NVAX-financials-800x151.png"
+      "/wp-content/uploads/2020/01/NVAX-financials.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/NVAX_debt_dilution.png",
     "ts": "20210226103821",
     "variants": [
-      "/wp-content/uploads/2020/01/NVAX_debt_dilution.png",
-      "/wp-content/uploads/2020/01/NVAX_debt_dilution-200x51.png",
-      "/wp-content/uploads/2020/01/NVAX_debt_dilution-400x102.png",
-      "/wp-content/uploads/2020/01/NVAX_debt_dilution-600x153.png",
-      "/wp-content/uploads/2020/01/NVAX_debt_dilution-800x204.png"
+      "/wp-content/uploads/2020/01/NVAX_debt_dilution.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/NVAX-ATM-dec-2018.png",
     "ts": "20210226103821",
     "variants": [
-      "/wp-content/uploads/2020/01/NVAX-ATM-dec-2018.png",
-      "/wp-content/uploads/2020/01/NVAX-ATM-dec-2018-200x51.png",
-      "/wp-content/uploads/2020/01/NVAX-ATM-dec-2018-400x102.png",
-      "/wp-content/uploads/2020/01/NVAX-ATM-dec-2018-600x153.png",
-      "/wp-content/uploads/2020/01/NVAX-ATM-dec-2018-800x205.png"
+      "/wp-content/uploads/2020/01/NVAX-ATM-dec-2018.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/NVAX-S3.png",
     "ts": "20210226103821",
     "variants": [
-      "/wp-content/uploads/2020/01/NVAX-S3.png",
-      "/wp-content/uploads/2020/01/NVAX-S3-200x77.png",
-      "/wp-content/uploads/2020/01/NVAX-S3-400x155.png",
-      "/wp-content/uploads/2020/01/NVAX-S3-600x232.png",
-      "/wp-content/uploads/2020/01/NVAX-S3-800x309.png"
+      "/wp-content/uploads/2020/01/NVAX-S3.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/NVAX-S3-effect.png",
     "ts": "20210226103821",
     "variants": [
-      "/wp-content/uploads/2020/01/NVAX-S3-effect.png",
-      "/wp-content/uploads/2020/01/NVAX-S3-effect-200x49.png",
-      "/wp-content/uploads/2020/01/NVAX-S3-effect-400x98.png",
-      "/wp-content/uploads/2020/01/NVAX-S3-effect-600x148.png",
-      "/wp-content/uploads/2020/01/NVAX-S3-effect-800x197.png",
-      "/wp-content/uploads/2020/01/NVAX-S3-effect-1200x295.png"
+      "/wp-content/uploads/2020/01/NVAX-S3-effect.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/NVAX-convertibles.png",
     "ts": "20210226103821",
     "variants": [
-      "/wp-content/uploads/2020/01/NVAX-convertibles.png",
-      "/wp-content/uploads/2020/01/NVAX-convertibles-200x61.png",
-      "/wp-content/uploads/2020/01/NVAX-convertibles-400x123.png",
-      "/wp-content/uploads/2020/01/NVAX-convertibles-600x184.png",
-      "/wp-content/uploads/2020/01/NVAX-convertibles-800x245.png"
+      "/wp-content/uploads/2020/01/NVAX-convertibles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/NVAX-flags.png",
     "ts": "20210226103821",
     "variants": [
-      "/wp-content/uploads/2020/01/NVAX-flags.png",
-      "/wp-content/uploads/2020/01/NVAX-flags-200x204.png",
-      "/wp-content/uploads/2020/01/NVAX-flags-400x407.png",
-      "/wp-content/uploads/2020/01/NVAX-flags-600x611.png"
+      "/wp-content/uploads/2020/01/NVAX-flags.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/apollo13_images/8bf76-pll-trade-alert-7qyh1m5ut50deiszu13xb66z6u0fumjzi6.png",
+    "ts": "20201026065018",
+    "variants": [
+      "/wp-content/uploads/apollo13_images/8bf76-pll-trade-alert-7qyh1m5ut50deiszu13xb66z6u0fumjzi6.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2021/05/Screenshot-2021-05-04-at-11.25.48.png",
+    "ts": "20210504211423",
+    "variants": [
+      "/wp-content/uploads/2021/05/Screenshot-2021-05-04-at-11.25.48.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/12/PTI-candles.png",
+    "ts": "20200814165633",
+    "variants": [
+      "/wp-content/uploads/2019/12/PTI-candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/12/PTI-ATM.png",
     "ts": "20200814165633",
     "variants": [
-      "/wp-content/uploads/2019/12/PTI-ATM-200x32.png",
-      "/wp-content/uploads/2019/12/PTI-ATM.png",
-      "/wp-content/uploads/2019/12/PTI-ATM-400x64.png",
-      "/wp-content/uploads/2019/12/PTI-ATM-600x96.png",
-      "/wp-content/uploads/2019/12/PTI-ATM-800x127.png"
+      "/wp-content/uploads/2019/12/PTI-ATM.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/12/PTI-flags-1.png",
     "ts": "20200814165633",
     "variants": [
-      "/wp-content/uploads/2019/12/PTI-flags-1-200x202.png",
-      "/wp-content/uploads/2019/12/PTI-flags-1.png",
-      "/wp-content/uploads/2019/12/PTI-flags-1-400x404.png",
-      "/wp-content/uploads/2019/12/PTI-flags-1-600x606.png"
+      "/wp-content/uploads/2019/12/PTI-flags-1.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/11/QALB_short_report_231.png",
-    "ts": "20191113073750",
+    "ts": "20200922154611",
     "variants": [
-      "/wp-content/uploads/2019/11/QALB_short_report_231-200x149.png",
-      "/wp-content/uploads/2019/11/QALB_short_report_231.png",
-      "/wp-content/uploads/2019/11/QALB_short_report_231-400x297.png",
-      "/wp-content/uploads/2019/11/QALB_short_report_231-600x446.png"
+      "/wp-content/uploads/2019/11/QALB_short_report_231.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/11/QALB-financials.png",
-    "ts": "20191113073750",
+    "ts": "20200922154611",
     "variants": [
-      "/wp-content/uploads/2019/11/QALB-financials-200x61.png",
-      "/wp-content/uploads/2019/11/QALB-financials.png",
-      "/wp-content/uploads/2019/11/QALB-financials-400x122.png",
-      "/wp-content/uploads/2019/11/QALB-financials-600x183.png"
+      "/wp-content/uploads/2019/11/QALB-financials.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/11/QALB-red-flags.png",
-    "ts": "20191113073750",
+    "ts": "20200922154611",
     "variants": [
-      "/wp-content/uploads/2019/11/QALB-red-flags-200x220.png",
-      "/wp-content/uploads/2019/11/QALB-red-flags.png",
-      "/wp-content/uploads/2019/11/QALB-red-flags-400x439.png",
-      "/wp-content/uploads/2019/11/QALB-red-flags-600x659.png"
+      "/wp-content/uploads/2019/11/QALB-red-flags.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/11/RIVX_financials.png",
     "ts": "20191215071600",
     "variants": [
-      "/wp-content/uploads/2019/11/RIVX_financials-200x79.png",
-      "/wp-content/uploads/2019/11/RIVX_financials.png",
-      "/wp-content/uploads/2019/11/RIVX_financials-400x158.png",
-      "/wp-content/uploads/2019/11/RIVX_financials-600x237.png",
-      "/wp-content/uploads/2019/11/RIVX_financials-800x316.png"
+      "/wp-content/uploads/2019/11/RIVX_financials.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/03/Sabby-Index-1-1.png",
+    "ts": "20200520121356",
+    "variants": [
+      "/wp-content/uploads/2020/03/Sabby-Index-1-1.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/03/Sabby-Index-2-1.png",
+    "ts": "20200520121356",
+    "variants": [
+      "/wp-content/uploads/2020/03/Sabby-Index-2-1.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/03/Sabby-SEC-lawsuit.png",
+    "ts": "20200520121356",
+    "variants": [
+      "/wp-content/uploads/2020/03/Sabby-SEC-lawsuit.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/apollo13_images/26dfb-sava-candles-7qyh1p2v4dlapjk6r9420idch3he9t8kl6.png",
+    "ts": "20201106210713",
+    "variants": [
+      "/wp-content/uploads/apollo13_images/26dfb-sava-candles-7qyh1p2v4dlapjk6r9420idch3he9t8kl6.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/11/SAVA-historic-share-price.png",
+    "ts": "20201106210713",
+    "variants": [
+      "/wp-content/uploads/2020/11/SAVA-historic-share-price.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/11/SAVA-flags-2.png",
+    "ts": "20201106210713",
+    "variants": [
+      "/wp-content/uploads/2020/11/SAVA-flags-2.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/07/SMSI-candles.png",
+    "ts": "20191113063946",
+    "variants": [
+      "/wp-content/uploads/2019/07/SMSI-candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/07/SMPP-assets.png",
     "ts": "20210302213947",
     "variants": [
-      "/wp-content/uploads/2019/07/SMPP-assets-300x171.png",
-      "/wp-content/uploads/2019/07/SMPP-assets-200x114.png",
-      "/wp-content/uploads/2019/07/SMPP-assets-400x228.png",
-      "/wp-content/uploads/2019/07/SMPP-assets-600x342.png",
       "/wp-content/uploads/2019/07/SMPP-assets.png"
     ]
   },
@@ -1718,390 +1690,272 @@
     "canonicalPath": "/wp-content/uploads/2019/07/SMPP-income.png",
     "ts": "20210302213947",
     "variants": [
-      "/wp-content/uploads/2019/07/SMPP-income-300x190.png",
-      "/wp-content/uploads/2019/07/SMPP-income-200x127.png",
-      "/wp-content/uploads/2019/07/SMPP-income-400x254.png",
-      "/wp-content/uploads/2019/07/SMPP-income-600x380.png",
-      "/wp-content/uploads/2019/07/SMPP-income-800x507.png",
       "/wp-content/uploads/2019/07/SMPP-income.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/apollo13_images/99698-staf-candles-7qyh1nhl4sjp9pozphu5zs3brv1lofrvr2.png",
+    "ts": "20201026071943",
+    "variants": [
+      "/wp-content/uploads/apollo13_images/99698-staf-candles-7qyh1nhl4sjp9pozphu5zs3brv1lofrvr2.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/07/TRNX-candles.png",
+    "ts": "20191113072433",
+    "variants": [
+      "/wp-content/uploads/2019/07/TRNX-candles.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/08/TIVO-candles.png",
+    "ts": "20191113073941",
+    "variants": [
+      "/wp-content/uploads/2019/08/TIVO-candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/TNXP_CVI_stake.png",
     "ts": "20200514102119",
     "variants": [
-      "/wp-content/uploads/2020/02/TNXP_CVI_stake-200x178.png",
-      "/wp-content/uploads/2020/02/TNXP_CVI_stake.png",
-      "/wp-content/uploads/2020/02/TNXP_CVI_stake-400x357.png",
-      "/wp-content/uploads/2020/02/TNXP_CVI_stake-600x535.png",
-      "/wp-content/uploads/2020/02/TNXP_CVI_stake-800x714.png"
+      "/wp-content/uploads/2020/02/TNXP_CVI_stake.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/TNXP_Iroquois_stake.png",
     "ts": "20200514102119",
     "variants": [
-      "/wp-content/uploads/2020/02/TNXP_Iroquois_stake-200x128.png",
-      "/wp-content/uploads/2020/02/TNXP_Iroquois_stake.png",
-      "/wp-content/uploads/2020/02/TNXP_Iroquois_stake-400x256.png",
-      "/wp-content/uploads/2020/02/TNXP_Iroquois_stake-600x384.png",
-      "/wp-content/uploads/2020/02/TNXP_Iroquois_stake-800x512.png"
+      "/wp-content/uploads/2020/02/TNXP_Iroquois_stake.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/TNXP_Iroquois_lawsuit.png",
     "ts": "20200514102119",
     "variants": [
-      "/wp-content/uploads/2020/02/TNXP_Iroquois_lawsuit-200x103.png",
-      "/wp-content/uploads/2020/02/TNXP_Iroquois_lawsuit.png",
-      "/wp-content/uploads/2020/02/TNXP_Iroquois_lawsuit-400x206.png",
-      "/wp-content/uploads/2020/02/TNXP_Iroquois_lawsuit-600x309.png",
-      "/wp-content/uploads/2020/02/TNXP_Iroquois_lawsuit-800x412.png"
+      "/wp-content/uploads/2020/02/TNXP_Iroquois_lawsuit.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/TNXP_Lincoln_Park.png",
     "ts": "20200514102119",
     "variants": [
-      "/wp-content/uploads/2020/02/TNXP_Lincoln_Park-200x89.png",
-      "/wp-content/uploads/2020/02/TNXP_Lincoln_Park.png",
-      "/wp-content/uploads/2020/02/TNXP_Lincoln_Park-400x178.png",
-      "/wp-content/uploads/2020/02/TNXP_Lincoln_Park-600x267.png",
-      "/wp-content/uploads/2020/02/TNXP_Lincoln_Park-800x356.png"
+      "/wp-content/uploads/2020/02/TNXP_Lincoln_Park.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/TNXP_aegis.png",
     "ts": "20200514102119",
     "variants": [
-      "/wp-content/uploads/2020/02/TNXP_aegis-200x55.png",
-      "/wp-content/uploads/2020/02/TNXP_aegis.png",
-      "/wp-content/uploads/2020/02/TNXP_aegis-400x109.png",
-      "/wp-content/uploads/2020/02/TNXP_aegis-600x164.png",
-      "/wp-content/uploads/2020/02/TNXP_aegis-800x218.png"
+      "/wp-content/uploads/2020/02/TNXP_aegis.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/02/TNXP_aegis_cease_and_desist.png",
     "ts": "20200514102119",
     "variants": [
-      "/wp-content/uploads/2020/02/TNXP_aegis_cease_and_desist-200x91.png",
-      "/wp-content/uploads/2020/02/TNXP_aegis_cease_and_desist.png",
-      "/wp-content/uploads/2020/02/TNXP_aegis_cease_and_desist-400x183.png",
-      "/wp-content/uploads/2020/02/TNXP_aegis_cease_and_desist-600x274.png"
+      "/wp-content/uploads/2020/02/TNXP_aegis_cease_and_desist.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/07/TNXP2-dilution..png",
     "ts": "20200814175432",
     "variants": [
-      "/wp-content/uploads/2020/07/TNXP2-dilution.-200x76.png",
-      "/wp-content/uploads/2020/07/TNXP2-dilution..png",
-      "/wp-content/uploads/2020/07/TNXP2-dilution.-400x151.png"
-    ]
-  },
-  {
-    "canonicalPath": "/wp-content/uploads/2020/07/TNXP2-Zacks-promo.png",
-    "ts": "20200814175432",
-    "variants": [
-      "/wp-content/uploads/2020/07/TNXP2-Zacks-promo-200x36.png",
-      "/wp-content/uploads/2020/07/TNXP2-Zacks-promo.png",
-      "/wp-content/uploads/2020/07/TNXP2-Zacks-promo-400x73.png",
-      "/wp-content/uploads/2020/07/TNXP2-Zacks-promo-600x109.png",
-      "/wp-content/uploads/2020/07/TNXP2-Zacks-promo-800x145.png"
+      "/wp-content/uploads/2020/07/TNXP2-dilution..png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/07/TNXP2-sabby.png",
     "ts": "20200814175432",
     "variants": [
-      "/wp-content/uploads/2020/07/TNXP2-sabby-200x127.png",
-      "/wp-content/uploads/2020/07/TNXP2-sabby.png",
-      "/wp-content/uploads/2020/07/TNXP2-sabby-400x254.png",
-      "/wp-content/uploads/2020/07/TNXP2-sabby-600x382.png",
-      "/wp-content/uploads/2020/07/TNXP2-sabby-800x509.png"
-    ]
-  },
-  {
-    "canonicalPath": "/wp-content/uploads/2020/07/TNXP2-Iroquois-Lawsuit.png",
-    "ts": "20200814175432",
-    "variants": [
-      "/wp-content/uploads/2020/07/TNXP2-Iroquois-Lawsuit-200x126.png",
-      "/wp-content/uploads/2020/07/TNXP2-Iroquois-Lawsuit.png",
-      "/wp-content/uploads/2020/07/TNXP2-Iroquois-Lawsuit-400x252.png",
-      "/wp-content/uploads/2020/07/TNXP2-Iroquois-Lawsuit-600x379.png",
-      "/wp-content/uploads/2020/07/TNXP2-Iroquois-Lawsuit-800x505.png"
+      "/wp-content/uploads/2020/07/TNXP2-sabby.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/07/TNXP2-Aegis.png",
     "ts": "20200814175432",
     "variants": [
-      "/wp-content/uploads/2020/07/TNXP2-Aegis-200x110.png",
-      "/wp-content/uploads/2020/07/TNXP2-Aegis.png",
-      "/wp-content/uploads/2020/07/TNXP2-Aegis-400x220.png",
-      "/wp-content/uploads/2020/07/TNXP2-Aegis-600x330.png",
-      "/wp-content/uploads/2020/07/TNXP2-Aegis-800x441.png"
+      "/wp-content/uploads/2020/07/TNXP2-Aegis.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/07/TNXP-2-flags.png",
     "ts": "20200814175432",
     "variants": [
-      "/wp-content/uploads/2020/07/TNXP-2-flags-200x203.png",
-      "/wp-content/uploads/2020/07/TNXP-2-flags.png",
-      "/wp-content/uploads/2020/07/TNXP-2-flags-400x406.png",
-      "/wp-content/uploads/2020/07/TNXP-2-flags-600x610.png"
+      "/wp-content/uploads/2020/07/TNXP-2-flags.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/01/TRIL-candles-1.png",
+    "ts": "20200211213756",
+    "variants": [
+      "/wp-content/uploads/2020/01/TRIL-candles-1.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/TRIL-workforce.png",
     "ts": "20200211213756",
     "variants": [
-      "/wp-content/uploads/2020/01/TRIL-workforce-200x85.png",
-      "/wp-content/uploads/2020/01/TRIL-workforce.png",
-      "/wp-content/uploads/2020/01/TRIL-workforce-400x171.png",
-      "/wp-content/uploads/2020/01/TRIL-workforce-600x256.png"
+      "/wp-content/uploads/2020/01/TRIL-workforce.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/TRIL-financials.png",
     "ts": "20200211213756",
     "variants": [
-      "/wp-content/uploads/2020/01/TRIL-financials-200x31.png",
-      "/wp-content/uploads/2020/01/TRIL-financials.png",
-      "/wp-content/uploads/2020/01/TRIL-financials-400x63.png",
-      "/wp-content/uploads/2020/01/TRIL-financials-600x94.png",
-      "/wp-content/uploads/2020/01/TRIL-financials-800x126.png"
+      "/wp-content/uploads/2020/01/TRIL-financials.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/TRIL-SEDAR.png",
     "ts": "20200211213756",
     "variants": [
-      "/wp-content/uploads/2020/01/TRIL-SEDAR-200x35.png",
-      "/wp-content/uploads/2020/01/TRIL-SEDAR.png",
-      "/wp-content/uploads/2020/01/TRIL-SEDAR-400x70.png",
-      "/wp-content/uploads/2020/01/TRIL-SEDAR-600x105.png",
-      "/wp-content/uploads/2020/01/TRIL-SEDAR-800x140.png"
+      "/wp-content/uploads/2020/01/TRIL-SEDAR.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/TRIL-empery.png",
     "ts": "20200211213756",
     "variants": [
-      "/wp-content/uploads/2020/01/TRIL-empery-200x158.png",
-      "/wp-content/uploads/2020/01/TRIL-empery.png",
-      "/wp-content/uploads/2020/01/TRIL-empery-400x317.png",
-      "/wp-content/uploads/2020/01/TRIL-empery-600x475.png",
-      "/wp-content/uploads/2020/01/TRIL-empery-800x633.png"
+      "/wp-content/uploads/2020/01/TRIL-empery.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/TRIL-offering-price-dive.png",
     "ts": "20200211213756",
     "variants": [
-      "/wp-content/uploads/2020/01/TRIL-offering-price-dive-200x110.png",
-      "/wp-content/uploads/2020/01/TRIL-offering-price-dive.png",
-      "/wp-content/uploads/2020/01/TRIL-offering-price-dive-400x221.png",
-      "/wp-content/uploads/2020/01/TRIL-offering-price-dive-600x331.png",
-      "/wp-content/uploads/2020/01/TRIL-offering-price-dive-800x442.png"
+      "/wp-content/uploads/2020/01/TRIL-offering-price-dive.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/TRIL_DMPI.png",
     "ts": "20200211213756",
     "variants": [
-      "/wp-content/uploads/2020/01/TRIL_DMPI-200x120.png",
-      "/wp-content/uploads/2020/01/TRIL_DMPI.png",
-      "/wp-content/uploads/2020/01/TRIL_DMPI-400x241.png",
-      "/wp-content/uploads/2020/01/TRIL_DMPI-600x361.png",
-      "/wp-content/uploads/2020/01/TRIL_DMPI-800x482.png"
+      "/wp-content/uploads/2020/01/TRIL_DMPI.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/TRIL_TRNX_empery.png",
     "ts": "20200211213756",
     "variants": [
-      "/wp-content/uploads/2020/01/TRIL_TRNX_empery-200x109.png",
-      "/wp-content/uploads/2020/01/TRIL_TRNX_empery.png",
-      "/wp-content/uploads/2020/01/TRIL_TRNX_empery-400x218.png",
-      "/wp-content/uploads/2020/01/TRIL_TRNX_empery-600x327.png",
-      "/wp-content/uploads/2020/01/TRIL_TRNX_empery-800x437.png"
+      "/wp-content/uploads/2020/01/TRIL_TRNX_empery.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/01/TRIL-flags-1.png",
     "ts": "20200211213756",
     "variants": [
-      "/wp-content/uploads/2020/01/TRIL-flags-1-200x203.png",
-      "/wp-content/uploads/2020/01/TRIL-flags-1.png",
-      "/wp-content/uploads/2020/01/TRIL-flags-1-400x406.png",
-      "/wp-content/uploads/2020/01/TRIL-flags-1-600x609.png"
+      "/wp-content/uploads/2020/01/TRIL-flags-1.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2019/08/UEEC-candles.png",
+    "ts": "20191113071442",
+    "variants": [
+      "/wp-content/uploads/2019/08/UEEC-candles.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/UEEC_price_spike_jing.png",
     "ts": "20191113071442",
     "variants": [
-      "/wp-content/uploads/2019/08/UEEC_price_spike_jing-200x171.png",
-      "/wp-content/uploads/2019/08/UEEC_price_spike_jing.png",
-      "/wp-content/uploads/2019/08/UEEC_price_spike_jing-400x342.png",
-      "/wp-content/uploads/2019/08/UEEC_price_spike_jing-600x513.png",
-      "/wp-content/uploads/2019/08/UEEC_price_spike_jing-800x685.png"
+      "/wp-content/uploads/2019/08/UEEC_price_spike_jing.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/UEEC_cash_jing.png",
     "ts": "20191113071442",
     "variants": [
-      "/wp-content/uploads/2019/08/UEEC_cash_jing-200x41.png",
-      "/wp-content/uploads/2019/08/UEEC_cash_jing.png",
-      "/wp-content/uploads/2019/08/UEEC_cash_jing-400x82.png",
-      "/wp-content/uploads/2019/08/UEEC_cash_jing-600x124.png",
-      "/wp-content/uploads/2019/08/UEEC_cash_jing-800x165.png",
-      "/wp-content/uploads/2019/08/UEEC_cash_jing-1200x247.png"
+      "/wp-content/uploads/2019/08/UEEC_cash_jing.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/UEEC_revenue_and_net_loss_jing.png",
     "ts": "20191113071442",
     "variants": [
-      "/wp-content/uploads/2019/08/UEEC_revenue_and_net_loss_jing-200x91.png",
-      "/wp-content/uploads/2019/08/UEEC_revenue_and_net_loss_jing.png",
-      "/wp-content/uploads/2019/08/UEEC_revenue_and_net_loss_jing-400x183.png",
-      "/wp-content/uploads/2019/08/UEEC_revenue_and_net_loss_jing-600x274.png",
-      "/wp-content/uploads/2019/08/UEEC_revenue_and_net_loss_jing-800x366.png",
-      "/wp-content/uploads/2019/08/UEEC_revenue_and_net_loss_jing-1200x549.png"
+      "/wp-content/uploads/2019/08/UEEC_revenue_and_net_loss_jing.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/UEEC_going_concern_jing-1.png",
     "ts": "20191113071442",
     "variants": [
-      "/wp-content/uploads/2019/08/UEEC_going_concern_jing-1-200x32.png",
-      "/wp-content/uploads/2019/08/UEEC_going_concern_jing-1.png",
-      "/wp-content/uploads/2019/08/UEEC_going_concern_jing-1-400x65.png",
-      "/wp-content/uploads/2019/08/UEEC_going_concern_jing-1-600x97.png",
-      "/wp-content/uploads/2019/08/UEEC_going_concern_jing-1-800x129.png",
-      "/wp-content/uploads/2019/08/UEEC_going_concern_jing-1-1200x194.png"
+      "/wp-content/uploads/2019/08/UEEC_going_concern_jing-1.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/UEEC_lawsuits_jing.png",
     "ts": "20191113071442",
     "variants": [
-      "/wp-content/uploads/2019/08/UEEC_lawsuits_jing-200x98.png",
-      "/wp-content/uploads/2019/08/UEEC_lawsuits_jing.png",
-      "/wp-content/uploads/2019/08/UEEC_lawsuits_jing-400x196.png",
-      "/wp-content/uploads/2019/08/UEEC_lawsuits_jing-600x294.png",
-      "/wp-content/uploads/2019/08/UEEC_lawsuits_jing-800x392.png",
-      "/wp-content/uploads/2019/08/UEEC_lawsuits_jing-1200x588.png"
+      "/wp-content/uploads/2019/08/UEEC_lawsuits_jing.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/UEEC_Form_4_jing.png",
     "ts": "20191113071442",
     "variants": [
-      "/wp-content/uploads/2019/08/UEEC_Form_4_jing-200x67.png",
-      "/wp-content/uploads/2019/08/UEEC_Form_4_jing.png",
-      "/wp-content/uploads/2019/08/UEEC_Form_4_jing-400x134.png",
-      "/wp-content/uploads/2019/08/UEEC_Form_4_jing-600x201.png",
-      "/wp-content/uploads/2019/08/UEEC_Form_4_jing-800x268.png",
-      "/wp-content/uploads/2019/08/UEEC_Form_4_jing-1200x402.png"
+      "/wp-content/uploads/2019/08/UEEC_Form_4_jing.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/USAU-financials.png",
     "ts": "20200505183424",
     "variants": [
-      "/wp-content/uploads/2020/03/USAU-financials-200x36.png",
-      "/wp-content/uploads/2020/03/USAU-financials.png",
-      "/wp-content/uploads/2020/03/USAU-financials-400x71.png",
-      "/wp-content/uploads/2020/03/USAU-financials-600x107.png"
+      "/wp-content/uploads/2020/03/USAU-financials.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/USAU_Honig_lawsuit.png",
     "ts": "20200505183424",
     "variants": [
-      "/wp-content/uploads/2020/03/USAU_Honig_lawsuit-200x140.png",
-      "/wp-content/uploads/2020/03/USAU_Honig_lawsuit.png",
-      "/wp-content/uploads/2020/03/USAU_Honig_lawsuit-400x279.png",
-      "/wp-content/uploads/2020/03/USAU_Honig_lawsuit-600x419.png",
-      "/wp-content/uploads/2020/03/USAU_Honig_lawsuit-800x559.png"
+      "/wp-content/uploads/2020/03/USAU_Honig_lawsuit.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/USAU-pricesince-2015.png",
     "ts": "20200505183424",
     "variants": [
-      "/wp-content/uploads/2020/03/USAU-pricesince-2015-200x109.png",
-      "/wp-content/uploads/2020/03/USAU-pricesince-2015.png",
-      "/wp-content/uploads/2020/03/USAU-pricesince-2015-400x218.png",
-      "/wp-content/uploads/2020/03/USAU-pricesince-2015-600x328.png",
-      "/wp-content/uploads/2020/03/USAU-pricesince-2015-800x437.png"
+      "/wp-content/uploads/2020/03/USAU-pricesince-2015.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/USAU_Zink.png",
     "ts": "20200505183424",
     "variants": [
-      "/wp-content/uploads/2020/03/USAU_Zink-200x181.png",
-      "/wp-content/uploads/2020/03/USAU_Zink.png",
-      "/wp-content/uploads/2020/03/USAU_Zink-400x361.png",
-      "/wp-content/uploads/2020/03/USAU_Zink-600x542.png"
+      "/wp-content/uploads/2020/03/USAU_Zink.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/USAU_SPA_2019.png",
     "ts": "20200505183424",
     "variants": [
-      "/wp-content/uploads/2020/03/USAU_SPA_2019-200x70.png",
-      "/wp-content/uploads/2020/03/USAU_SPA_2019.png",
-      "/wp-content/uploads/2020/03/USAU_SPA_2019-400x140.png",
-      "/wp-content/uploads/2020/03/USAU_SPA_2019-600x210.png"
+      "/wp-content/uploads/2020/03/USAU_SPA_2019.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/USAU_pump_email.png",
     "ts": "20200505183424",
     "variants": [
-      "/wp-content/uploads/2020/03/USAU_pump_email-200x122.png",
-      "/wp-content/uploads/2020/03/USAU_pump_email.png",
-      "/wp-content/uploads/2020/03/USAU_pump_email-400x244.png",
-      "/wp-content/uploads/2020/03/USAU_pump_email-600x365.png"
+      "/wp-content/uploads/2020/03/USAU_pump_email.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/USAU_pump_disclaimer.png",
     "ts": "20200505183424",
     "variants": [
-      "/wp-content/uploads/2020/03/USAU_pump_disclaimer-200x57.png",
-      "/wp-content/uploads/2020/03/USAU_pump_disclaimer.png",
-      "/wp-content/uploads/2020/03/USAU_pump_disclaimer-400x114.png",
-      "/wp-content/uploads/2020/03/USAU_pump_disclaimer-600x170.png"
+      "/wp-content/uploads/2020/03/USAU_pump_disclaimer.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/03/USAU-flags.png",
     "ts": "20200505183424",
     "variants": [
-      "/wp-content/uploads/2020/03/USAU-flags-200x206.png",
-      "/wp-content/uploads/2020/03/USAU-flags.png",
-      "/wp-content/uploads/2020/03/USAU-flags-400x412.png",
-      "/wp-content/uploads/2020/03/USAU-flags-600x618.png"
+      "/wp-content/uploads/2020/03/USAU-flags.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/07/Screenshot-5.png",
     "ts": "20191113080811",
     "variants": [
-      "/wp-content/uploads/2019/07/Screenshot-5-200x172.png",
-      "/wp-content/uploads/2019/07/Screenshot-5-300x258.png",
-      "/wp-content/uploads/2019/07/Screenshot-5-400x343.png",
-      "/wp-content/uploads/2019/07/Screenshot-5-600x515.png",
-      "/wp-content/uploads/2019/07/Screenshot-5-800x687.png",
       "/wp-content/uploads/2019/07/Screenshot-5.png"
     ]
   },
@@ -2109,11 +1963,6 @@
     "canonicalPath": "/wp-content/uploads/2019/07/Screenshot-8.png",
     "ts": "20191113080811",
     "variants": [
-      "/wp-content/uploads/2019/07/Screenshot-8-200x179.png",
-      "/wp-content/uploads/2019/07/Screenshot-8-300x268.png",
-      "/wp-content/uploads/2019/07/Screenshot-8-400x358.png",
-      "/wp-content/uploads/2019/07/Screenshot-8-600x537.png",
-      "/wp-content/uploads/2019/07/Screenshot-8-800x715.png",
       "/wp-content/uploads/2019/07/Screenshot-8.png"
     ]
   },
@@ -2121,166 +1970,132 @@
     "canonicalPath": "/wp-content/uploads/2019/07/Zoom-2.png",
     "ts": "20191113080811",
     "variants": [
-      "/wp-content/uploads/2019/07/Zoom-2-200x80.png",
-      "/wp-content/uploads/2019/07/Zoom-2-300x120.png",
-      "/wp-content/uploads/2019/07/Zoom-2-400x160.png",
-      "/wp-content/uploads/2019/07/Zoom-2-600x240.png",
       "/wp-content/uploads/2019/07/Zoom-2.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2021/05/image-53.png",
+    "ts": "20210527155303",
+    "variants": [
+      "/wp-content/uploads/2021/05/image-53.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/07/WKHS-financials.png",
     "ts": "20200814172604",
     "variants": [
-      "/wp-content/uploads/2020/07/WKHS-financials-200x31.png",
-      "/wp-content/uploads/2020/07/WKHS-financials.png",
-      "/wp-content/uploads/2020/07/WKHS-financials-400x63.png",
-      "/wp-content/uploads/2020/07/WKHS-financials-600x94.png",
-      "/wp-content/uploads/2020/07/WKHS-financials-800x126.png"
+      "/wp-content/uploads/2020/07/WKHS-financials.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/07/WKHS-flags.png",
     "ts": "20200814172604",
     "variants": [
-      "/wp-content/uploads/2020/07/WKHS-flags-200x204.png",
-      "/wp-content/uploads/2020/07/WKHS-flags.png",
-      "/wp-content/uploads/2020/07/WKHS-flags-400x408.png",
-      "/wp-content/uploads/2020/07/WKHS-flags-600x612.png"
+      "/wp-content/uploads/2020/07/WKHS-flags.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/04/WORX-financials.png",
     "ts": "20200505232618",
     "variants": [
-      "/wp-content/uploads/2020/04/WORX-financials-200x49.png",
-      "/wp-content/uploads/2020/04/WORX-financials.png",
-      "/wp-content/uploads/2020/04/WORX-financials-400x97.png"
+      "/wp-content/uploads/2020/04/WORX-financials.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/04/WORX_AMMA_lawsuit.png",
     "ts": "20200505232618",
     "variants": [
-      "/wp-content/uploads/2020/04/WORX_AMMA_lawsuit-200x95.png",
-      "/wp-content/uploads/2020/04/WORX_AMMA_lawsuit.png",
-      "/wp-content/uploads/2020/04/WORX_AMMA_lawsuit-400x191.png",
-      "/wp-content/uploads/2020/04/WORX_AMMA_lawsuit-600x286.png"
+      "/wp-content/uploads/2020/04/WORX_AMMA_lawsuit.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/04/WORX-USA-covid-tests-total.png",
     "ts": "20200505232618",
     "variants": [
-      "/wp-content/uploads/2020/04/WORX-USA-covid-tests-total-200x133.png",
-      "/wp-content/uploads/2020/04/WORX-USA-covid-tests-total.png",
-      "/wp-content/uploads/2020/04/WORX-USA-covid-tests-total-400x266.png",
-      "/wp-content/uploads/2020/04/WORX-USA-covid-tests-total-600x399.png"
+      "/wp-content/uploads/2020/04/WORX-USA-covid-tests-total.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2020/04/WORX-flags.png",
     "ts": "20200505232618",
     "variants": [
-      "/wp-content/uploads/2020/04/WORX-flags-200x203.png",
-      "/wp-content/uploads/2020/04/WORX-flags.png",
-      "/wp-content/uploads/2020/04/WORX-flags-400x407.png",
-      "/wp-content/uploads/2020/04/WORX-flags-600x610.png"
+      "/wp-content/uploads/2020/04/WORX-flags.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/apollo13_images/951a0-wwr-candles-7qyh1moy500wjsre6m77zeybf8tpdr1jde.png",
+    "ts": "20201026075536",
+    "variants": [
+      "/wp-content/uploads/apollo13_images/951a0-wwr-candles-7qyh1moy500wjsre6m77zeybf8tpdr1jde.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/FFHL-Hototc1.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/FFHL-Hototc1-200x220.png",
-      "/wp-content/uploads/2019/08/FFHL-Hototc1.png",
-      "/wp-content/uploads/2019/08/FFHL-Hototc1-400x439.png"
+      "/wp-content/uploads/2019/08/FFHL-Hototc1.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/FFHL-Hototc2.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/FFHL-Hototc2-200x185.png",
-      "/wp-content/uploads/2019/08/FFHL-Hototc2.png",
-      "/wp-content/uploads/2019/08/FFHL-Hototc2-400x369.png"
+      "/wp-content/uploads/2019/08/FFHL-Hototc2.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/FFHL-MarketCaliber1.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/FFHL-MarketCaliber1-200x323.png",
-      "/wp-content/uploads/2019/08/FFHL-MarketCaliber1.png",
-      "/wp-content/uploads/2019/08/FFHL-MarketCaliber1-400x647.png"
+      "/wp-content/uploads/2019/08/FFHL-MarketCaliber1.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/FFHL-MarketCaliber2.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/FFHL-MarketCaliber2-200x267.png",
-      "/wp-content/uploads/2019/08/FFHL-MarketCaliber2.png",
-      "/wp-content/uploads/2019/08/FFHL-MarketCaliber2-400x535.png"
+      "/wp-content/uploads/2019/08/FFHL-MarketCaliber2.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/FFHL-Buzzstocks.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/FFHL-Buzzstocks-200x369.png",
-      "/wp-content/uploads/2019/08/FFHL-Buzzstocks.png",
-      "/wp-content/uploads/2019/08/FFHL-Buzzstocks-400x738.png"
+      "/wp-content/uploads/2019/08/FFHL-Buzzstocks.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/FFHL-Scholar-1.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/FFHL-Scholar-1-200x239.png",
-      "/wp-content/uploads/2019/08/FFHL-Scholar-1.png",
-      "/wp-content/uploads/2019/08/FFHL-Scholar-1-400x478.png",
-      "/wp-content/uploads/2019/08/FFHL-Scholar-1-600x718.png"
+      "/wp-content/uploads/2019/08/FFHL-Scholar-1.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/FFHL-Scholar-2.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/FFHL-Scholar-2-200x199.png",
-      "/wp-content/uploads/2019/08/FFHL-Scholar-2.png",
-      "/wp-content/uploads/2019/08/FFHL-Scholar-2-400x398.png",
-      "/wp-content/uploads/2019/08/FFHL-Scholar-2-600x597.png"
+      "/wp-content/uploads/2019/08/FFHL-Scholar-2.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/FFHL-BullRally1.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/FFHL-BullRally1-200x218.png",
-      "/wp-content/uploads/2019/08/FFHL-BullRally1.png",
-      "/wp-content/uploads/2019/08/FFHL-BullRally1-400x436.png",
-      "/wp-content/uploads/2019/08/FFHL-BullRally1-600x654.png"
+      "/wp-content/uploads/2019/08/FFHL-BullRally1.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/FFHL-BullRally2.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/FFHL-BullRally2-200x221.png",
-      "/wp-content/uploads/2019/08/FFHL-BullRally2.png",
-      "/wp-content/uploads/2019/08/FFHL-BullRally2-400x441.png",
-      "/wp-content/uploads/2019/08/FFHL-BullRally2-600x662.png"
+      "/wp-content/uploads/2019/08/FFHL-BullRally2.png"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2019/08/SMPP-pump-1.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/SMPP-pump-1-200x209.png",
-      "/wp-content/uploads/2019/08/SMPP-pump-1-287x300.png",
-      "/wp-content/uploads/2019/08/SMPP-pump-1-400x417.png",
-      "/wp-content/uploads/2019/08/SMPP-pump-1-600x626.png",
       "/wp-content/uploads/2019/08/SMPP-pump-1.png"
     ]
   },
@@ -2288,10 +2103,6 @@
     "canonicalPath": "/wp-content/uploads/2019/08/SMPP-pump-4.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/SMPP-pump-4-200x215.png",
-      "/wp-content/uploads/2019/08/SMPP-pump-4-279x300.png",
-      "/wp-content/uploads/2019/08/SMPP-pump-4-400x430.png",
-      "/wp-content/uploads/2019/08/SMPP-pump-4-600x645.png",
       "/wp-content/uploads/2019/08/SMPP-pump-4.png"
     ]
   },
@@ -2299,10 +2110,6 @@
     "canonicalPath": "/wp-content/uploads/2019/08/SMPP-PUMP-5.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/SMPP-PUMP-5-200x220.png",
-      "/wp-content/uploads/2019/08/SMPP-PUMP-5-272x300.png",
-      "/wp-content/uploads/2019/08/SMPP-PUMP-5-400x440.png",
-      "/wp-content/uploads/2019/08/SMPP-PUMP-5-600x661.png",
       "/wp-content/uploads/2019/08/SMPP-PUMP-5.png"
     ]
   },
@@ -2310,10 +2117,6 @@
     "canonicalPath": "/wp-content/uploads/2019/08/RHE-Pump-Market-Caliber-1.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/RHE-Pump-Market-Caliber-1-200x239.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Market-Caliber-1-251x300.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Market-Caliber-1-400x478.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Market-Caliber-1-600x717.png",
       "/wp-content/uploads/2019/08/RHE-Pump-Market-Caliber-1.png"
     ]
   },
@@ -2321,10 +2124,6 @@
     "canonicalPath": "/wp-content/uploads/2019/08/RHE-Pump-Market-Caliber-2.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/RHE-Pump-Market-Caliber-2-200x241.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Market-Caliber-2-249x300.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Market-Caliber-2-400x481.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Market-Caliber-2-600x722.png",
       "/wp-content/uploads/2019/08/RHE-Pump-Market-Caliber-2.png"
     ]
   },
@@ -2332,10 +2131,6 @@
     "canonicalPath": "/wp-content/uploads/2019/08/RHE-Pump-Penny-Stock-scholar-1.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/RHE-Pump-Penny-Stock-scholar-1-200x235.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Penny-Stock-scholar-1-255x300.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Penny-Stock-scholar-1-400x470.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Penny-Stock-scholar-1-600x705.png",
       "/wp-content/uploads/2019/08/RHE-Pump-Penny-Stock-scholar-1.png"
     ]
   },
@@ -2343,10 +2138,6 @@
     "canonicalPath": "/wp-content/uploads/2019/08/RHE-Pump-Penny-Stock-scholar-2.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/RHE-Pump-Penny-Stock-scholar-2-200x218.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Penny-Stock-scholar-2-275x300.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Penny-Stock-scholar-2-400x436.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Penny-Stock-scholar-2-600x654.png",
       "/wp-content/uploads/2019/08/RHE-Pump-Penny-Stock-scholar-2.png"
     ]
   },
@@ -2354,10 +2145,6 @@
     "canonicalPath": "/wp-content/uploads/2019/08/RHE-Pump-Stock-Egg.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/RHE-Pump-Stock-Egg-200x217.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Stock-Egg-276x300.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Stock-Egg-400x434.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Stock-Egg-600x651.png",
       "/wp-content/uploads/2019/08/RHE-Pump-Stock-Egg.png"
     ]
   },
@@ -2365,10 +2152,6 @@
     "canonicalPath": "/wp-content/uploads/2019/08/RHE-Pump-Stock-Egg-2.png",
     "ts": "20191023052510",
     "variants": [
-      "/wp-content/uploads/2019/08/RHE-Pump-Stock-Egg-2-200x225.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Stock-Egg-2-267x300.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Stock-Egg-2-400x449.png",
-      "/wp-content/uploads/2019/08/RHE-Pump-Stock-Egg-2-600x674.png",
       "/wp-content/uploads/2019/08/RHE-Pump-Stock-Egg-2.png"
     ]
   }
