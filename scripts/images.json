@@ -93,15 +93,18 @@
   {
     "canonicalPath": "/wp-content/uploads/2021/02/OBLG-graph.jpg",
     "ts": "20210219150556",
+    "note": "Confirmed unrecoverable: no Wayback snapshot under this filename. A later post revision reused this image slot for an unrelated iBio (IBIO) chart (attachment 122Aspire-IBIO) -- verified wrong via a live Wayback screenshot, so NOT substituted in.",
     "variants": [
       "/wp-content/uploads/2021/02/OBLG-graph.jpg"
     ]
   },
   {
     "canonicalPath": "/wp-content/uploads/2021/02/OBLG-table.png",
-    "ts": "20210219150556",
+    "ts": "20220809100520",
+    "note": "Original filename has no Wayback snapshot; a later revision's re-upload of the same Table 1 (Oblong Preferred Stock) graphic is archived as ppScreenshot103.png and is what the post links to now.",
     "variants": [
-      "/wp-content/uploads/2021/02/OBLG-table.png"
+      "/wp-content/uploads/2021/02/OBLG-table.png",
+      "/wp-content/uploads/2021/02/ppScreenshot103.png"
     ]
   },
   {
