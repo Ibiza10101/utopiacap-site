@@ -6,7 +6,7 @@ layout: post.njk
 sourceUrl: "https://utopiacap.com/2019/11/07/qalb/"
 archivedAt: "20200922154611"
 ---
-<p>This report was first published and distributed to our premium service members on October 30th 2019. For more details please click <a href="/short-reports-early-access/">here</a>.</p>
+<p>This report was first published and distributed to our premium service members on October 30th 2019.</p>
 <span class="fusion-imageframe imageframe-none imageframe-1 hover-type-none"><img loading="lazy" src="/wp-content/uploads/2019/11/QALB_short_report_231.png" width="650" height="483" alt="QALB short report candles" title="QALB_short_report_231" class="img-responsive wp-image-1686"><noscript><img loading="lazy" width="650" height="483" alt="QALB short report candles" title="QALB_short_report_231" src="/wp-content/uploads/2019/11/QALB_short_report_231.png" class="img-responsive wp-image-1686"/><noscript><img loading="lazy" src="/wp-content/uploads/2019/11/QALB_short_report_231.png" width="650" height="483" alt="QALB short report candles" title="QALB_short_report_231" class="img-responsive wp-image-1686"/></noscript></span><hr>
 <h4>Intro:</h4>
 <p>QALB’s recent and sudden price and volume spikes have drawn our attention. Over the last seven trading days its price has increased by 3,000% and its volume has gone from virtually non-existent to exceeding the 300,000 mark. This is baffling, especially if one bares in mind that no news or press releases relating to the company have been issued recently. Below we present our findings on QALB and point out the red flags we have become aware of.</p>
