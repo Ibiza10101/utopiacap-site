@@ -3,6 +3,7 @@ title: "CytoDyn, Inc. OTCQB: CYDY Short Report, February 6, 2020"
 date: 2020-02-06
 permalink: "/2020/02/06/cydy/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/02/06/cydy/"
 archivedAt: "20200301033522"
 ---

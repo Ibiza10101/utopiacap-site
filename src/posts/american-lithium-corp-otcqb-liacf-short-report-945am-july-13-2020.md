@@ -3,6 +3,7 @@ title: "American Lithium Corp. OTCQB: LIACF Short Report. 9:45am July 13, 2020"
 date: 2020-07-13
 permalink: "/2020/07/13/american-lithium-corp-otcqb-liacf-short-report-945am-july-13-2020/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/07/13/american-lithium-corp-otcqb-liacf-short-report-945am-july-13-2020/"
 archivedAt: "20200814180544"
 ---

@@ -3,6 +3,7 @@ title: "CounterPath Corp. Nasdaq: CPAH Short Report, January 13, 2020"
 date: 2020-01-13
 permalink: "/2020/01/13/cpah/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/01/13/cpah/"
 archivedAt: "20200305124617"
 ---

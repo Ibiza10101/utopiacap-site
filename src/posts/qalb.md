@@ -3,6 +3,7 @@ title: "Qualibou Energy Inc. Pink: QALB Short Report"
 date: 2019-11-07
 permalink: "/2019/11/07/qalb/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2019/11/07/qalb/"
 archivedAt: "20200922154611"
 ---

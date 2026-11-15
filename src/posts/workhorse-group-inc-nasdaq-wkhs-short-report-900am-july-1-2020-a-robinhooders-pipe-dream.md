@@ -3,6 +3,7 @@ title: "Workhorse Group Inc. NASDAQ: WKHS Short Report, 9:00am July 1, 2020, A R
 date: 2020-07-01
 permalink: "/2020/07/01/workhorse-group-inc-nasdaq-wkhs-short-report-900am-july-1-2020-a-robinhooders-pipe-dream/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/07/01/workhorse-group-inc-nasdaq-wkhs-short-report-900am-july-1-2020-a-robinhooders-pipe-dream/"
 archivedAt: "20200814172604"
 ---

@@ -3,6 +3,7 @@ title: "Agile Therapeutics, Inc. Nasdaq: AGRX Short Report, 9:30am February 18, 
 date: 2020-02-18
 permalink: "/2020/02/18/agrx/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/02/18/agrx/"
 archivedAt: "20200505233027"
 ---

@@ -3,6 +3,7 @@ title: "CytoDyn, Inc. OTCQB: CYDY Short Report, 9:30am April 14, 2020"
 date: 2020-04-14
 permalink: "/2020/04/14/cydy-2/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/04/14/cydy-2/"
 archivedAt: "20200427015600"
 ---

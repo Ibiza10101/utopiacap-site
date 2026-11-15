@@ -3,6 +3,7 @@ title: "Anavex Life Sciences Corp. OTCQB: AVXL Short Report, 9:40am February 19,
 date: 2020-02-19
 permalink: "/2020/02/19/avxl/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/02/19/avxl/"
 archivedAt: "20200506020735"
 ---

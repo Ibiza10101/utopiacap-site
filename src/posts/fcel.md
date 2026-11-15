@@ -3,6 +3,7 @@ title: "FuelCell Energy, Inc. Nasdaq: FCEL Short Report, January 2, 2020"
 date: 2020-01-02
 permalink: "/2020/01/02/fcel/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/01/02/fcel/"
 archivedAt: "20200619161853"
 ---

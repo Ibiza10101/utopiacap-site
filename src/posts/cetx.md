@@ -3,6 +3,7 @@ title: "Cemtrex, Inc. Nasdaq: CETX Short report, January 16, 2020"
 date: 2020-01-16
 permalink: "/2020/01/16/cetx/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/01/16/cetx/"
 archivedAt: "20200215125806"
 ---

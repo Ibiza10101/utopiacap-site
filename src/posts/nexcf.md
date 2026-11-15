@@ -3,6 +3,7 @@ title: "NexTech AR Solutions Corp. (OTCQB: NEXCF) Short Report – UTOPIACAPITAL
 date: 2019-11-19
 permalink: "/2019/11/19/nexcf/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2019/11/19/nexcf/"
 archivedAt: "20191215085527"
 ---

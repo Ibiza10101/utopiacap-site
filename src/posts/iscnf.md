@@ -3,6 +3,7 @@ title: "Isracann Biosciences Inc. Pink: ISCNF Short Report, December 27, 2019"
 date: 2019-12-27
 permalink: "/2019/12/27/iscnf/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2019/12/27/iscnf/"
 archivedAt: "20200922151732"
 ---

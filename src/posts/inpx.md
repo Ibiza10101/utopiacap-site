@@ -3,6 +3,7 @@ title: "Inpixon Nasdaq: INPX Short Report, January 6, 2020"
 date: 2020-01-06
 permalink: "/2020/01/06/inpx/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/01/06/inpx/"
 archivedAt: "20200307103531"
 ---

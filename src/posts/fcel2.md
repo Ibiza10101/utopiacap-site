@@ -3,6 +3,7 @@ title: "FuelCell Energy Inc. NASDAQ: SAVA Short Report. 10:15am November 19 2020
 date: 2020-11-19
 permalink: "/2020/11/19/fcel2/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/11/19/fcel2/"
 archivedAt: "20201119152615"
 ---

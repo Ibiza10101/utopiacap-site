@@ -3,6 +3,7 @@ title: "SCWorx Corp. Nasdaq: WORX Short Report, 8:50am April 14, 2020"
 date: 2020-04-14
 permalink: "/2020/04/14/worx/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/04/14/worx/"
 archivedAt: "20200505232618"
 ---

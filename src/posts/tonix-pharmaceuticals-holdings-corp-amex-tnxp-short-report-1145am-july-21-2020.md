@@ -3,6 +3,7 @@ title: "Tonix Pharmaceuticals Holdings Corp. AMEX: TNXP Short Report. 11:45am Ju
 date: 2020-07-21
 permalink: "/2020/07/21/tonix-pharmaceuticals-holdings-corp-amex-tnxp-short-report-1145am-july-21-2020/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/07/21/tonix-pharmaceuticals-holdings-corp-amex-tnxp-short-report-1145am-july-21-2020/"
 archivedAt: "20200814175432"
 ---

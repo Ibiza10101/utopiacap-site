@@ -3,6 +3,7 @@ title: "IVERIC Bio Inc. Nasdaq: ISEE Short Report, December 11, 2019"
 date: 2019-12-11
 permalink: "/2019/12/11/isee/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2019/12/11/isee/"
 archivedAt: "20200922135512"
 ---

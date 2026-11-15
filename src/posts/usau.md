@@ -3,6 +3,7 @@ title: "U.S Gold Corp. Nasdaq: USAU Short Report, 9:40am March 26, 2020"
 date: 2020-03-26
 permalink: "/2020/03/26/usau/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/03/26/usau/"
 archivedAt: "20200505183424"
 ---

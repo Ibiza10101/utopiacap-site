@@ -3,6 +3,7 @@ title: "Biotricity, Inc. OTCQB: BTCY Short Report, 9:30am February 13, 2020"
 date: 2020-02-13
 permalink: "/2020/02/13/btcy/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/02/13/btcy/"
 archivedAt: "20200514132452"
 ---

@@ -3,6 +3,7 @@ title: "Senseonics Holdings, Inc. NYSE MKYT: SENS Short Report, 12:35pm February
 date: 2020-02-21
 permalink: "/2020/02/21/sens/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/02/21/sens/"
 archivedAt: "20200619135146"
 ---

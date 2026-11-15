@@ -3,6 +3,7 @@ title: "Trillium Therapeutics Inc. Nasdaq: TRIL Short Report, January 10, 2020"
 date: 2020-01-10
 permalink: "/2020/01/10/tril/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/01/10/tril/"
 archivedAt: "20200211213756"
 ---

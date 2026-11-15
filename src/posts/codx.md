@@ -3,6 +3,7 @@ title: "Co-Diagnostics, Inc. Nasdaq: CODX Short Report, January 28, 2020"
 date: 2020-01-28
 permalink: "/2020/01/28/codx/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/01/28/codx/"
 archivedAt: "20200318024026"
 ---

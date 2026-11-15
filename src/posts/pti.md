@@ -3,6 +3,7 @@ title: "Proteostasis Therapeutics, Inc. Nasdaq: PTI Short Report, December 6, 20
 date: 2019-12-06
 permalink: "/2019/12/06/pti/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2019/12/06/pti/"
 archivedAt: "20200814165633"
 ---

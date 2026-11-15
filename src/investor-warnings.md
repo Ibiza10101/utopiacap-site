@@ -15,6 +15,20 @@ archivedAt: "20200924221933"
 <p><a class="btn-readmore" href="/track-record/">More about our track record</a></p>
 
 <div class="pub-grid">
+  <a class="pub-card" href="/2021/04/05/aspire-capital/">
+    <div class="pub-card-image" style="background-image: url('/wp-content/uploads/2021/04/Aspire-Capital-featured-image.jpg');"></div>
+    <div class="pub-card-body">
+      <h3>Investor Warning: Aspire Capital Partners</h3>
+      <span class="pub-card-readmore">Read more</span>
+    </div>
+  </a>
+  <a class="pub-card" href="/2021/02/19/alpha-capital-anstalt/">
+    <div class="pub-card-image" style="background-image: url('/wp-content/uploads/2021/02/400e2-18481.jpg');"></div>
+    <div class="pub-card-body">
+      <h3>Investor Warning: Alpha Capital Anstalt</h3>
+      <span class="pub-card-readmore">Read more</span>
+    </div>
+  </a>
   <a class="pub-card" href="/2020/08/17/iroquois-capital-management-llc/">
     <div class="pub-card-image" style="background-image: url('/wp-content/uploads/2020/08/Iroquois-featured-image.png');"></div>
     <div class="pub-card-body">

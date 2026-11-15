@@ -3,6 +3,7 @@ title: "Genprex Inc. Nasdaq: GNPX Short Report, January 23, 2020"
 date: 2020-01-23
 permalink: "/2020/01/23/gnpx/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/01/23/gnpx/"
 archivedAt: "20201129023959"
 ---

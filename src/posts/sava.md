@@ -3,6 +3,7 @@ title: "Cassava Sciences Inc. NASDAQ: SAVA Short Report. 3:45pm November 6 2020"
 date: 2020-11-06
 permalink: "/2020/11/06/sava/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/11/06/sava/"
 archivedAt: "20201106210713"
 ---

@@ -3,6 +3,7 @@ title: "Akers Biosciences Inc. Nasdaq: AKER Short report 9:40am, April 7, 2020"
 date: 2020-04-07
 permalink: "/2020/04/07/aker/"
 layout: post.njk
+tags: short-report
 sourceUrl: "https://utopiacap.com/2020/04/07/aker/"
 archivedAt: "20200506060752"
 ---
