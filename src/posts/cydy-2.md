@@ -13,55 +13,55 @@ archivedAt: "20200427015600"
 <img src="/wp-content/uploads/2020/04/CYDY_candles_2.png" loading="lazy" style="max-width:100%;height:auto;">
 </div>
 
-<div class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"></div><div class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2 fusion-builder-column-2 fusion-one-half fusion-column-first 1_2" style="margin-top:0px;margin-bottom:20px;width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;">
-					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
-						<div class="fusion-text"><hr>
+
+					
+						<hr>
 <h4>Intro:</h4>
 <p>On February 6, 2020, we published <a href="/2020/02/06/cydy/" target="_blank" rel="noopener noreferrer">our first short report on CYDY</a>. In this report we highlighted many of the red flags this company raises such as: significant dilution during 2019; a promissory note issued to one of the most prolific so-called “vulture funds” currently operating among USA small/micro/nano caps; an underwriter with a less than stellar FINRA broker check record; terrible financials. At the time of publication, the price per share stood around $1.40, days later it dipped below $0.80. Like many other clinical stage biotechnology companies, the current pandemic has allowed CytoDyn’s share price to go on another run, this one even more ludicrous than the previous one as the company has made preposterous claims about the therapeutic potential of its lead drug for COVID-19 and has also been heavily featured on several websites that receive compensation in exchange for promoting companies. In this report we will be taking a closer look at the medical and promotional sides of CYDY’s recent run.</p>
-</div>
 
-					</div>
-				</div><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2 fusion-builder-column-3 fusion-one-half fusion-column-last 1_2" style="margin-top:0px;margin-bottom:20px;width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );">
-					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
-						<div class="fusion-text"><hr>
+
+					
+				
+					
+						<hr>
 <h4>Security Details:</h4>
 <p>Symbol: <a href="https://finance.yahoo.com/quote/CYDY?p=CYDY">CYDY</a></p>
 <p>Current price: $2.82</p>
 <p>Outstanding shares: 470 million</p>
 <p>Market Cap: $1.32 billion</p>
-</div>
 
-					</div>
-				</div></div></div><div class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2 fusion-builder-column-4 fusion-one-half fusion-column-first 1_2" style="margin-top:0px;margin-bottom:20px;width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;">
-					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
-						<div class="fusion-text"><div class="fusion-text">
+
+					
+				
+					
+						
 <hr>
 <h4 data-fontsize="18" data-lineheight="19">Company information:</h4>
 <p>CytoDyn Inc. was originally incorporated in Colorado in May 2002 under the name RexRay Corporation. It describes itself as “a late-stage biotechnology company focused on the clinical development and potential commercialization of leronlimab (PRO 140), a CCR5 antagonist to treat HIV infection, with the potential for multiple therapeutic indications.” Leronlimab has been around for a few years. It obtained FDA fast track designation in 2006 and completed its first clinical trials in 2007. It was acquired by CYDY in July, 2012 and is yet to gain FDA approval.</p>
 <p>The beginning of CYDY recent share price run coincided with news of the company signing a definitive agreement with Vyera Pharmaceuticals to commercialize Leronlimab in the U.S. for the treatment of HIV. News relating to Leronlimab “promising” metastatic breast cancer Phase 1b/2 trial data resulted in further price gains despite the data being limited to two patients. And more recently it has been swept up in the Corona virus induced bio craze that has resulted in many dubious tickers exhibiting highly suspect price runs.</p>
-</div>
-</div>
 
-					</div>
-				</div><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2 fusion-builder-column-5 fusion-one-half fusion-column-last 1_2" style="margin-top:0px;margin-bottom:20px;width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );">
-					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
-						<div class="fusion-text"><hr>
+
+
+					
+				
+					
+						<hr>
 <h4>Recent News:</h4>
 <ul>
 <li><a href="https://finance.yahoo.com/news/southern-california-patients-treated-leronlimab-101510470.html">April 13, 2020, Southern California Patients Treated with Leronlimab for COVID-19 under Emergency IND: 4 Patients with Moderate Indications Removed from Oxygen; 3 Patients Discharged from Hospital; 1 Patient Scheduled for Discharge Today; 1 Patient with Severe Indications Discharged, for Total of 5 Patients Discharged</a></li>
 <li><a href="https://finance.yahoo.com/news/cytodyn-appoints-scott-kelly-m-100010231.html">April 13, 2020, CytoDyn Appoints Scott A. Kelly, M.D., as Chief Medical Officer and Head of Business Development</a></li>
 <li><a href="Blood%20Samples%20at%20Day%200,%203%20and%207%20for%20Severely%20Ill%20COVID-19%20Patients%20Clearly%20Indicate%20Leronlimab%20Has%20Significantly%20Reduced%20the%20Cytokine%20Storm%20in%20All%20(7)%20Patients%20and%20All%20Patients%20Demonstrated%20Immunological%20Benefit%20at%20Both%20Day%203%20and%20Day%207">April 9, 2020, Blood Samples at Day 0, 3 and 7 for Severely Ill COVID-19 Patients Clearly Indicate Leronlimab Has Significantly Reduced the Cytokine Storm in All (7) Patients and All Patients Demonstrated Immunological Benefit at Both Day 3 and Day 7</a></li>
 </ul>
-</div>
 
-					</div>
-				</div></div></div><div class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-6 fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:0px;margin-bottom:20px;">
-					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
-						<div class="fusion-text"><hr>
+
+					
+				
+					
+						<hr>
 <h4>Financial Highlights:</h4>
 <p><span style="color: #ff0000;">&nbsp;</span></p>
-</div><div class="imageframe-align-center"><span class="fusion-imageframe imageframe-none imageframe-1 hover-type-none"><img src="/wp-content/uploads/2020/04/CYDY_financials_2.png" width="1161" height="129" alt="" title="CYDY_financials_2" class="img-responsive wp-image-3540"><noscript><img width="1161" height="129" alt="" title="CYDY_financials_2" src="/wp-content/uploads/2020/04/CYDY_financials_2.png" class="img-responsive wp-image-3540"/><noscript><img src="/wp-content/uploads/2020/04/CYDY_financials_2.png" width="1161" height="129" alt="" title="CYDY_financials_2" class="img-responsive wp-image-3540"/></noscript></span></div><div class="fusion-text"><p>The last quarter has been yet another poor one as far as CYDY financial performance is concerned. Cash-in-hand has increased, however, this has likely been the result of share issuance as the number of outstanding shares increased from less than 400 million at the end of 2019 to more than 470 million currently. Furthermore, net losses reached a whopping $35 million last quarter a significant increase when compared to average quarterly losses during 2019 which amounted to $14.6 million. For more information on CYDY financials please have a look at <a href="/2020/02/06/cydy/" target="_blank" rel="noopener noreferrer">our previous short report</a> on this ticker.</p>
-</div><div class="fusion-text"><hr>
+<div class="imageframe-align-center"><span class="fusion-imageframe imageframe-none imageframe-1 hover-type-none"><img src="/wp-content/uploads/2020/04/CYDY_financials_2.png" width="1161" height="129" alt="" title="CYDY_financials_2" class="img-responsive wp-image-3540"><noscript><img width="1161" height="129" alt="" title="CYDY_financials_2" src="/wp-content/uploads/2020/04/CYDY_financials_2.png" class="img-responsive wp-image-3540"/><noscript><img src="/wp-content/uploads/2020/04/CYDY_financials_2.png" width="1161" height="129" alt="" title="CYDY_financials_2" class="img-responsive wp-image-3540"/></noscript></span></div><p>The last quarter has been yet another poor one as far as CYDY financial performance is concerned. Cash-in-hand has increased, however, this has likely been the result of share issuance as the number of outstanding shares increased from less than 400 million at the end of 2019 to more than 470 million currently. Furthermore, net losses reached a whopping $35 million last quarter a significant increase when compared to average quarterly losses during 2019 which amounted to $14.6 million. For more information on CYDY financials please have a look at <a href="/2020/02/06/cydy/" target="_blank" rel="noopener noreferrer">our previous short report</a> on this ticker.</p>
+<hr>
 <p><strong>Leronlimab and COVID-19:</strong></p>
 <p><em>Coronavirus Disease 2019 (COVID-19)</em></p>
 <p>Also called as SARS-CoV-2, COVID-19 was identified as the cause of respiratory illness outbreak in Wuhan, China. Although the exact origin is uncertain, the disease is highly contagious that transmits from person-to-person via respiratory droplets by sneezing, cough and personal contact. The symptoms include fever, cough with shortness of breath. Upon exposure, the symptoms may appear within 2 to 14 days and infected patients may either remain symptomless or suffer severe illness or fatal events due to ‘cytokine storm’. Cytokine storm is an <a href="https://www.ncbi.nlm.nih.gov/pubmed?Db=pubmed&amp;Cmd=ShowDetailView&amp;TermToSearch=21075220" target="_blank" rel="noopener noreferrer">immunological</a> event that involves an immune system reaction mediated by various immune molecules such as chemokines and cytokines to eliminate disease-causing virus.</p>
@@ -85,40 +85,40 @@ archivedAt: "20200427015600"
 <p><a href="https://www.cytodyn.com/pipeline" target="_blank" rel="noopener noreferrer">According</a> to CYDY, Leronlimab is a potential inhibitor of CCR5 receptor that blocks the receptor and its <a href="https://cancerres.aacrjournals.org/content/80/4_Supplement/PD4-04" target="_blank" rel="noopener noreferrer">actions</a> in various cancers and also in COVID-19 infection. Theoretically, blocking CCR5 by Leronlimab is believed to be useful in prevention of fatal inflammatory responses such as cytokine storm. However, previous studies <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1850091/" target="_blank" rel="noopener noreferrer">found</a> otherwise!!</p>
 <p>This study <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1850091/" target="_blank" rel="noopener noreferrer">concluded</a> – deficiency of CCR5 (similar to blocking of CCR5 by antagonists such as Leronlimab) leads to hyper-acute inflammatory response that is often fatal; whereas CCR2 deficiency (like administering receptor antagonists) leads to milder inflammatory response with reduced lung pathology and increased survival rates.</p>
 <p>Clearly, in our opinion CCR5 is <strong><u>NOT</u></strong> a viable drug target for COVID-19 treatment, as it is being touted by CYDY. This review clearly underscores the inefficacy of Leronlimab against COVID-19 with possibilities of <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1850091/" target="_blank" rel="noopener noreferrer">worsening</a> of cytokine storm.</p>
-</div><div class="fusion-text"><hr>
+<hr>
 <h4>Recent promotion:</h4>
 <p>Like many tickers listed in the OTC that experience significant price runs, CYDY has been featured on several promotional websites over the last couple of months. The most notable one is emerginggrowth.com which has put out several articles on CYDY over the last couple of weeks ((<a href="https://emerginggrowth.com/otcqb-cydy-blood-samples-at-day-0-3-and-7-for-severely-ill-covid-19-patients-clearly-indicate-leronlimab-has-significantly-reduced-the-cytokine-storm-in-all-7-patients-and-all-patients-demonstra/" target="_blank" rel="noopener noreferrer">1</a>),(<a href="https://emerginggrowth.com/cytodyn-otcqb-cydy-first-two-patients-enrolled-in-randomized-phase-2-covid-19-trial-with-leronlimab-five-more-severely-ill-covid-19-patients-treated-under-emergency-ind-and-two-patients-have-alre/" target="_blank" rel="noopener noreferrer">2</a>),(<a href="https://emerginggrowth.com/cytodyn-otcqb-cydy-files-request-with-fda-for-preliminary-meeting-for-breakthrough-therapy-designation-for-leronlimab-in-the-treatment-of-cancer/">3</a>)), all of which clearly mention on a disclaimer at the bottom of the article that emerginggrowth.com was compensated by CYDY.</p>
-</div><div class="imageframe-align-center"><span class="fusion-imageframe imageframe-none imageframe-2 hover-type-none"><img src="/wp-content/uploads/2020/04/CYDY_emerginggrowth_disclaimer.png" width="953" height="638" alt="CYDY paid promotion disclaimer" title="CYDY_emerginggrowth_disclaimer" class="img-responsive wp-image-3537"><noscript><img width="953" height="638" alt="CYDY paid promotion disclaimer" title="CYDY_emerginggrowth_disclaimer" src="/wp-content/uploads/2020/04/CYDY_emerginggrowth_disclaimer.png" class="img-responsive wp-image-3537"/><noscript><img src="/wp-content/uploads/2020/04/CYDY_emerginggrowth_disclaimer.png" width="953" height="638" alt="CYDY paid promotion disclaimer" title="CYDY_emerginggrowth_disclaimer" class="img-responsive wp-image-3537"/></noscript></span></div><div class="fusion-text"><p>Emerginggrowth.com actually went as far as publishing a <a href="https://emerginggrowth.com/the-great-cytodyn-otcqb-cydy-bear-raid-fails-to-impress/" target="_blank" rel="noopener noreferrer">hit piece on Culper Research</a>, a fund that published a report on CYDY that highlighted many of the red flags CYDY has raised over the last few years.</p>
+<div class="imageframe-align-center"><span class="fusion-imageframe imageframe-none imageframe-2 hover-type-none"><img src="/wp-content/uploads/2020/04/CYDY_emerginggrowth_disclaimer.png" width="953" height="638" alt="CYDY paid promotion disclaimer" title="CYDY_emerginggrowth_disclaimer" class="img-responsive wp-image-3537"><noscript><img width="953" height="638" alt="CYDY paid promotion disclaimer" title="CYDY_emerginggrowth_disclaimer" src="/wp-content/uploads/2020/04/CYDY_emerginggrowth_disclaimer.png" class="img-responsive wp-image-3537"/><noscript><img src="/wp-content/uploads/2020/04/CYDY_emerginggrowth_disclaimer.png" width="953" height="638" alt="CYDY paid promotion disclaimer" title="CYDY_emerginggrowth_disclaimer" class="img-responsive wp-image-3537"/></noscript></span></div><p>Emerginggrowth.com actually went as far as publishing a <a href="https://emerginggrowth.com/the-great-cytodyn-otcqb-cydy-bear-raid-fails-to-impress/" target="_blank" rel="noopener noreferrer">hit piece on Culper Research</a>, a fund that published a report on CYDY that highlighted many of the red flags CYDY has raised over the last few years.</p>
 <p>Another promotional outlet that has recently featured CYDY is proactiveinvestors.com ((<a href="1">1</a>),(<a href="https://www.proactiveinvestors.com/companies/news/917093/cytodyn-inc-says-five-coronavirus-patients-able-to-go-off-oxygen-after-taking-leronlimab-917093.html" target="_blank" rel="noopener noreferrer">2</a>),(<a href="https://www.proactiveinvestors.com/companies/news/917080/cytodyn-hopes-to-convince-fda--federal-gov-t-to-grant-approvals-with-coronavirus-patient-data-917080.html" target="_blank" rel="noopener noreferrer">3</a>)). As its “terms” page states, some of the articles published on the website are indeed promotional, going as far as stating in its CYDY disclaimer that it has received<a href="https://ca.proactiveinvestors.com/pages/disclaimer/11906" target="_blank" rel="noopener noreferrer"> $25,000 in compensation from CYDY</a>. (Note: this disclaimer is region specific meaning that it is not visible from all IP addresses).</p>
-</div><div class="imageframe-align-center"><span class="fusion-imageframe imageframe-none imageframe-3 hover-type-none"><img src="/wp-content/uploads/2020/04/CYDY-proactive-disclaimer-2.png" width="1655" height="1385" alt="CYDY proactive disclaimer compensation" title="CYDY proactive disclaimer 2" class="img-responsive wp-image-3551"><noscript><img width="1655" height="1385" alt="CYDY proactive disclaimer compensation" title="CYDY proactive disclaimer 2" src="/wp-content/uploads/2020/04/CYDY-proactive-disclaimer-2.png" class="img-responsive wp-image-3551"/><noscript><img src="/wp-content/uploads/2020/04/CYDY-proactive-disclaimer-2.png" width="1655" height="1385" alt="CYDY proactive disclaimer compensation" title="CYDY proactive disclaimer 2" class="img-responsive wp-image-3551"/></noscript></span></div><div class="fusion-text"><hr>
+<div class="imageframe-align-center"><span class="fusion-imageframe imageframe-none imageframe-3 hover-type-none"><img src="/wp-content/uploads/2020/04/CYDY-proactive-disclaimer-2.png" width="1655" height="1385" alt="CYDY proactive disclaimer compensation" title="CYDY proactive disclaimer 2" class="img-responsive wp-image-3551"><noscript><img width="1655" height="1385" alt="CYDY proactive disclaimer compensation" title="CYDY proactive disclaimer 2" src="/wp-content/uploads/2020/04/CYDY-proactive-disclaimer-2.png" class="img-responsive wp-image-3551"/><noscript><img src="/wp-content/uploads/2020/04/CYDY-proactive-disclaimer-2.png" width="1655" height="1385" alt="CYDY proactive disclaimer compensation" title="CYDY proactive disclaimer 2" class="img-responsive wp-image-3551"/></noscript></span></div><hr>
 <h4>SEC letter:</h4>
 <p>On February 10, 2020, The SEC’s Division of Corporate Finance wrote a letter to CYDY’s CFO, Mr. Craig S. Eastwood. In it, the SEC asked Mr. Eastwood to disclose information that he redacted from certain filing exhibits as he claimed that “the redacted information is not material and would cause competitive harm if publicly disclosed”. This wouldn’t usually raise too many eyebrows but in CYDY’s case is yet another addition to its track record of red flags.</p>
-</div><div class="imageframe-align-center"><span class="fusion-imageframe imageframe-none imageframe-4 hover-type-none"><img src="/wp-content/uploads/2020/04/CYDY-SEC-letter.png" width="657" height="516" alt="CYDY SEC letter" title="CYDY SEC letter" class="img-responsive wp-image-3549"><noscript><img width="657" height="516" alt="CYDY SEC letter" title="CYDY SEC letter" src="/wp-content/uploads/2020/04/CYDY-SEC-letter.png" class="img-responsive wp-image-3549"/><noscript><img src="/wp-content/uploads/2020/04/CYDY-SEC-letter.png" width="657" height="516" alt="CYDY SEC letter" title="CYDY SEC letter" class="img-responsive wp-image-3549"/></noscript></span></div><div class="fusion-text"><hr>
+<div class="imageframe-align-center"><span class="fusion-imageframe imageframe-none imageframe-4 hover-type-none"><img src="/wp-content/uploads/2020/04/CYDY-SEC-letter.png" width="657" height="516" alt="CYDY SEC letter" title="CYDY SEC letter" class="img-responsive wp-image-3549"><noscript><img width="657" height="516" alt="CYDY SEC letter" title="CYDY SEC letter" src="/wp-content/uploads/2020/04/CYDY-SEC-letter.png" class="img-responsive wp-image-3549"/><noscript><img src="/wp-content/uploads/2020/04/CYDY-SEC-letter.png" width="657" height="516" alt="CYDY SEC letter" title="CYDY SEC letter" class="img-responsive wp-image-3549"/></noscript></span></div><hr>
 <h4>Red Flags:</h4>
 <p>note: for full information on other red flags please read <a href="/2020/02/06/cydy/" target="_blank" rel="noopener noreferrer">our previous short report on CYDY</a>.</p>
-</div><span class="fusion-imageframe imageframe-none imageframe-5 hover-type-none"><img src="/wp-content/uploads/2020/04/CYDY-flags-2.png" width="769" height="787" alt="" title="CYDY flags 2" class="img-responsive wp-image-3543"><noscript><img width="769" height="787" alt="" title="CYDY flags 2" src="/wp-content/uploads/2020/04/CYDY-flags-2.png" class="img-responsive wp-image-3543"/><noscript><img src="/wp-content/uploads/2020/04/CYDY-flags-2.png" width="769" height="787" alt="" title="CYDY flags 2" class="img-responsive wp-image-3543"/></noscript></span><div class="fusion-text"><hr>
+<span class="fusion-imageframe imageframe-none imageframe-5 hover-type-none"><img src="/wp-content/uploads/2020/04/CYDY-flags-2.png" width="769" height="787" alt="" title="CYDY flags 2" class="img-responsive wp-image-3543"><noscript><img width="769" height="787" alt="" title="CYDY flags 2" src="/wp-content/uploads/2020/04/CYDY-flags-2.png" class="img-responsive wp-image-3543"/><noscript><img src="/wp-content/uploads/2020/04/CYDY-flags-2.png" width="769" height="787" alt="" title="CYDY flags 2" class="img-responsive wp-image-3543"/></noscript></span><hr>
 <h4>Opinion:</h4>
 <p>Our opinion on CYDY has not changed. It is a poor investment. Publications and studies clearly show inhibition of a single cytokine or related receptor is insufficient to ameliorate the disease progression of COVID-19 infection and related to complications such as cytokine storm. Meaning that its recent price run can likely be attributed to all the recent paid promotion. CYDY should refrain from touting Leronlimab as a pan-therapeutic drug for most of the dreadful diseases including recently-added (god-send!!!) COVID-19 indication which appears like a spurious tactic to inflate stock price.</p>
 <p>Furthermore, CYDY raises plenty of other red flags as mentioned on our previous short report. Stay away from CYDY unless you are an experienced trader.</p>
-</div><div class="fusion-text"><hr>
+<hr>
 <h2>GET OUR LATEST REPORTS AND TRADE ALERTS DELIVERED TO YOUR INBOX</h2>
-</div><div class="fusion-text"><hr>
+<hr>
 <div class="heading">
-<div class="fusion-title-sc-wrapper">
-<div class="fusion-title title fusion-title-1 fusion-sep-none fusion-title-center fusion-title-size-two fusion-border-below-title">
+
+
 <h2 class="title-heading-center" data-inline-fontsize="true" data-inline-lineheight="true" data-fontsize="50" data-lineheight="60"><strong>Short seller Academy</strong></h2>
-</div>
-</div>
+
+
 </div>
 <div class="caption">
-<div class="fusion-title-sc-wrapper fusion-block-element">
-<div class="fusion-title title fusion-title-2 fusion-title-center fusion-title-size-three fusion-border-below-title">
+
+
 <p><strong><span style="color: #008000;">Utopia Cap’s Short seller Academy is focused on the short side of trading. Through years of constant monitoring and trading of the American stock market, our members have acquired a wealth of knowledge that has allowed them to device various methods of shorting opportunity identification and trading. Our approach leans heavily on extensive due diligence and in-depth research and seeks to expose potential fraud and criminal activity, something we take great pride in.</span> For More information on how to JOIN US -&gt; <a href="/membership/" class="join-cta">Short seller Academy</a></strong></p>
-</div>
-</div>
+
+
 </div>
 <hr>
-</div>
 
-					</div>
-				</div></div></div>
+
+					
+				

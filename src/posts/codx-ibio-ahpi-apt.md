@@ -12,9 +12,9 @@ archivedAt: "20200514161002"
 <img src="/wp-content/uploads/2020/03/Sabby-management-CODX-disclaimer.png" loading="lazy" style="max-width:100%;height:auto;">
 </div>
 
-<div class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-1 fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:0px;margin-bottom:20px;">
-					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
-						<div class="fusion-text"><p>Current prices:</p>
+
+					
+						<p>Current prices:</p>
 <p>CODX: $13.16</p>
 <p>IBIO: $2.27</p>
 <p>AHPI: $18.49</p>
@@ -27,16 +27,16 @@ archivedAt: "20200514161002"
 <p>Other publicly traded companies that have seen unwarranted increases in their share price on the back of the current COVID-19 hysteria are AHPI and APT, manufactures of respiratory products and protective apparel respectively. AHPI has been losing money for years. APT’s masks are sold out until May, yet they have been able to add about $450 million capitalisation on around a $5 million increase in gross profit.</p>
 <p>As previously mentioned, these crazy share price appreciations have been compounded by short squeezes. The high levels of volatility have led many inexperienced short sellers to take wild risks by shorting too many shares too soon, leading to massive buy ins that have wiped out accounts and given brokers many headaches. This is why we always warn inexperienced traders against getting involved with these types of tickers, one ill-timed and careless short can wipe out months or weeks of hard work or in the worst cases blow up an account.</p>
 <p>These tickers will likely crash in the near future meaning that one is better off going short than long. However, careful scaling and risk management are a must if profits are to be made.</p>
-</div><div class="fusion-text"><hr>
+<hr>
 <p><strong>Through invitation-only and member publications, Utopia Capital Research fosters a community of intelligent investors united by a passion of lifelong learning and critical thinking. For more information on how to become a member of community click here: </strong><a href="/membership/" class="join-cta"><strong>Waiting List</strong></a></p>
 <hr>
-</div><div class="fusion-text"><ol>
+<ol>
 <li><a href="https://whitediamondresearch.com/research/co-diagnostics-coronavirus-test-is-likely-ineffective-1-price-target/">https://whitediamondresearch.com/research/co-diagnostics-coronavirus-test-is-likely-ineffective-1-price-target/</a></li>
 <li><a href="https://finance.yahoo.com/quote/CODX/press-releases?p=CODX">https://finance.yahoo.com/quote/CODX/press-releases?p=CODX</a></li>
 <li><a href="https://www.ibioinc.com/news/ibio-and-cc-pharming-initiate-joint-development-of-coronavirus-vaccine">https://www.ibioinc.com/news/ibio-and-cc-pharming-initiate-joint-development-of-coronavirus-vaccine</a></li>
 <li><a href="https://www.otcmarkets.com/filing/html?id=13962016&amp;guid=EJZCUpNy09Unhth">https://www.otcmarkets.com/filing/html?id=13962016&amp;guid=EJZCUpNy09Unhth</a></li>
 </ol>
-</div>
 
-					</div>
-				</div></div></div>
+
+					
+				

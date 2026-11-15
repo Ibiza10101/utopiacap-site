@@ -11,11 +11,11 @@ archivedAt: "20200514125811"
 <img src="/wp-content/uploads/2019/12/ONCY-candles.png" loading="lazy" style="max-width:100%;height:auto;">
 </div>
 
-<div class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-1 fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:0px;margin-bottom:20px;">
-					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
-						<div class="fusion-text"><hr>
+
+					
+						<hr>
 <h3>If you find this short report useful please consider<span style="color: #00ff00;"> <a style="color: #00ff00;" href="/membership/" class="join-cta">signing up</a> </span>for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
-</div><div class="fusion-text"><hr>
+<hr>
 <p>Current price: ~$5</p>
 <p>Outstanding shares: 20,298,482</p>
 <p>Market cap: ~$ 100 million</p>
@@ -48,10 +48,10 @@ archivedAt: "20200514125811"
 <li><a href="https://www.sec.gov/litigation/complaints/2018/comp-pr2018-182.pdf">https://www.sec.gov/litigation/complaints/2018/comp-pr2018-182.pdf</a></li>
 <li><a href="https://www.investmentnews.com/article/20181224/FREE/181229976/phillip-frost-sells-most-of-his-ladenburg-thalmann-shares">https://www.investmentnews.com/article/20181224/FREE/181229976/phillip-frost-sells-most-of-his-ladenburg-thalmann-shares</a></li>
 </ol>
-</div><div class="fusion-text"><hr>
+<hr>
 <h3>If you found this short report useful please consider <a href="/membership/" class="join-cta"><span style="color: #00ff00;">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
 <hr>
-</div>
 
-					</div>
-				</div></div></div>
+
+					
+				

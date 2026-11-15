@@ -6,13 +6,13 @@ layout: post.njk
 sourceUrl: "https://utopiacap.com/2019/07/30/clic-technology-otcmkts-clci-infamous-attorney-suspicious-shares-transfers-involving-offshore-nominees/"
 archivedAt: "20191113071425"
 ---
-<div class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div class="fusion-builder-row fusion-row"><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1 fusion-builder-column-1 fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:0px;margin-bottom:20px;">
-					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
-						<div class="fusion-text"><p>Yet another promoted ticker (1) that has been recently given caveat emptor by OTCmarkets.com. Its price saw an 800% increase between June 11<sup>th</sup> and June 17<sup>th</sup> this year hitting a price of $2.76 per share. Three days later the price had dropped back down to its pre-June 11<sup>th</sup> level. &nbsp;CLCI has somewhat of a history which has been uncovered in an article by nodummy (2) from otcmarketresearch.com. We highly recommend you have a look at this article, below we will present a more concise account.</p>
+
+					
+						<p>Yet another promoted ticker (1) that has been recently given caveat emptor by OTCmarkets.com. Its price saw an 800% increase between June 11<sup>th</sup> and June 17<sup>th</sup> this year hitting a price of $2.76 per share. Three days later the price had dropped back down to its pre-June 11<sup>th</sup> level. &nbsp;CLCI has somewhat of a history which has been uncovered in an article by nodummy (2) from otcmarketresearch.com. We highly recommend you have a look at this article, below we will present a more concise account.</p>
 <p>Having started as Fundthatcompany.com in 2015, it was a shell company with little else but a business plan to become a fund-raising company along the lines of Kickstarter or Indiegogo. Shares in the company were sold to a group of Thai nominees and shortly after a reverse split was carried out which significantly increased the number of shares to over 30 million and lowered the price of each individual share down to under $0.0002. This was then promptly followed by the acquisition of a controlling stake of the shares by Yosef Biton for the sum $323,000 who went on to rename the company CLIC Technologies (3).</p>
 <p>Fast forward to May 2018 when Charles Vaccaro (Sunny Isles Capital LLC) and Eli Taeib (One Investment Capital LLC), each acquired over 7 million shares from some of the Thai nominees for which they paid as little as $10,000 (4) (5). So, the shares were acquired for a as little as $0.0013 per share. &nbsp;A few months later in November 2018, both Charles Vaccaro and Eli Taeib sued CLIC Technologies with the help of OTC prohibited attorney Matteau J W Stout (6) (7), as they were having difficulties getting their shares deposited into their brokerage accounts. Both lawsuits concluded in settlements which allowed both Vaccaro and Taeib to fully obtain their CLCI shares and sell them into the market.</p>
 <p>What we have here are a couple of individuals who are able to trade at least 15 million shares obtained at a price of $0.0013 (with the help of an infamous attorney), at prices as high as $2.76 on June 17<sup>th</sup> 2019, the same day the stock was being promoted. This appears to be more than a profitable coincidence.</p>
-</div><div class="fusion-text"><ul>
+<ul>
 <li>(1) <a href="http://www.icontact-archive.com/archive?c=925383&amp;f=3061&amp;s=47183&amp;m=2634561&amp;t=5e3aaaa6bc082a73cc05ab3b54e7dfdd61380804ac86e3cf57174cc5d9e72ca4">http://www.icontact-archive.com/archive?c=925383&amp;f=3061&amp;s=47183&amp;m=2634561&amp;t=5e3aaaa6bc082a73cc05ab3b54e7dfdd61380804ac86e3cf57174cc5d9e72ca4</a></li>
 <li>(2) <a href="https://otcmarketresearch.com/clic-technology-inc-clci-sham-ipo-turned-insider-enrichment-scheme/">https://otcmarketresearch.com/clic-technology-inc-clci-sham-ipo-turned-insider-enrichment-scheme/</a></li>
 <li>(3) <a href="http://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&amp;directionType=Initial&amp;searchNameOrder=CRYPTOVENTURESCAPITAL%20P180000242120&amp;aggregateId=domp-p18000024212-bc2abd5a-a596-4992-88d3-cbc0b53f5bfd&amp;searchTerm=crypto%20ventures&amp;listNameOrder=CRYPTOVENTURES%20P170000862670">http://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&amp;directionType=Initial&amp;searchNameOrder=CRYPTOVENTURESCAPITAL%20P180000242120&amp;aggregateId=domp-p18000024212-bc2abd5a-a596-4992-88d3-cbc0b53f5bfd&amp;searchTerm=crypto%20ventures&amp;listNameOrder=CRYPTOVENTURES%20P170000862670</a></li>
@@ -21,7 +21,7 @@ archivedAt: "20191113071425"
 <li>(6) <a href="https://www.scribd.com/document/396424473/Sunny-Isles-Capital-LLC-3-a-10-settlement-order-vs-CLCI">https://www.scribd.com/document/396424473/Sunny-Isles-Capital-LLC-3-a-10-settlement-order-vs-CLCI</a></li>
 <li>(7) <a href="https://www.scribd.com/document/396424459/One-Investment-Capital-Inc-3-a-10-settlement-order-vs-CLCI">https://www.scribd.com/document/396424459/One-Investment-Capital-Inc-3-a-10-settlement-order-vs-CLCI</a></li>
 </ul>
-</div>
 
-					</div>
-				</div></div></div>
+
+					
+				
