@@ -60,8 +60,45 @@ a:hover { text-decoration: underline; }
   display: flex;
   gap: 1.1rem;
   flex-wrap: wrap;
+  align-items: center;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 0.9rem;
+}
+
+.nav-dropdown {
+  position: relative;
+}
+.nav-dropdown summary {
+  cursor: pointer;
+  color: var(--link);
+  list-style: none;
+}
+.nav-dropdown summary::-webkit-details-marker { display: none; }
+.nav-dropdown summary::after {
+  content: ' \25BE';
+  font-size: 0.7em;
+}
+.nav-dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin-top: 0.5rem;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.4rem 0;
+  min-width: 13rem;
+  display: flex;
+  flex-direction: column;
+  z-index: 10;
+}
+.nav-dropdown-menu a {
+  padding: 0.5rem 1rem;
+  white-space: nowrap;
+}
+.nav-dropdown-menu a:hover {
+  background: var(--bg);
+  text-decoration: none;
 }
 
 main.wrap { padding-top: 2.5rem; padding-bottom: 3rem; }
