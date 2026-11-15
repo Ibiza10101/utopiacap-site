@@ -2,10 +2,12 @@
 title: "Blockchain Trade Alerts"
 date: 2020-05-14
 permalink: "/blockchain-trade-alerts/"
-layout: post.njk
+layout: base.njk
 sourceUrl: "https://utopiacap.com/blockchain-trade-alerts/"
 archivedAt: "20200514004735"
 ---
+# Blockchain Trade Alerts
+
 
 					
 						

@@ -2,10 +2,12 @@
 title: "Investor warnings"
 date: 2020-09-24
 permalink: "/investor-warnings/"
-layout: post.njk
+layout: base.njk
 sourceUrl: "https://utopiacap.com/investor-warnings/"
 archivedAt: "20200924221933"
 ---
+# Investor Warnings
+
 <p>Investor warnings can be split into two different categories. The first focuses on specific third parties &mdash; such as institutional investors and stock promoters that we consider to be red flags &mdash; and analyzes the publicly traded companies they get involved with. These reports offer a unique insight into the crucial factors that outline our approach to short trading, and the content requires extensive research, so we have not made this information available to the public for free.</p>
 
 <p>The second category of investor warnings can be described as less detailed &ldquo;blockchain short reports.&rdquo; They contain information about tickers which we believe to be good candidates for short selling, and are also timestamped with blockchain technology.</p>

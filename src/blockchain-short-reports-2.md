@@ -2,10 +2,12 @@
 title: "Blockchain short reports"
 date: 2020-09-24
 permalink: "/blockchain-short-reports-2/"
-layout: post.njk
+layout: base.njk
 sourceUrl: "https://utopiacap.com/blockchain-short-reports-2/"
 archivedAt: "20200924201017"
 ---
+# Blockchain Short Reports
+
 <p>We have been publishing short reports since August 2019. The structure of these reports and the red flags raised can be considered a &ldquo;rough outline&rdquo; of the methodology our community uses to determine whether a stock&rsquo;s price is likely to experience a considerable decrease in value in the short run. Precise timing is a must, so all of our short calls (short reports and trade alerts) have been timestamped with blockchain technology since February 2020 &mdash; proof of the precision of our short calls.</p>
 
 <p><a class="btn-readmore" href="/track-record/">Track record</a></p>

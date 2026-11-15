@@ -2,10 +2,12 @@
 title: "Basics of Short Selling"
 date: 2020-09-24
 permalink: "/the-basics-of-short-selling/"
-layout: post.njk
+layout: base.njk
 sourceUrl: "https://utopiacap.com/the-basics-of-short-selling/"
 archivedAt: "20200924203138"
 ---
+# Basics of Short Selling
+
 <p>At its core, short selling consists in selling a financial instrument that has been borrowed. It is widely practiced but far less so than traditional investing (going long). This is the result of it being somewhat controversial and misunderstood, the risks involved, the skill set required for it to be consistently profitable and other barriers.</p>
 
 <p>To sell short one must have a margin account and fund it with a certain amount of margin/collateral. Margin required to short shares varies considerably depending on the type of shares. For example, penny stocks are characterised by low prices and high levels of volatility, consequently margin requirements are very large. In USA equity markets, some brokers ask for as much as $2.50 collateral for all shares worth less than $2.50, meaning that if 1,000 shares priced at $0.10 are sold short, $2,500 worth of margin/collateral would be needed, despite the value of the shares being a mere $100.</p>
