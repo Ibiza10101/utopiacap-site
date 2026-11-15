@@ -33,4 +33,4 @@ Short selling may not be popular, but it is at worst a necessary evil, and at be
 
 Next: [Why You Should Learn About Short Selling](/why-you-should-learn-about-short-selling/).
 
-Ready to jump in? [Become a part of our community](/membership/).
+Ready to jump in? <a href="/membership/" class="join-cta">Become a part of our community</a>.

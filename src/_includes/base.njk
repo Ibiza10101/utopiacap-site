@@ -36,5 +36,40 @@
       <p>&copy; {{ currentYear }} Utopia Capital Research. Not investment advice. See our <a href="/legal-disclaimer/">Legal Disclaimer</a> and <a href="/privacy-policy/">Privacy Policy</a>. Follow us on <a href="https://x.com/utopiacap" target="_blank" rel="noopener">X</a>.</p>
     </div>
   </footer>
+
+  <script>
+  (function () {
+    var links = document.querySelectorAll('a.join-cta');
+    if (!links.length) return;
+
+    var overlay = document.createElement('div');
+    overlay.className = 'modal-overlay';
+    overlay.hidden = true;
+    overlay.innerHTML =
+      '<div class="modal-box" role="dialog" aria-modal="true" aria-labelledby="waitlist-modal-title">' +
+        '<button type="button" class="modal-close" aria-label="Close">&times;</button>' +
+        '<h3 id="waitlist-modal-title">Currently closed for new members</h3>' +
+        '<p>We\'re not accepting new members right now. Email us and we\'ll add you to the waiting list for when spots open back up.</p>' +
+        '<p><a class="btn-readmore" href="mailto:research@utopiacap.com?subject=Waiting%20list">Email us to join the waiting list</a></p>' +
+      '</div>';
+    document.body.appendChild(overlay);
+
+    function openModal() { overlay.hidden = false; }
+    function closeModal() { overlay.hidden = true; }
+
+    links.forEach(function (a) {
+      a.addEventListener('click', function (e) {
+        e.preventDefault();
+        openModal();
+      });
+    });
+    overlay.addEventListener('click', function (e) {
+      if (e.target === overlay || e.target.closest('.modal-close')) closeModal();
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') closeModal();
+    });
+  })();
+  </script>
 </body>
 </html>

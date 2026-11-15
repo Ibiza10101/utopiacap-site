@@ -27,4 +27,4 @@ Please let us know about your interest before signing up by contacting us via em
 >
 > — SiPi, former chat room member
 
-Ready to jump in? [Join our community](mailto:research@utopiacap.com).
+Ready to jump in? <a href="mailto:research@utopiacap.com" class="join-cta">Join our community</a>.

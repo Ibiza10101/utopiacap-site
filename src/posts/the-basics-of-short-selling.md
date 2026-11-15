@@ -38,6 +38,6 @@ You buy the shares and return them to your broker to close the position. If the 
 
 <p>In the next article in the series we will take a quick look at <a href="/a-short-history-of-short-selling/"><strong>the history of short selling</strong></a>.</p>
 
-<p>Ready to jump in? <a href="/membership/">Become a part of our community</a>.</p>
+<p>Ready to jump in? <a href="/membership/" class="join-cta">Become a part of our community</a>.</p>
 
 <p>If you require further information about our premium service, contact us at <a href="mailto:research@utopiacap.com">research@utopiacap.com</a>.</p>

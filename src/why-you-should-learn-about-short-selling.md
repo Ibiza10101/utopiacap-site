@@ -25,4 +25,4 @@ Questioning and assessing the nature and value of information is paramount for w
 
 All in all, little can be lost from learning about something — especially if it can make you money. If you wish to learn about short selling or take it to the next level, have a look at the services offered by the Utopia Capital Research team.
 
-Ready to jump in? [Become a part of our community](/membership/).
+Ready to jump in? <a href="/membership/" class="join-cta">Become a part of our community</a>.

@@ -31,4 +31,4 @@ Some denounce these activists as fabricators attacking fairly valued companies; 
 
 Next: [Short Selling in the Public Eye](/short-selling-in-the-public-eye/).
 
-Ready to jump in? [Become a part of our community](/membership/).
+Ready to jump in? <a href="/membership/" class="join-cta">Become a part of our community</a>.
