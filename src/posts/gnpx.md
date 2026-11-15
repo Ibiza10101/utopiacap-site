@@ -12,6 +12,10 @@ archivedAt: "20201129023959"
 </div>
 
 <p>This short report will look into some of the red flags GNPX raises, which include: lead drug candidate and key members of management taken from a bankrupt/failed business, dwindling cash, worsening dilution issues and an institutional investor with links to an alleged pump and dump ring.</p>
-<p>This short report's availability is subscription based. Below you will find the three subscriptions plan that we offer, all of them:</p>
-<p>&nbsp;</p>
-<p></p><p></p>
+<p>This short report's full content was subscription-only on the original site.</p>
+
+<h2>Ready to jump in?</h2>
+
+<p><a href="/membership/" class="join-cta">Become a part of our community</a>.</p>
+
+<p>If you require further information about our premium service, contact us at <a href="mailto:research@utopiacap.com">research@utopiacap.com</a>.</p>

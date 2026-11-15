@@ -12,6 +12,10 @@ archivedAt: "20201203031447"
 </div>
 
 <p>Over the last two weeks COCP’s share price has a seen over a three-fold increase, daily trading volume has exceeded 72 million (over twice times the number of outstanding shares and way above the six-month daily average volume) and daily RSI (14) has breached 80.</p>
-<p>Trade alerts early access is exclusive to our subscribers. Below you will find the three subscriptions plan that we offer:</p>
-<p>&nbsp;</p>
-<p></p><p></p>
+<p>Trade alerts early access was exclusive to our subscribers on the original site.</p>
+
+<h2>Ready to jump in?</h2>
+
+<p><a href="/membership/" class="join-cta">Become a part of our community</a>.</p>
+
+<p>If you require further information about our premium service, contact us at <a href="mailto:research@utopiacap.com">research@utopiacap.com</a>.</p>
