@@ -1,5 +1,53 @@
 [
   {
+    "canonicalPath": "/wp-content/uploads/2020/06/Proactive-Investors-CYDY-disclaimer.png",
+    "ts": "20200814172645",
+    "note": "Newly discovered when the real article content was recovered from a leaked raw-shortcode JSON blob embedded in a Wayback snapshot of /2020/06/01/proactive-investors/ (the recovery script had previously replaced this whole section with a placeholder). No Wayback snapshot of this image exists under this filename.",
+    "variants": [
+      "/wp-content/uploads/2020/06/Proactive-Investors-CYDY-disclaimer.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/06/Proactive_Investors_CYDY_S3.png",
+    "ts": "20200814172645",
+    "note": "Same recovery as Proactive-Investors-CYDY-disclaimer.png. No Wayback snapshot exists.",
+    "variants": [
+      "/wp-content/uploads/2020/06/Proactive_Investors_CYDY_S3.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/06/Proactive-Investors-CODX-disclaimer.png",
+    "ts": "20200814172645",
+    "note": "Same recovery as Proactive-Investors-CYDY-disclaimer.png. No Wayback snapshot exists.",
+    "variants": [
+      "/wp-content/uploads/2020/06/Proactive-Investors-CODX-disclaimer.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/06/Proactive-Investors-TNXP-disclaimer.png",
+    "ts": "20200814172645",
+    "note": "Same recovery as Proactive-Investors-CYDY-disclaimer.png. No Wayback snapshot exists.",
+    "variants": [
+      "/wp-content/uploads/2020/06/Proactive-Investors-TNXP-disclaimer.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/06/Proactive-Investors-GNPX-disclaimer.png",
+    "ts": "20200814172645",
+    "note": "Same recovery as Proactive-Investors-CYDY-disclaimer.png. No Wayback snapshot exists.",
+    "variants": [
+      "/wp-content/uploads/2020/06/Proactive-Investors-GNPX-disclaimer.png"
+    ]
+  },
+  {
+    "canonicalPath": "/wp-content/uploads/2020/06/Proactive-Investors-Pharma-clients-2020.png",
+    "ts": "20200814172645",
+    "note": "Same recovery as Proactive-Investors-CYDY-disclaimer.png. No Wayback snapshot exists.",
+    "variants": [
+      "/wp-content/uploads/2020/06/Proactive-Investors-Pharma-clients-2020.png"
+    ]
+  },
+  {
     "canonicalPath": "/wp-content/uploads/2020/02/AGRX_candles.png",
     "ts": "20200505233027",
     "variants": [
