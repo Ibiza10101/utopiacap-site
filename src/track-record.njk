@@ -39,7 +39,8 @@ layout: base.njk
   <tbody>
     {%- for row in trackRecord %}
     <tr{% if row.Ticker == "AVERAGE" %} class="track-average"{% endif %}>
-      <td>{{ row.Ticker }}</td>
+      {%- set reportHref = row.Ticker | reportUrl(row["Date of publishing"], row.Type, collections.posts) %}
+      <td>{% if reportHref %}<a href="{{ reportHref }}">{{ row.Ticker }}</a>{% else %}{{ row.Ticker }}{% endif %}</td>
       <td>{{ row.Type }}</td>
       <td>{{ row["Date of publishing"] }}</td>
       <td>{{ row["Time of publishing"] }}</td>

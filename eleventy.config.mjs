@@ -33,6 +33,49 @@ export default function (eleventyConfig) {
   });
   eleventyConfig.addGlobalData('currentYear', () => new Date().getFullYear());
 
+  // Matches a Track Record row (ticker + DD/MM/YYYY + type) back to the post
+  // that reports it, so the ticker can link to its actual trade alert/short
+  // report/investor warning instead of sitting as plain text.
+  eleventyConfig.addFilter('reportUrl', (ticker, dateStr, type, posts) => {
+    if (!ticker || !dateStr || !posts) return null;
+    const [day, month, year] = dateStr.split('/').map(Number);
+    if (!day || !month || !year) return null;
+    const target = `${year}-${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+    const safeTicker = ticker.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const tickerRe = new RegExp(`\\b${safeTicker}\\b`);
+
+    const byDate = (iso) => posts.filter((p) => {
+      const pDate = new Date(p.date).toISOString().slice(0, 10);
+      return pDate === iso && tickerRe.test(p.data.title || '');
+    });
+
+    let candidates = byDate(target);
+    if (candidates.length === 0) {
+      // A few recovered dates are off by one day from the post's own date
+      // (likely a timezone artifact in the original recovered spreadsheet).
+      const d = new Date(`${target}T00:00:00Z`);
+      for (const delta of [-1, 1]) {
+        const shifted = new Date(d);
+        shifted.setUTCDate(shifted.getUTCDate() + delta);
+        candidates = byDate(shifted.toISOString().slice(0, 10));
+        if (candidates.length) break;
+      }
+    }
+
+    if (candidates.length > 1) {
+      const tag = type === 'Trade Alert' ? 'trade-alert' : type === 'Short Report' ? 'short-report' : null;
+      if (tag) {
+        const narrowed = candidates.filter((p) => (p.data.tags || []).includes(tag));
+        if (narrowed.length) candidates = narrowed;
+      } else if (type === 'Investor Warning') {
+        const narrowed = candidates.filter((p) => /investor warning/i.test(p.data.title || ''));
+        if (narrowed.length) candidates = narrowed;
+      }
+    }
+
+    return candidates.length === 1 ? candidates[0].url : null;
+  });
+
   return {
     dir: { input: 'src', output: '_site', includes: '_includes' },
     markdownTemplateEngine: 'njk',
