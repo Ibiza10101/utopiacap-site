@@ -12,11 +12,11 @@ bodyClass: "about-page"
   <div class="page-hero-scroll"><span class="arrow-down">&#8595;</span> Scroll below</div>
 </section>
 
-Utopia Capital Research is a membership community of activist short sellers and veteran traders. We specialise in countertrend short trading small/medium cap USA publicly listed companies. Our approach is rooted in extensive technical analysis and due diligence that focuses on price volatility and the so-called "underhanded" practices of management and related third-parties. Precise timing and a deep understanding of fundamentals are crucial.
+Utopia Capital Research is a membership community of activist short sellers and veteran traders. We specialise in countertrend short trading of small/medium cap USA publicly listed companies. Our approach is rooted in extensive technical analysis and due diligence that focuses on price volatility and the so-called "underhanded" practices of management and related third-parties. Precise timing and a deep understanding of fundamentals are crucial.
 
 In August 2019, we started publishing short calls in the form of short reports, highlighting the fundamental red flags which we consider the most relevant. Since February 2020, we began publishing trade alerts in addition to our short reports, as well as time stamping all of our single-ticker publications in order to prove the high quality of the timing of our short calls.
 
-**We are always on the look out for the following red flags:**
+**We are always on the lookout for the following red flags:**
 
 - Artificially inflated stock prices.
 - False and misleading positive statements.

@@ -14,7 +14,7 @@ archivedAt: "20200924203138"
 
 <h2>The steps of short selling</h2>
 
-<p>Short selling process involves the following steps:</p>
+<p>The short selling process involves the following steps:</p>
 
 <p>You place a short sale order through your broker.<br>
 Your broker will try to borrow (or &ldquo;locate&rdquo;) the shares from many different sources, such as its own inventory, from other margin accounts or even from other brokers.<br>
