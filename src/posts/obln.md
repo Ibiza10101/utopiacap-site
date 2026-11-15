@@ -3,6 +3,7 @@ title: "OBLN Trade Alert Obalon Therapeutics Inc. 2:45pm January 20, 2021"
 date: 2021-01-20
 permalink: "/2021/01/20/obln/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2021/01/20/obln/"
 archivedAt: "20210121010631"
 ---

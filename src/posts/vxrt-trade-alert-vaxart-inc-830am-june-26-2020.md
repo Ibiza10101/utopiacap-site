@@ -3,6 +3,7 @@ title: "VXRT Trade Alert Vaxart Inc 8:30am June 26, 2020"
 date: 2020-06-26
 permalink: "/2020/06/26/vxrt-trade-alert-vaxart-inc-830am-june-26-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/06/26/vxrt-trade-alert-vaxart-inc-830am-june-26-2020/"
 archivedAt: "20200727081245"
 ---

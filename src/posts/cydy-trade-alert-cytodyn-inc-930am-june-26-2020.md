@@ -3,6 +3,7 @@ title: "CYDY Trade Alert CytoDyn Inc 9:30am June 26, 2020"
 date: 2020-06-26
 permalink: "/2020/06/26/cydy-trade-alert-cytodyn-inc-930am-june-26-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/06/26/cydy-trade-alert-cytodyn-inc-930am-june-26-2020/"
 archivedAt: "20200922231719"
 ---

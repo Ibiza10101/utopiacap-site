@@ -3,6 +3,7 @@ title: "ENLV Trade Alert Enlivex Therapeutics Ltd 9:35am October 5, 2020"
 date: 2020-10-05
 permalink: "/2020/10/05/enlv-trade-alert-enlivex-therapeutics-ltd-935am-october-5-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/10/05/enlv-trade-alert-enlivex-therapeutics-ltd-935am-october-5-2020/"
 archivedAt: "20201026065838"
 ---

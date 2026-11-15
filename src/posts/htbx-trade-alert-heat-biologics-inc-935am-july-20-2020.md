@@ -3,6 +3,7 @@ title: "HTBX Trade Alert Heat Biologics Inc. 9:35am July 20, 2020"
 date: 2020-07-20
 permalink: "/2020/07/20/htbx-trade-alert-heat-biologics-inc-935am-july-20-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/07/20/htbx-trade-alert-heat-biologics-inc-935am-july-20-2020/"
 archivedAt: "20200814163024"
 ---

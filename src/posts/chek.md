@@ -3,6 +3,7 @@ title: "CHEK Trade Alert Check-Cap Ltd 9:40am March 15 2021"
 date: 2021-03-15
 permalink: "/2021/03/15/chek/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2021/03/15/chek/"
 archivedAt: "20210315191426"
 coverImage: "/wp-content/uploads/2021/03/image-44.png"

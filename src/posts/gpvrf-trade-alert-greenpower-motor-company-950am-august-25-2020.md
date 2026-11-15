@@ -3,6 +3,7 @@ title: "GPVRF Trade Alert Greenpower Motor Company 9:50am August 25, 2020"
 date: 2020-08-25
 permalink: "/2020/08/25/gpvrf-trade-alert-greenpower-motor-company-950am-august-25-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/08/25/gpvrf-trade-alert-greenpower-motor-company-950am-august-25-2020/"
 archivedAt: "20200924215145"
 ---

@@ -3,6 +3,7 @@ title: "TTOO Trade Alert T2 Biosystems. Inc. 10:45am February 8, 2021"
 date: 2021-02-08
 permalink: "/2021/02/08/ttoo/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2021/02/08/ttoo/"
 archivedAt: "20210221135402"
 ---

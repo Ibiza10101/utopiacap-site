@@ -3,6 +3,7 @@ title: "PLL Trade Alert Piedmont Lithium Ltd 2:45pm September 28, 2020"
 date: 2020-09-28
 permalink: "/2020/09/28/pll/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/09/28/pll/"
 archivedAt: "20201026065018"
 ---

@@ -3,6 +3,7 @@ title: "UONEK Trade Alert Urban One Inc. 8:10am June 17, 2020"
 date: 2020-06-17
 permalink: "/2020/06/17/uonek-trade-alert-urban-one-inc-810am-june-17-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/06/17/uonek-trade-alert-urban-one-inc-810am-june-17-2020/"
 archivedAt: "20201213121247"
 ---

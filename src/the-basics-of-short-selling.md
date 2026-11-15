@@ -37,9 +37,3 @@ You buy the shares and return them to your broker to close the position. If the 
 <h2>Why you should consider short selling</h2>
 
 <p>Besides the above risks, short sellers are often times ill perceived and vilified. Many among you are probably asking &ldquo;why short sell or learn about it?&rdquo;. The answer is a simple one. Prices fall faster than they rise. Over the last two decades we have seen two major stock market crashes and countless failed companies and scams. Understanding the nuances of short selling can thus not only allow one to gain a skillset that can be highly profitable, it can also teach one the needed scepticism and research skills to spot the many hazards that can be found in the world of finance.</p>
-
-<p>In the next article in the series we will take a quick look at <a href="/a-short-history-of-short-selling/"><strong>the history of short selling</strong></a>.</p>
-
-<p>Ready to jump in? <a href="/membership/" class="join-cta">Become a part of our community</a>.</p>
-
-<p>If you require further information about our premium service, contact us at <a href="mailto:research@utopiacap.com">research@utopiacap.com</a>.</p>

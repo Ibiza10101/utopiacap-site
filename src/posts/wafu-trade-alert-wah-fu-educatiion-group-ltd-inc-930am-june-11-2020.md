@@ -3,6 +3,7 @@ title: "WAFU Trade Alert Wah Fu Educatiion Group ltd Inc 9:30am June 11, 2020"
 date: 2020-06-11
 permalink: "/2020/06/11/wafu-trade-alert-wah-fu-educatiion-group-ltd-inc-930am-june-11-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/06/11/wafu-trade-alert-wah-fu-educatiion-group-ltd-inc-930am-june-11-2020/"
 archivedAt: "20201213014438"
 ---

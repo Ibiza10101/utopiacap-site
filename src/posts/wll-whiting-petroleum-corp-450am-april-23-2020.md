@@ -3,6 +3,7 @@ title: "WLL Whiting Petroleum Corp. 12:05pm April 23, 2020"
 date: 2020-04-23
 permalink: "/2020/04/23/wll-whiting-petroleum-corp-450am-april-23-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/04/23/wll-whiting-petroleum-corp-450am-april-23-2020/"
 archivedAt: "20201203103632"
 ---

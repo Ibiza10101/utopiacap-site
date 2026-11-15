@@ -3,6 +3,7 @@ title: "DPW Trade Alert DPW Holdings Inc 1:25pm November 23, 2020"
 date: 2020-11-23
 permalink: "/2020/11/23/dpw/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/11/23/dpw/"
 archivedAt: "20210119202830"
 ---

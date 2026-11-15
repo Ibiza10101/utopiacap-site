@@ -3,6 +3,7 @@ title: "CIDM Trade Alert Cinedigm Corp 9:30am June 4, 2020"
 date: 2020-06-04
 permalink: "/2020/06/04/cidm-trade-alert-cinedigm-corp-930am-june-4-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/06/04/cidm-trade-alert-cinedigm-corp-930am-june-4-2020/"
 archivedAt: "20201212095321"
 ---

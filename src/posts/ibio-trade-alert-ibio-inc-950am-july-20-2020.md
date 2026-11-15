@@ -3,6 +3,7 @@ title: "IBIO Trade Alert Ibio Inc. 9:50am July 20, 2020"
 date: 2020-07-20
 permalink: "/2020/07/20/ibio-trade-alert-ibio-inc-950am-july-20-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/07/20/ibio-trade-alert-ibio-inc-950am-july-20-2020/"
 archivedAt: "20200814171225"
 ---

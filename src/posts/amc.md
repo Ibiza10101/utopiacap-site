@@ -3,6 +3,7 @@ title: "AMC Trade Alert AMC Entertainment Holdings Inc. 2:00pm , May 27, 2021"
 date: 2021-05-27
 permalink: "/2021/05/27/amc/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2021/05/27/amc/"
 archivedAt: "20210527180644"
 coverImage: "/wp-content/uploads/2021/05/image-54.png"

@@ -3,6 +3,7 @@ title: "GNUS Trade Alert Genius Brands International Inc 9:10am June 3, 2020"
 date: 2020-06-03
 permalink: "/2020/06/03/gnus-trade-alert-genius-brands-international-inc-825am-june-3-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/06/03/gnus-trade-alert-genius-brands-international-inc-825am-june-3-2020/"
 archivedAt: "20201212071418"
 ---

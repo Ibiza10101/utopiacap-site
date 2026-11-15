@@ -3,6 +3,7 @@ title: "NETE Trade Alert Net Element Inc 10:05am June 15, 2020"
 date: 2020-06-15
 permalink: "/2020/06/15/nete-trade-alert-net-element-inc-1005am-june-15-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/06/15/nete-trade-alert-net-element-inc-1005am-june-15-2020/"
 archivedAt: "20201213091133"
 ---

@@ -3,6 +3,7 @@ title: "CETX Trade Alert Cemtrex Inc 9:00am June 1, 2020"
 date: 2020-06-01
 permalink: "/2020/06/01/cetx-trade-alert-cemtrex-inc-900am-june-1-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/06/01/cetx-trade-alert-cemtrex-inc-900am-june-1-2020/"
 archivedAt: "20201212023134"
 ---

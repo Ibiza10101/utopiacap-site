@@ -3,6 +3,7 @@ title: "GME Trade Alert GameStop Corp. 10:40am January 25, 2021"
 date: 2021-01-25
 permalink: "/2021/01/25/gme/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2021/01/25/gme/"
 archivedAt: "20210126200436"
 ---

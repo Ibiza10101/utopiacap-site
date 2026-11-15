@@ -3,6 +3,7 @@ title: "GOGO Trade Alert Gogo Inc 9:30am September 3, 2020"
 date: 2020-09-03
 permalink: "/2020/09/03/gogo-trade-alert-gogo-inc-930am-september-3-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/09/03/gogo-trade-alert-gogo-inc-930am-september-3-2020/"
 archivedAt: "20200924203851"
 ---

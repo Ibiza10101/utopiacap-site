@@ -3,6 +3,7 @@ title: "PRPO Trade Alert Precipio, Inc. 9:45am, May 4, 2021"
 date: 2021-05-04
 permalink: "/2021/05/04/prpo/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2021/05/04/prpo/"
 archivedAt: "20210504211423"
 coverImage: "/wp-content/uploads/2021/05/Screenshot-2021-05-04-at-11.25.48.png"

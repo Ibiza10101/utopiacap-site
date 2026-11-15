@@ -3,6 +3,7 @@ title: "GRNQ Trade Alert Greenpro Capital Corp. Inc 3:45pm May 27, 2020"
 date: 2020-05-27
 permalink: "/2020/05/27/grnq-trade-alert-greenpro-capital-corp-inc-345pm-may-27-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/05/27/grnq-trade-alert-greenpro-capital-corp-inc-345pm-may-27-2020/"
 archivedAt: "20201211115814"
 ---

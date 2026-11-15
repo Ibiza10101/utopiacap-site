@@ -3,6 +3,7 @@ title: "SLS Trade Alert Sellas Life Sciences Group Inc 2:35pm December 10, 2020"
 date: 2020-12-10
 permalink: "/2020/12/10/sls/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/12/10/sls/"
 archivedAt: "20201210194612"
 ---

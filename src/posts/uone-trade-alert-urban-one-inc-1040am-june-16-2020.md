@@ -3,6 +3,7 @@ title: "UONE Trade Alert Urban One Inc 10:40am June 16, 2020"
 date: 2020-06-16
 permalink: "/2020/06/16/uone-trade-alert-urban-one-inc-1040am-june-16-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/06/16/uone-trade-alert-urban-one-inc-1040am-june-16-2020/"
 archivedAt: "20201213105739"
 ---

@@ -3,6 +3,7 @@ title: "UMRX Trade Alert Unum Therapeutics Inc 9:30am July 9, 2020"
 date: 2020-07-09
 permalink: "/2020/07/09/umrx-trade-alert-unum-therapeutics-inc-930am-july-9-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/07/09/umrx-trade-alert-unum-therapeutics-inc-930am-july-9-2020/"
 archivedAt: "20200814182208"
 ---

@@ -3,6 +3,7 @@ title: "NXTD Trade Alert NXT-ID Inc Inc 12:20pm December 17, 2020"
 date: 2020-12-17
 permalink: "/2020/12/17/nxtd-trade-alert-nxt-id-inc-inc-1220pm-december-17-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/12/17/nxtd-trade-alert-nxt-id-inc-inc-1220pm-december-17-2020/"
 archivedAt: "20201217181715"
 ---

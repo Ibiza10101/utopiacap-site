@@ -3,6 +3,7 @@ title: "COCP Trade Alert Cocrystal Pharma, Inc. 9:15 am February 25, 2020"
 date: 2020-02-25
 permalink: "/2020/02/25/cocp-trade-alert-cocrystal-pharma-inc-915-am-february-25-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/02/25/cocp-trade-alert-cocrystal-pharma-inc-915-am-february-25-2020/"
 archivedAt: "20201203031447"
 ---

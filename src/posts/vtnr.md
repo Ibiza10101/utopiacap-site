@@ -3,6 +3,7 @@ title: "VTNR Trade Alert Vertex Energy Inc. 9:40am, May 27, 2021"
 date: 2021-05-27
 permalink: "/2021/05/27/vtnr/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2021/05/27/vtnr/"
 archivedAt: "20210527155303"
 coverImage: "/wp-content/uploads/2021/05/image-53.png"

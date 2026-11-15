@@ -3,6 +3,7 @@ title: "CLIR Trade Alert Clearsign Technologies Corp. 10:55am June 16, 2020"
 date: 2020-06-16
 permalink: "/2020/06/16/clir-trade-alert-clearsign-technologies-corp-1055am-june-16-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/06/16/clir-trade-alert-clearsign-technologies-corp-1055am-june-16-2020/"
 archivedAt: "20201213104845"
 ---

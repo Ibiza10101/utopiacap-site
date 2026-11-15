@@ -3,6 +3,7 @@ title: "IGC Trade Alert India Globalization Capital Inc. 10:20am August 12, 2020
 date: 2020-08-12
 permalink: "/2020/08/12/igc-trade-alert-india-globalization-capital-inc-1020am-august-12-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/08/12/igc-trade-alert-india-globalization-capital-inc-1020am-august-12-2020/"
 archivedAt: "20200924195724"
 ---

@@ -3,6 +3,7 @@ title: "BNGO Trade Alert Bionano Genomics Inc 10:05am January 4, 2021"
 date: 2021-01-04
 permalink: "/2021/01/04/bngo/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2021/01/04/bngo/"
 archivedAt: "20210119203735"
 ---

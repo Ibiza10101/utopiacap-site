@@ -14,8 +14,6 @@ archivedAt: "20200924201017"
 
 <p>The research and trading strategy behind the tickers featured in our short reports is discussed extensively in our premium chat service, hours or days ahead of publication. This gives our members time to analyze our research, carry out their own due diligence, and discuss trading strategy with other community members.</p>
 
-<p><a class="btn-readmore" href="/membership/">Membership</a></p>
-
 <div class="pub-grid">
   <a class="pub-card" href="/2020/07/21/tonix-pharmaceuticals-holdings-corp-amex-tnxp-short-report-1145am-july-21-2020/">
     <div class="pub-card-image" style="background-image: url('/wp-content/uploads/2020/07/TNXP2-candles.png');"></div>
@@ -74,9 +72,3 @@ archivedAt: "20200924201017"
     </div>
   </a>
 </div>
-
-<h2>Ready to jump in?</h2>
-
-<p><a href="/membership/" class="join-cta">Become a part of our community</a>.</p>
-
-<p>If you require further information about our premium service, contact us at <a href="mailto:research@utopiacap.com">research@utopiacap.com</a>.</p>

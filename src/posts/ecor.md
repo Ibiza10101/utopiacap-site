@@ -3,6 +3,7 @@ title: "ECOR Trade Alert Electrocore Inc. 10:05am March 1, 2021"
 date: 2021-03-01
 permalink: "/2021/03/01/ecor/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2021/03/01/ecor/"
 archivedAt: "20210301230017"
 coverImage: "/wp-content/uploads/2021/03/image-40.png"

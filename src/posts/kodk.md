@@ -3,6 +3,7 @@ title: "KODK Trade Alert Eastman Kodak Co. 9:35am September 16, 2020"
 date: 2020-09-16
 permalink: "/2020/09/16/kodk/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/09/16/kodk/"
 archivedAt: "20200924210158"
 ---

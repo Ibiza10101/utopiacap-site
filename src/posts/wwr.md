@@ -3,6 +3,7 @@ title: "WWR Trade Alert Westwater Resources Inc 3:50pm October 5, 2020"
 date: 2020-10-05
 permalink: "/2020/10/05/wwr/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/10/05/wwr/"
 archivedAt: "20201026075536"
 ---

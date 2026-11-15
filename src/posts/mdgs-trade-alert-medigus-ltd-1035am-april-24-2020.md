@@ -3,6 +3,7 @@ title: "MDGS Trade Alert Medigus Ltd. 10:35am April 24, 2020"
 date: 2020-04-24
 permalink: "/mdgs-trade-alert-medigus-ltd-1035am-april-24-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/mdgs-trade-alert-medigus-ltd-1035am-april-24-2020/"
 archivedAt: "20220701044809"
 ---

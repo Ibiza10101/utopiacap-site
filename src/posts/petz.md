@@ -3,6 +3,7 @@ title: "PETZ Trade Alert. TDH Holdings Inc. 10:50am February 17, 2021"
 date: 2021-02-17
 permalink: "/2021/02/17/petz/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2021/02/17/petz/"
 archivedAt: "20210217164418"
 ---

@@ -3,6 +3,7 @@ title: "SRNE Trade Alert Sorrento Therapeutics Inc 9:30am May 18, 2020"
 date: 2020-05-18
 permalink: "/srne-trade-alert-sorrento-therapeutics-inc-930am-may-18-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/srne-trade-alert-sorrento-therapeutics-inc-930am-may-18-2020/"
 archivedAt: "20220701040805"
 ---

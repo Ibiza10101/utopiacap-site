@@ -3,6 +3,7 @@ title: "MRNS Trade Alert Marinus Pharmaceuticals 10:30am September 15, 2020"
 date: 2020-09-15
 permalink: "/2020/09/15/mrns/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/09/15/mrns/"
 archivedAt: "20200924215007"
 ---

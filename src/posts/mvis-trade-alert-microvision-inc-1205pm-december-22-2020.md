@@ -3,6 +3,7 @@ title: "MVIS Trade Alert Microvision Inc 12:05pm December 22, 2020"
 date: 2020-12-22
 permalink: "/2020/12/22/mvis-trade-alert-microvision-inc-1205pm-december-22-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/12/22/mvis-trade-alert-microvision-inc-1205pm-december-22-2020/"
 archivedAt: "20201222180750"
 ---

@@ -3,6 +3,7 @@ title: "BPTH Trade Alert Bio-Path Holdings Inc 10:15am February 10, 2021"
 date: 2021-02-10
 permalink: "/2021/02/10/bpth/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2021/02/10/bpth/"
 archivedAt: "20210210155421"
 ---

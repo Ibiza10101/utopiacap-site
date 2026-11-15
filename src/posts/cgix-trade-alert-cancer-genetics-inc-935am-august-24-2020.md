@@ -3,6 +3,7 @@ title: "CGIX Trade Alert Cancer Genetics Inc. 9:35am August 24, 2020"
 date: 2020-08-24
 permalink: "/2020/08/24/cgix-trade-alert-cancer-genetics-inc-935am-august-24-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/08/24/cgix-trade-alert-cancer-genetics-inc-935am-august-24-2020/"
 archivedAt: "20200924201841"
 ---

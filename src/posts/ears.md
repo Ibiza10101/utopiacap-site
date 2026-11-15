@@ -3,6 +3,7 @@ title: "EARS Trade Alert Auris Medical Holding Ltd 11:55am December 1, 2020"
 date: 2020-12-01
 permalink: "/2020/12/01/ears/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/12/01/ears/"
 archivedAt: "20201201171322"
 ---

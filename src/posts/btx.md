@@ -3,6 +3,7 @@ title: "BTX Trade Alert Brooklyn Immuno Therapeutics, Inc. 9:35am, May 3, 2021"
 date: 2021-05-03
 permalink: "/2021/05/03/btx/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2021/05/03/btx/"
 archivedAt: "20210503194540"
 coverImage: "/wp-content/uploads/2021/05/Screenshot-2021-05-03-at-12.20.50.png"

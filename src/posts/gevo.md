@@ -3,6 +3,7 @@ title: "GEVO Trade Alert Gevo Inc. 10:10am January 19, 2021"
 date: 2021-01-19
 permalink: "/2021/01/19/gevo/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2021/01/19/gevo/"
 archivedAt: "20210119152146"
 ---

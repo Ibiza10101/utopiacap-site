@@ -72,9 +72,3 @@ archivedAt: "20200924221933"
     </div>
   </a>
 </div>
-
-<h2>Ready to jump in?</h2>
-
-<p><a href="/membership/" class="join-cta">Become a part of our community</a>.</p>
-
-<p>If you require further information about our premium service, contact us at <a href="mailto:research@utopiacap.com">research@utopiacap.com</a>.</p>

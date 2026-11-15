@@ -3,6 +3,7 @@ title: "OCGN Trade Alert Ocugen Inc 9:40am December 23, 2020"
 date: 2020-12-23
 permalink: "/2020/12/23/ocgn/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/12/23/ocgn/"
 archivedAt: "20201223150027"
 ---

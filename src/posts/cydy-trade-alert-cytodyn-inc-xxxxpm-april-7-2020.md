@@ -3,6 +3,7 @@ title: "CYDY Trade Alert CytoDyn Inc. 2:15pm April 7, 2020"
 date: 2020-04-07
 permalink: "/2020/04/07/cydy-trade-alert-cytodyn-inc-xxxxpm-april-7-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/04/07/cydy-trade-alert-cytodyn-inc-xxxxpm-april-7-2020/"
 archivedAt: "20200619175421"
 ---

@@ -3,6 +3,7 @@ title: "FUV Trade Alert Arcimoto Inc 10:20am July 8, 2020"
 date: 2020-07-08
 permalink: "/2020/07/08/fuv-trade-alert-arcimoto-inc-1020am-july-8-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/07/08/fuv-trade-alert-arcimoto-inc-1020am-july-8-2020/"
 archivedAt: "20200814162034"
 ---

@@ -3,6 +3,7 @@ title: "STAF Trade Alert Staffing 360 solutions Inc 9:35am October 15, 2020"
 date: 2020-10-15
 permalink: "/2020/10/15/staf/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/10/15/staf/"
 archivedAt: "20201026071943"
 ---

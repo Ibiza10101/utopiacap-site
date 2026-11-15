@@ -3,6 +3,7 @@ title: "IDEX Trade Alert Ideanomics Inc 10:40am June 22, 2020"
 date: 2020-06-22
 permalink: "/2020/06/22/idex-trade-alert-ideanomics-inc-1040am-june-22-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/06/22/idex-trade-alert-ideanomics-inc-1040am-june-22-2020/"
 archivedAt: "20200927155533"
 ---

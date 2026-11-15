@@ -3,6 +3,7 @@ title: "VERU Trade Alert Veru Inc Inc 10:15am December 15, 2020"
 date: 2020-12-15
 permalink: "/2020/12/15/veru/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/12/15/veru/"
 archivedAt: "20201215165347"
 ---

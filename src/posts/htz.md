@@ -3,6 +3,7 @@ title: "HTZ Trade Alert Hertz Global Holdings Inc 9:35am October 16, 2020"
 date: 2020-10-16
 permalink: "/2020/10/16/htz/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/10/16/htz/"
 archivedAt: "20201026065125"
 ---

@@ -3,6 +3,7 @@ title: "MVIS Trade Alert Microvision Inc. 9:05am May 5, 2020"
 date: 2020-05-05
 permalink: "/2020/05/05/mvis-trade-alert-microvision-inc-905am-may-5-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/05/05/mvis-trade-alert-microvision-inc-905am-may-5-2020/"
 archivedAt: "20200514201649"
 ---

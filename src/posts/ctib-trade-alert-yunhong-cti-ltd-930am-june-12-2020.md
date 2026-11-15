@@ -3,6 +3,7 @@ title: "CTIB Trade Alert Yunhong CTI LTD 9:30am June 12, 2020"
 date: 2020-06-12
 permalink: "/2020/06/12/ctib-trade-alert-yunhong-cti-ltd-930am-june-12-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/06/12/ctib-trade-alert-yunhong-cti-ltd-930am-june-12-2020/"
 archivedAt: "20201213031026"
 ---

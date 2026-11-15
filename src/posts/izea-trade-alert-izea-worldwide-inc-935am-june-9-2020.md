@@ -3,6 +3,7 @@ title: "IZEA Trade Alert Izea Worldwide Inc. 9:35am June 9, 2020"
 date: 2020-06-09
 permalink: "/2020/06/09/izea-trade-alert-izea-worldwide-inc-935am-june-9-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/06/09/izea-trade-alert-izea-worldwide-inc-935am-june-9-2020/"
 archivedAt: "20200814161757"
 ---

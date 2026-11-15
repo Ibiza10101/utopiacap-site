@@ -3,6 +3,7 @@ title: "EDSA Trade Alert Edesa Biotech Inc 9:30am June 15, 2020"
 date: 2020-06-15
 permalink: "/2020/06/15/edsa-trade-alert-edesa-biotech-inc-930am-june-15-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/06/15/edsa-trade-alert-edesa-biotech-inc-930am-june-15-2020/"
 archivedAt: "20201213091832"
 ---

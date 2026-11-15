@@ -3,6 +3,7 @@ title: "MYO Trade Alert. Myomo Inc. 10:25 am February 5, 2020"
 date: 2020-02-05
 permalink: "/2020/02/05/myo-trade-alert-myomo-inc-1025-am-february-5-2020/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/02/05/myo-trade-alert-myomo-inc-1025-am-february-5-2020/"
 archivedAt: "20200619090755"
 ---

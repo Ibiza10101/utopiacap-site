@@ -3,6 +3,7 @@ title: "BLNK Trade Alert Blink Charging Co 11:50am November 23, 2020"
 date: 2020-11-23
 permalink: "/2020/11/23/blnk/"
 layout: post.njk
+tags: trade-alert
 sourceUrl: "https://utopiacap.com/2020/11/23/blnk/"
 archivedAt: "20210119215726"
 ---
