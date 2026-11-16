@@ -29,6 +29,18 @@ export default function (eleventyConfig) {
   eleventyConfig.addCollection('postsNeedingSlugRedirect', (collectionApi) =>
     collectionApi.getFilteredByGlob('src/posts/*.md').filter((t) => /^\/\d{4}\//.test(t.url)));
 
+  // Old, still-Google-indexed URLs that outlived a rename elsewhere on the
+  // live site (confirmed per-entry via Wayback CDX, not guessed) -- add one
+  // line here whenever another is spotted 404ing from a Google result.
+  // src/legacy-redirects.njk turns each into the same tiny
+  // redirect-plus-canonical stub as the per-post ones above.
+  eleventyConfig.addGlobalData('legacyRedirects', () => [
+    // /investor-warning/ (singular) was the real URL as of a 2020-05-06
+    // Wayback capture; the site later renamed it to /investor-warnings/
+    // (captured 2020-09-24), but Google's index still has the old one.
+    { from: 'investor-warning', to: '/investor-warnings/' },
+  ]);
+
   eleventyConfig.addFilter('postDate', (date) =>
     new Date(date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }));
 
