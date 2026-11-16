@@ -21,10 +21,27 @@ export default function (eleventyConfig) {
   eleventyConfig.addCollection('posts', (collectionApi) =>
     collectionApi.getFilteredByGlob('src/posts/*.md').sort((a, b) => b.date - a.date));
 
+  // A few recovered posts were archived at a snapshot already using the
+  // live site's bare-slug permalink (e.g. /ocgn-2/, /nvax/) rather than the
+  // dated one (/2020/12/15/veru/) -- those are already at their final
+  // short-slug URL, so redirects.njk must skip them or it'd collide trying
+  // to write a second file to the same path.
+  eleventyConfig.addCollection('postsNeedingSlugRedirect', (collectionApi) =>
+    collectionApi.getFilteredByGlob('src/posts/*.md').filter((t) => /^\/\d{4}\//.test(t.url)));
+
   eleventyConfig.addFilter('postDate', (date) =>
     new Date(date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }));
 
   eleventyConfig.addFilter('isoDate', (date) => new Date(date).toISOString().slice(0, 10));
+
+  // The live site's final permalink structure was the bare slug
+  // (utopiacap.com/veru/), confirmed still serving 200 in Wayback CDX
+  // captures through Feb 2026 -- but this rebuild recovered posts from an
+  // earlier Wayback snapshot that used dated permalinks
+  // (/2020/12/15/veru/). Google's index still has the bare-slug URLs, so
+  // they 404 here. src/redirects.njk uses this to emit a tiny alias page
+  // at the bare slug that points back to the real post.
+  eleventyConfig.addFilter('lastSegment', (url) => url.replace(/\/$/, '').split('/').pop());
 
   eleventyConfig.addFilter('firstImageSrc', (html) => {
     if (!html) return null;

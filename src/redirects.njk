@@ -1,0 +1,21 @@
+---
+pagination:
+  data: collections.postsNeedingSlugRedirect
+  size: 1
+  alias: post
+permalink: "/{{ post.url | lastSegment }}/index.html"
+eleventyExcludeFromCollections: true
+---
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{{ post.data.title }}</title>
+<link rel="canonical" href="{{ post.url }}">
+<meta http-equiv="refresh" content="0; url={{ post.url }}">
+<meta name="robots" content="noindex">
+</head>
+<body>
+<p>This page has moved to <a href="{{ post.url }}">{{ post.url }}</a>.</p>
+</body>
+</html>
