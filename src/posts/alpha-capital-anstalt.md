@@ -34,7 +34,7 @@ To demonstrate the effects of Alpha’s investments, we will examine the publicl
 <hr />
 
 <h4>Oblong Inc. (NASDAQ: OBLG):</h4>
-<img src="/wp-content/uploads/2021/02/122Aspire-IBIO.png" loading="lazy" style="max-width:100%;height:auto;">
+<img src="/wp-content/uploads/2021/02/oblg-graph.jpg" loading="lazy" style="max-width:100%;height:auto;">
 
 Oblong, Inc. is based in Denver, CO and makes online collaboration software that enables remote work. The company was formed as a privately held Delaware corporation in 2006 and went public in Oct. 2019 through a reverse merger with a shell corporation listed on the Nasdaq.
 
