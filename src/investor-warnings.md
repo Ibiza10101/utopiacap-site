@@ -85,4 +85,11 @@ archivedAt: "20200924221933"
       <span class="pub-card-readmore">Read more</span>
     </div>
   </a>
+  <a class="pub-card" href="/2020/02/25/investor-warning-cocrystal-pharma-inc-nasdaq-cocp-february-25-345pm/">
+    <div class="pub-card-image" style="background-image: url('/wp-content/uploads/2020/02/COCP_candles.png');"></div>
+    <div class="pub-card-body">
+      <h3>Investor Warning: Cocrystal Pharma, Inc. (Nasdaq: COCP)</h3>
+      <span class="pub-card-readmore">Read more</span>
+    </div>
+  </a>
 </div>
