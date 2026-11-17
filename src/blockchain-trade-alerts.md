@@ -18,49 +18,49 @@ archivedAt: "20200514004735"
 					</a>
                 <article>
                             <a href="/2020/09/28/pll/"></a>
-                                <img src="/wp-content/uploads/2024/07/8bf76-pll-trade-alert.png?w=300&amp;h=192" alt="PLL trade alert">
+                                <img src="/wp-content/uploads/2020/08/pll-trade-alert.png" alt="PLL trade alert">
                             <header><h2><a href="/2020/09/28/pll/" title="PLL Trade Alert Piedmont Lithium Ltd 2:45pm September 28, 2020">PLL Trade Alert Piedmont Lithium Ltd 2:45pm September 28, 2020</a></h2></header>
                 <a href="/2020/09/28/pll/">Read More</a>
             <time datetime="28. September 2020">28. September 2020</time>
                     </article><article>
                             <a href="/2020/09/16/kodk/"></a>
-                                <img src="/wp-content/uploads/2024/07/95c5c-bc-tr-sep-15.png?w=300&amp;h=199" alt="TCON trade alert">
+                                <img src="/wp-content/uploads/2020/08/bc-tr-sep-15.png" alt="TCON trade alert">
                             <header><h2><a href="/2020/09/16/kodk/" title="KODK Trade Alert Eastman Kodak Co. 9:35am September 16, 2020">KODK Trade Alert Eastman Kodak Co. 9:35am September 16, 2020</a></h2></header>
                 <a href="/2020/09/16/kodk/">Read More</a>
             <time datetime="16. September 2020">16. September 2020</time>
                     </article><article>
                             <a href="/2020/09/15/mrns/"></a>
-                                <img src="/wp-content/uploads/2024/07/95c5c-bc-tr-sep-15.png?w=300&amp;h=199" alt="TCON trade alert">
+                                <img src="/wp-content/uploads/2020/08/bc-tr-sep-15.png" alt="TCON trade alert">
                             <header><h2><a href="/2020/09/15/mrns/" title="MRNS Trade Alert Marinus Pharmaceuticals 10:30am September 15, 2020">MRNS Trade Alert Marinus Pharmaceuticals 10:30am September 15, 2020</a></h2></header>
                 <a href="/2020/09/15/mrns/">Read More</a>
             <time datetime="15. September 2020">15. September 2020</time>
                     </article><article>
                             <a href="/2020/09/03/gogo-trade-alert-gogo-inc-930am-september-3-2020/"></a>
-                                <img src="/wp-content/uploads/2024/07/18bca-bc-tr-sep-2.png?w=300&amp;h=190" alt="Utopia Capital Research Blockchain track record">
+                                <img src="/wp-content/uploads/2020/08/bc-tr-sep-2.png" alt="Utopia Capital Research Blockchain track record">
                             <header><h2><a href="/2020/09/03/gogo-trade-alert-gogo-inc-930am-september-3-2020/" title="GOGO Trade Alert Gogo Inc 9:30am September 3, 2020">GOGO Trade Alert Gogo Inc 9:30am September 3, 2020</a></h2></header>
                 <a href="/2020/09/03/gogo-trade-alert-gogo-inc-930am-september-3-2020/">Read More</a>
             <time datetime="3. September 2020">3. September 2020</time>
                     </article><article>
                             <a href="/2020/08/25/gpvrf-trade-alert-greenpower-motor-company-950am-august-25-2020/"></a>
-                                <img src="/wp-content/uploads/2024/07/efd92-bc-tr-aug-24.png?w=300&amp;h=202" alt="TSLA trade alert">
+                                <img src="/wp-content/uploads/2020/08/bc-tr-aug-24.png" alt="TSLA trade alert">
                             <header><h2><a href="/2020/08/25/gpvrf-trade-alert-greenpower-motor-company-950am-august-25-2020/" title="GPVRF Trade Alert Greenpower Motor Company 9:50am August 25, 2020">GPVRF Trade Alert Greenpower Motor Company 9:50am August 25, 2020</a></h2></header>
                 <a href="/2020/08/25/gpvrf-trade-alert-greenpower-motor-company-950am-august-25-2020/">Read More</a>
             <time datetime="25. August 2020">25. August 2020</time>
                     </article><article>
                             <a href="/2020/08/24/cgix-trade-alert-cancer-genetics-inc-935am-august-24-2020/"></a>
-                                <img src="/wp-content/uploads/2024/07/efd92-bc-tr-aug-24.png?w=300&amp;h=202" alt="TSLA trade alert">
+                                <img src="/wp-content/uploads/2020/08/bc-tr-aug-24.png" alt="TSLA trade alert">
                             <header><h2><a href="/2020/08/24/cgix-trade-alert-cancer-genetics-inc-935am-august-24-2020/" title="CGIX Trade Alert Cancer Genetics Inc. 9:35am August 24, 2020">CGIX Trade Alert Cancer Genetics Inc. 9:35am August 24, 2020</a></h2></header>
                 <a href="/2020/08/24/cgix-trade-alert-cancer-genetics-inc-935am-august-24-2020/">Read More</a>
             <time datetime="24. August 2020">24. August 2020</time>
                     </article><article>
                             <a href="/2020/08/12/igc-trade-alert-india-globalization-capital-inc-1020am-august-12-2020/"></a>
-                                <img src="/wp-content/uploads/2024/07/f2d37-bc-tr-aug-8.png?w=300&amp;h=198" alt="IGC trade alert track record">
+                                <img src="/wp-content/uploads/2020/08/bc-tr-aug-8.png" alt="IGC trade alert track record">
                             <header><h2><a href="/2020/08/12/igc-trade-alert-india-globalization-capital-inc-1020am-august-12-2020/" title="IGC Trade Alert India Globalization Capital Inc. 10:20am August 12, 2020">IGC Trade Alert India Globalization Capital Inc. 10:20am August 12, 2020</a></h2></header>
                 <a href="/2020/08/12/igc-trade-alert-india-globalization-capital-inc-1020am-august-12-2020/">Read More</a>
             <time datetime="12. August 2020">12. August 2020</time>
                     </article><article>
                             <a href="/2020/07/29/kodk-trade-alert-eastman-kodak-company-930am-july-29-2020/"></a>
-                                <img src="/wp-content/uploads/2024/07/f8899-bc-tr-july-29.png?w=300&amp;h=195" alt="KODK Trade alert Utopia trackrecord">
+                                <img src="/wp-content/uploads/2020/08/bc-tr-july-29.png" alt="KODK Trade alert Utopia trackrecord">
                             <header><h2><a href="/2020/07/29/kodk-trade-alert-eastman-kodak-company-930am-july-29-2020/" title="KODK Trade Alert Eastman Kodak Company 9:30am July 29, 2020">KODK Trade Alert Eastman Kodak Company 9:30am July 29, 2020</a></h2></header>
                 <a href="/2020/07/29/kodk-trade-alert-eastman-kodak-company-930am-july-29-2020/">Read More</a>
             <time datetime="29. July 2020">29. July 2020</time>
