@@ -39,6 +39,12 @@ export default function (eleventyConfig) {
     // Wayback capture; the site later renamed it to /investor-warnings/
     // (captured 2020-09-24), but Google's index still has the old one.
     { from: 'investor-warning', to: '/investor-warnings/' },
+    // /blog/ was last captured 2026-01-15 as WordPress's auto-generated
+    // posts-page listing, still showing the theme's unedited default
+    // placeholder content ("Edit this text") -- not real content, just
+    // whatever sat on the domain before it pointed at this rebuild. Its own
+    // page title is literally "Home", so send it to the real homepage.
+    { from: 'blog', to: '/' },
   ]);
 
   eleventyConfig.addFilter('postDate', (date) =>
