@@ -18,49 +18,49 @@ archivedAt: "20200924201017"
 					</a>
                 <article>
                             <a href="/2020/07/21/tonix-pharmaceuticals-holdings-corp-amex-tnxp-short-report-1145am-july-21-2020/"></a>
-                                <img src="/wp-content/uploads/2020/07/TNXP2-candles.png" alt="TNXP short report candles">
+                                <img src="/wp-content/uploads/2020/07/TNXP2-candles.png" alt="TNXP short report candles" style="max-width:100%;height:auto;">
                             <header><h2><a href="/2020/07/21/tonix-pharmaceuticals-holdings-corp-amex-tnxp-short-report-1145am-july-21-2020/" title="Tonix Pharmaceuticals Holdings Corp. AMEX: TNXP Short Report. 11:45am July 21, 2020">Tonix Pharmaceuticals Holdings Corp. AMEX: TNXP Short Report. 11:45am July 21, 2020</a></h2></header>
                 <a href="/2020/07/21/tonix-pharmaceuticals-holdings-corp-amex-tnxp-short-report-1145am-july-21-2020/">Read More</a>
             <time datetime="21. July 2020">21. July 2020</time>
                     </article><article>
                             <a href="/2020/07/13/american-lithium-corp-otcqb-liacf-short-report-945am-july-13-2020/"></a>
-                                <img src="/wp-content/uploads/2020/07/LIACF_candles_2.png" alt="LIACF short report">
+                                <img src="/wp-content/uploads/2020/07/LIACF_candles_2.png" alt="LIACF short report" style="max-width:100%;height:auto;">
                             <header><h2><a href="/2020/07/13/american-lithium-corp-otcqb-liacf-short-report-945am-july-13-2020/" title="American Lithium Corp. OTCQB: LIACF Short Report. 9:45am July 13, 2020">American Lithium Corp. OTCQB: LIACF Short Report. 9:45am July 13, 2020</a></h2></header>
                 <a href="/2020/07/13/american-lithium-corp-otcqb-liacf-short-report-945am-july-13-2020/">Read More</a>
             <time datetime="13. July 2020">13. July 2020</time>
                     </article><article>
                             <a href="/2020/07/01/workhorse-group-inc-nasdaq-wkhs-short-report-900am-july-1-2020-a-robinhooders-pipe-dream/"></a>
-                                <img src="/wp-content/uploads/2020/07/WKHS_candles.png" alt="WKHS short report candles">
+                                <img src="/wp-content/uploads/2020/07/WKHS_candles.png" alt="WKHS short report candles" style="max-width:100%;height:auto;">
                             <header><h2><a href="/2020/07/01/workhorse-group-inc-nasdaq-wkhs-short-report-900am-july-1-2020-a-robinhooders-pipe-dream/" title="Workhorse Group Inc. NASDAQ: WKHS Short Report, 9:00am July 1, 2020, A Robinhooder&#8217;s pipe dream?">Workhorse Group Inc. NASDAQ: WKHS Short Report, 9:00am July 1, 2020, A Robinhooder&#8217;s pipe dream?</a></h2></header>
                 <a href="/2020/07/01/workhorse-group-inc-nasdaq-wkhs-short-report-900am-july-1-2020-a-robinhooders-pipe-dream/">Read More</a>
             <time datetime="1. July 2020">1. July 2020</time>
                     </article><article>
                             <a href="/2020/04/14/cydy-2/"></a>
-                                <img src="/wp-content/uploads/2020/04/CYDY_candles_2.png" alt="CYDY candles 2">
+                                <img src="/wp-content/uploads/2020/04/CYDY_candles_2.png" alt="CYDY candles 2" style="max-width:100%;height:auto;">
                             <header><h2><a href="/2020/04/14/cydy-2/" title="CytoDyn, Inc. OTCQB: CYDY Short Report, 9:30am April 14, 2020">CytoDyn, Inc. OTCQB: CYDY Short Report, 9:30am April 14, 2020</a></h2></header>
                 <a href="/2020/04/14/cydy-2/">Read More</a>
             <time datetime="14. April 2020">14. April 2020</time>
                     </article><article>
                             <a href="/2020/04/14/worx/"></a>
-                                <img src="/wp-content/uploads/2020/04/WORX_candles.png" alt="">
+                                <img src="/wp-content/uploads/2020/04/WORX_candles.png" alt="" style="max-width:100%;height:auto;">
                             <header><h2><a href="/2020/04/14/worx/" title="SCWorx Corp. Nasdaq: WORX Short Report, 8:50am April 14, 2020">SCWorx Corp. Nasdaq: WORX Short Report, 8:50am April 14, 2020</a></h2></header>
                 <a href="/2020/04/14/worx/">Read More</a>
             <time datetime="14. April 2020">14. April 2020</time>
                     </article><article>
                             <a href="/2020/04/07/aker/"></a>
-                                <img src="/wp-content/uploads/2020/04/AKER_candles.png" alt="AKER candles">
+                                <img src="/wp-content/uploads/2020/04/AKER_candles.png" alt="AKER candles" style="max-width:100%;height:auto;">
                             <header><h2><a href="/2020/04/07/aker/" title="Akers Biosciences Inc. Nasdaq: AKER Short report 9:40am, April 7, 2020">Akers Biosciences Inc. Nasdaq: AKER Short report 9:40am, April 7, 2020</a></h2></header>
                 <a href="/2020/04/07/aker/">Read More</a>
             <time datetime="7. April 2020">7. April 2020</time>
                     </article><article>
                             <a href="/2020/03/26/usau/"></a>
-                                <img src="/wp-content/uploads/2020/03/USAU_candles.png" alt="U.S Gold Corp USAU candles">
+                                <img src="/wp-content/uploads/2020/03/USAU_candles.png" alt="U.S Gold Corp USAU candles" style="max-width:100%;height:auto;">
                             <header><h2><a href="/2020/03/26/usau/" title="U.S Gold Corp. Nasdaq: USAU Short Report, 9:40am March 26, 2020">U.S Gold Corp. Nasdaq: USAU Short Report, 9:40am March 26, 2020</a></h2></header>
                 <a href="/2020/03/26/usau/">Read More</a>
             <time datetime="26. March 2020">26. March 2020</time>
                     </article><article>
                             <a href="/2020/02/21/sens/"></a>
-                                <img src="/wp-content/uploads/2020/02/sens_candles.png" alt="SENS short report candles">
+                                <img src="/wp-content/uploads/2020/02/sens_candles.png" alt="SENS short report candles" style="max-width:100%;height:auto;">
                             <header><h2><a href="/2020/02/21/sens/" title="Senseonics Holdings, Inc. NYSE MKYT: SENS Short Report, 12:35pm February 21, 2020">Senseonics Holdings, Inc. NYSE MKYT: SENS Short Report, 12:35pm February 21, 2020</a></h2></header>
                 <a href="/2020/02/21/sens/">Read More</a>
             <time datetime="21. February 2020">21. February 2020</time>

@@ -5,7 +5,7 @@ layout: base.njk
 ---
 
 <h2>Membership</h2>
-<img src="/wp-content/uploads/2020/09/BC-TR-Graph-Sep10.png" alt="Blockchain track record" width="800" height="376" />
+<img src="/wp-content/uploads/2020/09/BC-TR-Graph-Sep10.png" alt="Blockchain track record" width="800" height="376"  style="max-width:100%;height:auto;">
 
 As our track record shows, going against our trades will result in an an average loss greater than 20% after 5 days. For greater detail please have a look at <strong><a href="/track-record/">our full Blockchain time stamped track record</a></strong>.
 
