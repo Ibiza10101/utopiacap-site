@@ -8,53 +8,83 @@ archivedAt: "20210405163750"
 coverImage: "/wp-content/uploads/2021/04/Aspire-Capital-featured-image.jpg"
 ---
 
-<div class="recovered-images">
-<img src="/wp-content/uploads/2021/02/122Aspire-IBIO.png" loading="lazy" style="max-width:100%;height:auto;">
-<img src="/wp-content/uploads/2021/04/Aspire-Capital-featured-image.jpg" loading="lazy" style="max-width:100%;height:auto;">
-</div>
-
 <ul>
-<li><strong>Several of the companies Aspire Capital Partners has been involved with raise several red flags.</strong></li>
-<li><strong>Since 2010, Aspire Capital Partners has been involved with at least 59 companies. The vast majority have since experienced significant decreases in their share prices, in some cases greater than 99%.</strong></li>
+ 	<li><span style="color: #000000"><strong> Several of the companies Aspire Capital Partners has been involved with raise several red flags.
+</strong></span></li>
+ 	<li><span style="color: #000000"><strong> Since 2010, Aspire Capital Partners has been involved with at least 59 companies. The vast majority have since experienced significant decreases in their share prices, in some cases greater than 99%.
+</strong></span></li>
 </ul>
-<hr>
-<p><strong>Intro:</strong></p>
-<p>Aspire Capital Partners, LLC&nbsp;occupies a specialized niche among investment firms that finance capital-intensive companies. Along with Lincoln Park Capital, LLC, Aspire accounts for over 90% of the equity lines of credit extended to small-cap issuers in the U.S. Both Aspire and Lincoln Park are based in Chicago, and both were founded by former principals of Fusion Capital Partners, LLC, which specialized in equity lines of credit before the firm shut down in 2012. Like Fusion, Aspire and Lincoln Park invest heavily in biotech startups, which need frequent capital infusions.</p>
-<p>Despite the name, an equity line of credit has nothing to do with debt. Like a revolving line of credit, an equity line can be tapped on demand. For example, under an <a href="https://www.sec.gov/Archives/edgar/data/0001094038/000110465920027550/tm2011380d1_8k.htm">agreement</a> Aspire signed in February 2020, Marker Therapeutics, Inc. (NASDAQ: MRKR) can order Aspire to purchase up to 100,000 of Marker’s newly issued shares on any trading day over a 30-month period. Aspire agreed to buy up to $30,000,000 of Marker’s shares through such purchases during the term of the agreement.</p>
-<p>The shares that an investor buys from an issuer through an equity line of credit are priced at a discount to the market price. The discount is often based on an average price over several consecutive days or on the volume-weighted average price (VWAP) on the date of purchase. Such discount methods can be susceptible to manipulation. For example, if the price is determined after the investor receives a purchase notice from the issuer, the investor may sell a large number of the issuer’s shares to decrease the average price and increase the investor’s potential profits.</p>
-<p>Although the issuer determines the timing of the investor’s purchases, the investor has broad discretion over the timing of its sales. Most equity-line-of-credit agreements include registration rights that allow the investor to sell shares immediately after buying them, although the investor has no obligation to do so. The total number of shares an investor can sell per day is usually limited to a percentage of the stock’s daily trading volume.</p>
-<p>Linking the selling limit to daily volume may smooth the negative effect of the investor’s sales on the stock’s price. But make no mistake: if a company issues thousands of shares per day, and the buyer steadily sells them over several days, the increased supply of shares on the market will depress the stock’s price. For specific examples, see our case studies of individual stocks below.</p>
-<hr>
-<p><strong>iBio, Inc. (NYSE: IBIO)</strong></p>
-<p>iBio, Inc. was formed in 2008 through a spin-off from Integrated BioPharma, Inc. The company owns a proprietary system for developing pharmaceutical products. Historically, iBio has earned most of its revenue by providing its system to other companies. The most annual revenue it has ever earned was $2,018,000 in the 12 months ended Jun. 30, 2019. The company has never earned a profit and has an accumulated deficit of $166,082,000.</p>
-<img width="1215" height="733" alt="Aspire IBIO" title="Aspire IBIO" src="/wp-content/uploads/2021/04/Aspire-IBIO.png" class="img-responsive wp-image-13234">
-<p>On Aug. 25, 2014, Aspire agreed to buy up to $10,000,000 of shares from iBio over 24 months. On any trading day when the stock closed above $4.40, iBio could direct Aspire to purchase up to 150,000 shares per trading day. The price of the shares was the lesser of (1) the lowest price of the stock on the purchase date or (2) the average of the three lowest closing prices on the ten trading days before the purchase date. In addition, iBio agreed to register up to 23,418,172 shares for resale by Aspire as soon as the SEC declared the registration effective.</p>
-<p>On Sep. 19, 2014—31 days before the registration was effective—Aspire&nbsp;bought 1,136,354 shares for $500,000, and iBio issued 681,818 additional shares to Aspire as a commitment fee. iBio filed the registration statement for Aspire’s shares on Oct. 6, 2014. Over the next five trading days, iBio’s stock price rose 185% to a new 52-week high of $24.50 on average daily volume of 1,395,990 shares, which was 53 times the 52-week average. On Oct. 17, 2014, the SEC declared the registration effective, and the stock price rose an additional 31% to a new 52-week high of $32.10 on volume of 6,066,140 shares. Over the subsequent eight trading days, during which Aspire was authorized for the first time to sell its 1,818,172 shares, the stock price fell 70% to $9.50 on average daily volume of 1,665,141 shares.</p>
-<p>We are in no way accusing Aspire of, or suggesting that Aspire participated in, market manipulation or of violating any laws or regulations. Nor are we privy to Aspire’s undisclosed purchases or sales of iBio’s stock. We are simply noting that iBio’s stock price rose by an extraordinary amount in the five days before the SEC declared the registration statement effective and fell by an extraordinary amount in the eight days after the SEC declared the registration statement effective.</p>
-<hr>
-<p><strong>Intec Pharma Ltd. (NASDAQ: NTEC)</strong></p>
-<p>Intec Pharma Ltd. was founded in Israel in 2000 and went public on the Tel Aviv Stock Exchange in 2010. The company completed its first stock offering in the U.S. in 2015 and listed its shares on the Nasdaq shortly afterward.</p>
-<p>Intec’s flagship product is its Accordion Pill drug delivery system, which is the basis for two lines of business: delivering other companies’ drugs and delivering drugs that Intec develops in-house. The latter is potentially more profitable than the former, although Intec has never earned a profit. As of Dec. 31, 2020, the company had an accumulated deficit of $203,551,000.</p>
-<img width="1218" height="734" alt="" title="Aspire NTEC" src="/wp-content/uploads/2021/04/Aspire-NTEC.png" class="img-responsive wp-image-13235">
-<p>Intec has spent the past 12 years developing its lead drug candidate, Accordion Pill Carbidopa/Levodopa (AP-CDLD), for the treatment of Parkinson’s disease symptoms. The company hit a roadblock in Jul. 2019 when AP-CDLD failed to meet its target endpoints in Phase III clinical trials. Intec’s stock nosedived to $11 per share after having soared to $182 per share only five months earlier (on a 1-for-20 reverse-split-adjusted basis).</p>
-<p>By Sep. 1, 2019, Intec had approximately seven months of cash left. The company began selling newly issued shares through an at-the-market (ATM) offering it had registered in Mar. 2019. As it continued selling shares throughout Sep. 2019, its stock price rose from $14.45 per share to $26.00 per share over 11 trading days on average daily volume that was more than four times the 52-week average. By the end of the month, the company had sold 1,716,679 shares for net proceeds of $2,000,000, and the stock price had fallen back to $14.58.</p>
-<p>On Dec. 2, 2019, with six months of cash left, Intec signed an equity line of credit agreement with Aspire for $10,000,000 over 30 months. The pricing of the shares was the same as that of iBio: the lesser of (1) the lowest price of the stock on the purchase date or (2) the average of the three lowest closing prices on the ten trading days before the purchase date.</p>
-<p>But Intec never drew drown the equity line. On Feb. 3, 2020, after having sold 138,795 additional shares through its ATM offering, Intec completed an underwritten offering of 764,000 shares, 48,500 pre-funded warrants, and 812,500 warrants for net proceeds of $5,700,000.</p>
-<p>Within days of completing the offering, notorious dilutive investors Sabby Management, LLC, Armistice Capital, LLC, and Intracoastal Capital, LLC each reported owning 5% or more of Intec’s ordinary shares outstanding. Concurrent with the offering, Intec’s stock price dropped from $10.32 per share on Jan. 29, 2020 to $5.90 per share on Feb. 3, 2020.</p>
-<p>On May 6, 2020, Intec completed a registered direct offering of 814,598 shares and a private placement of 407,299 warrants for net proceeds of $4,500,000. Within days, notorious diluters CVI Investments, Inc. and Armistice Capital, LLC reported owning 7.2% and 5.0%, respectively, of Intec’s ordinary shares outstanding.</p>
-<p>From May 6 to Jun. 4, 2020, Intec’s stock price doubled from $4.20 to $8.39 per share on average daily volume that was five times the 52-week average. Then on Jun. 5, 2020, the company registered 8,145,976 shares for resale by CVI Investments, Armistice Capital, Intracoastal Capital, and Anson Investments Master Fund LP.</p>
-<p>On Aug. 10, 2020, Aspire finally got a piece of Intec’s ever-growing pie. In a registered direct offering, Intec sold 356,250 newly issued shares to Aspire for $7.02 per share, which was a 13% discount to the closing price. In addition, Intec sold and issued to Aspire pre-funded warrants to purchase 356,250 shares at $6.82 per share. Each warrant was immediately exercisable at $0.20 per share. Intec’s total net proceeds were $4,600,000.</p>
-<p>From Aug. 10 through Oct. 30, 2020, Intec’s stock price fell from $8.08 per share to $2.29 per share, which includes a 1-for-20 reverse share split that went into effect on Oct. 30, 2020. By Dec. 31, 2020, Aspire had exercised all of its pre-funded warrants, and CVI Investments owned only 95,000 shares of Intec, or 38% of the shares it had purchased in May 2020 (on a reverse-split-adjusted basis). On Mar. 15, 2021, Intec announced it will execute a reverse merger with privately held Decoy Biosystems, Inc. and dispose of its Accordion Pill business. The merger is expected to close in the third quarter of 2021.</p>
-<hr>
+
+<hr />
+
+<strong>Intro:</strong>
+
+Aspire Capital Partners, LLC occupies a specialized niche among investment firms that finance capital-intensive companies. Along with Lincoln Park Capital, LLC, Aspire accounts for over 90% of the equity lines of credit extended to small-cap issuers in the U.S. Both Aspire and Lincoln Park are based in Chicago, and both were founded by former principals of Fusion Capital Partners, LLC, which specialized in equity lines of credit before the firm shut down in 2012. Like Fusion, Aspire and Lincoln Park invest heavily in biotech startups, which need frequent capital infusions.
+
+Despite the name, an equity line of credit has nothing to do with debt. Like a revolving line of credit, an equity line can be tapped on demand. For example, under an <a href="https://www.sec.gov/Archives/edgar/data/0001094038/000110465920027550/tm2011380d1_8k.htm">agreement</a> Aspire signed in February 2020, Marker Therapeutics, Inc. (NASDAQ: MRKR) can order Aspire to purchase up to 100,000 of Marker’s newly issued shares on any trading day over a 30-month period. Aspire agreed to buy up to $30,000,000 of Marker’s shares through such purchases during the term of the agreement.
+
+The shares that an investor buys from an issuer through an equity line of credit are priced at a discount to the market price. The discount is often based on an average price over several consecutive days or on the volume-weighted average price (VWAP) on the date of purchase. Such discount methods can be susceptible to manipulation. For example, if the price is determined after the investor receives a purchase notice from the issuer, the investor may sell a large number of the issuer’s shares to decrease the average price and increase the investor’s potential profits.
+
+Although the issuer determines the timing of the investor’s purchases, the investor has broad discretion over the timing of its sales. Most equity-line-of-credit agreements include registration rights that allow the investor to sell shares immediately after buying them, although the investor has no obligation to do so. The total number of shares an investor can sell per day is usually limited to a percentage of the stock’s daily trading volume.
+
+Linking the selling limit to daily volume may smooth the negative effect of the investor’s sales on the stock’s price. But make no mistake: if a company issues thousands of shares per day, and the buyer steadily sells them over several days, the increased supply of shares on the market will depress the stock’s price. For specific examples, see our case studies of individual stocks below.
+
+<hr />
+
+<strong>iBio, Inc. (NYSE: IBIO)</strong>
+
+iBio, Inc. was formed in 2008 through a spin-off from Integrated BioPharma, Inc. The company owns a proprietary system for developing pharmaceutical products. Historically, iBio has earned most of its revenue by providing its system to other companies. The most annual revenue it has ever earned was $2,018,000 in the 12 months ended Jun. 30, 2019. The company has never earned a profit and has an accumulated deficit of $166,082,000.
+
+<img src="/wp-content/uploads/2021/04/Aspire-IBIO.png" loading="lazy" style="max-width:100%;height:auto;">
+
+On Aug. 25, 2014, Aspire agreed to buy up to $10,000,000 of shares from iBio over 24 months. On any trading day when the stock closed above $4.40, iBio could direct Aspire to purchase up to 150,000 shares per trading day. The price of the shares was the lesser of (1) the lowest price of the stock on the purchase date or (2) the average of the three lowest closing prices on the ten trading days before the purchase date. In addition, iBio agreed to register up to 23,418,172 shares for resale by Aspire as soon as the SEC declared the registration effective.
+
+On Sep. 19, 2014—31 days before the registration was effective—Aspire bought 1,136,354 shares for $500,000, and iBio issued 681,818 additional shares to Aspire as a commitment fee. iBio filed the registration statement for Aspire’s shares on Oct. 6, 2014. Over the next five trading days, iBio’s stock price rose 185% to a new 52-week high of $24.50 on average daily volume of 1,395,990 shares, which was 53 times the 52-week average. On Oct. 17, 2014, the SEC declared the registration effective, and the stock price rose an additional 31% to a new 52-week high of $32.10 on volume of 6,066,140 shares. Over the subsequent eight trading days, during which Aspire was authorized for the first time to sell its 1,818,172 shares, the stock price fell 70% to $9.50 on average daily volume of 1,665,141 shares.
+
+We are in no way accusing Aspire of, or suggesting that Aspire participated in, market manipulation or of violating any laws or regulations. Nor are we privy to Aspire’s undisclosed purchases or sales of iBio’s stock. We are simply noting that iBio’s stock price rose by an extraordinary amount in the five days before the SEC declared the registration statement effective and fell by an extraordinary amount in the eight days after the SEC declared the registration statement effective.
+
+<hr />
+
+<strong>Intec Pharma Ltd. (NASDAQ: NTEC)</strong>
+
+Intec Pharma Ltd. was founded in Israel in 2000 and went public on the Tel Aviv Stock Exchange in 2010. The company completed its first stock offering in the U.S. in 2015 and listed its shares on the Nasdaq shortly afterward.
+
+Intec’s flagship product is its Accordion Pill drug delivery system, which is the basis for two lines of business: delivering other companies’ drugs and delivering drugs that Intec develops in-house. The latter is potentially more profitable than the former, although Intec has never earned a profit. As of Dec. 31, 2020, the company had an accumulated deficit of $203,551,000.
+
+<img src="/wp-content/uploads/2021/04/Aspire-NTEC.png" loading="lazy" style="max-width:100%;height:auto;">
+
+Intec has spent the past 12 years developing its lead drug candidate, Accordion Pill Carbidopa/Levodopa (AP-CDLD), for the treatment of Parkinson’s disease symptoms. The company hit a roadblock in Jul. 2019 when AP-CDLD failed to meet its target endpoints in Phase III clinical trials. Intec’s stock nosedived to $11 per share after having soared to $182 per share only five months earlier (on a 1-for-20 reverse-split-adjusted basis).
+
+By Sep. 1, 2019, Intec had approximately seven months of cash left. The company began selling newly issued shares through an at-the-market (ATM) offering it had registered in Mar. 2019. As it continued selling shares throughout Sep. 2019, its stock price rose from $14.45 per share to $26.00 per share over 11 trading days on average daily volume that was more than four times the 52-week average. By the end of the month, the company had sold 1,716,679 shares for net proceeds of $2,000,000, and the stock price had fallen back to $14.58.
+
+On Dec. 2, 2019, with six months of cash left, Intec signed an equity line of credit agreement with Aspire for $10,000,000 over 30 months. The pricing of the shares was the same as that of iBio: the lesser of (1) the lowest price of the stock on the purchase date or (2) the average of the three lowest closing prices on the ten trading days before the purchase date.
+
+But Intec never drew drown the equity line. On Feb. 3, 2020, after having sold 138,795 additional shares through its ATM offering, Intec completed an underwritten offering of 764,000 shares, 48,500 pre-funded warrants, and 812,500 warrants for net proceeds of $5,700,000.
+
+Within days of completing the offering, notorious dilutive investors Sabby Management, LLC, Armistice Capital, LLC, and Intracoastal Capital, LLC each reported owning 5% or more of Intec’s ordinary shares outstanding. Concurrent with the offering, Intec’s stock price dropped from $10.32 per share on Jan. 29, 2020 to $5.90 per share on Feb. 3, 2020.
+
+On May 6, 2020, Intec completed a registered direct offering of 814,598 shares and a private placement of 407,299 warrants for net proceeds of $4,500,000. Within days, notorious diluters CVI Investments, Inc. and Armistice Capital, LLC reported owning 7.2% and 5.0%, respectively, of Intec’s ordinary shares outstanding.
+
+From May 6 to Jun. 4, 2020, Intec’s stock price doubled from $4.20 to $8.39 per share on average daily volume that was five times the 52-week average. Then on Jun. 5, 2020, the company registered 8,145,976 shares for resale by CVI Investments, Armistice Capital, Intracoastal Capital, and Anson Investments Master Fund LP.
+
+On Aug. 10, 2020, Aspire finally got a piece of Intec’s ever-growing pie. In a registered direct offering, Intec sold 356,250 newly issued shares to Aspire for $7.02 per share, which was a 13% discount to the closing price. In addition, Intec sold and issued to Aspire pre-funded warrants to purchase 356,250 shares at $6.82 per share. Each warrant was immediately exercisable at $0.20 per share. Intec’s total net proceeds were $4,600,000.
+
+From Aug. 10 through Oct. 30, 2020, Intec’s stock price fell from $8.08 per share to $2.29 per share, which includes a 1-for-20 reverse share split that went into effect on Oct. 30, 2020. By Dec. 31, 2020, Aspire had exercised all of its pre-funded warrants, and CVI Investments owned only 95,000 shares of Intec, or 38% of the shares it had purchased in May 2020 (on a reverse-split-adjusted basis). On Mar. 15, 2021, Intec announced it will execute a reverse merger with privately held Decoy Biosystems, Inc. and dispose of its Accordion Pill business. The merger is expected to close in the third quarter of 2021.
+
+<hr />
+
 <h4>The rest:</h4>
-<p>To provide a comprehensive view of Aspire’s investments over time, we calculated the annualized rate of return on all investments the firm has made since 2010. The calculations are not intended to represent Aspire’s actual returns. We don’t know the precise timing, prices, and quantities of purchases and sales the firm executed under various equity lines of credit. Rather, these calculations show what tends to happen over the long term to stocks in which Aspire invests.</p>
-<img width="964" height="1046" alt="Aspire Index" title="Aspire Index" src="/wp-content/uploads/2021/04/Aspire-Index.png" class="img-responsive wp-image-13236">
-<p>Over the ten-and-a-half-year period from Sep. 2010 through Mar. 2021, Aspire’s average annualized rate of return is -4%, which is poor but not disastrous. But the average is distorted by a few large outliers that are less than two years old. Specifically, the 733% and 151% annualized rates of return on Curis, Inc. (NASDAQ: CRIS) and Sorrento Therapeutics, Inc. (NASDAQ: SRNE), respectively, are anomalous. Aspire’s investments often increase in the first year before the firm resells large quantities of shares it has acquired through an equity line of credit.</p>
-<p>Excluding investments Aspire made after 2019 reduces its average annualized rate of return to -24%. Excluding investments it made after 2016 reduces the average to -31%. The more dilutive stock offerings an issuer sells over time, and the more shares investors unload, the harder it gets to drive up the issuer’s stock price.</p>
-<p>We advise investors to exercise caution if they see that Aspire has invested in a company they are researching. Look carefully for equity lines of credit, which could gradually dilute existing investors’ holdings and stealthily depress the company’s stock price. If you have traded or invested in securities owned by Aspire, please share your experience with us and your fellow investors.</p>
 
-<h2>Ready to jump in?</h2>
+To provide a comprehensive view of Aspire’s investments over time, we calculated the annualized rate of return on all investments the firm has made since 2010. The calculations are not intended to represent Aspire’s actual returns. We don’t know the precise timing, prices, and quantities of purchases and sales the firm executed under various equity lines of credit. Rather, these calculations show what tends to happen over the long term to stocks in which Aspire invests.
 
-<p><a href="/membership/" class="join-cta">Become a part of our community</a>.</p>
+<img src="/wp-content/uploads/2021/04/screenshot101.png" loading="lazy" style="max-width:100%;height:auto;">
 
-<p>If you require further information about our premium service, contact us at <a href="mailto:research@utopiacap.com">research@utopiacap.com</a>.</p>
+<span style="color: #ffffff">DVAX ,ISCO, CLBS, ATHX, MNOV, IPIX, CYCC, CHFS, ATOS, ANIX, URG, MOBQ, SPHS, LQMT, IBIO,SEEL, REPH, XTNT, SLNO, LTBR, YTEN, BSTG, QLGN, BIOC, WWR, JAGX, VKTX, CERC, TEUM, DARE, MARK, EMMA, PSYC, BIVI, TCON, CGIX, PRKR, APTO, VERU, VIRX, OPTT, CLSN, AKTX, MRKR, NTEC, BNGO, ONCS, TMDI, NOVN, ETTX, SLRX, VRDN, SRNE, MREO, CRIS, SCYX, LIFE, XFOR, VBLT,</span>
+
+Over the ten-and-a-half-year period from Sep. 2010 through Mar. 2021, Aspire’s average annualized rate of return is -4%, which is poor but not disastrous. But the average is distorted by a few large outliers that are less than two years old. Specifically, the 733% and 151% annualized rates of return on Curis, Inc. (NASDAQ: CRIS) and Sorrento Therapeutics, Inc. (NASDAQ: SRNE), respectively, are anomalous. Aspire’s investments often increase in the first year before the firm resells large quantities of shares it has acquired through an equity line of credit.
+
+Excluding investments Aspire made after 2019 reduces its average annualized rate of return to -24%. Excluding investments it made after 2016 reduces the average to -31%. The more dilutive stock offerings an issuer sells over time, and the more shares investors unload, the harder it gets to drive up the issuer’s stock price.
+
+We advise investors to exercise caution if they see that Aspire has invested in a company they are researching. Look carefully for equity lines of credit, which could gradually dilute existing investors’ holdings and stealthily depress the company’s stock price. If you have traded or invested in securities owned by Aspire, please share your experience with us and your fellow investors.
+
+<span style="color: #ffffff">DVAX ,ISCO, CLBS, ATHX, MNOV, IPIX, CYCC, CHFS, ATOS, ANIX, URG, MOBQ, SPHS, LQMT, IBIO,SEEL, REPH, XTNT, SLNO, LTBR, YTEN, BSTG, QLGN, BIOC, WWR, JAGX, VKTX, CERC, TEUM, DARE, MARK, EMMA, PSYC, BIVI, TCON, CGIX, PRKR, APTO, VERU, VIRX, OPTT, CLSN, AKTX, MRKR, NTEC, BNGO, ONCS, TMDI, NOVN, ETTX, SLRX, VRDN, SRNE, MREO, CRIS, SCYX, LIFE, XFOR, VBLT,</span>

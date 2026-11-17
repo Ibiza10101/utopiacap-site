@@ -5,35 +5,81 @@ permalink: "/2020/03/25/sabby-management/"
 layout: post.njk
 sourceUrl: "https://utopiacap.com/2020/03/25/sabby-management/"
 archivedAt: "20200520121356"
+coverImage: "/wp-content/uploads/2020/03/51gMZKtGkrL._AC_UX522_.jpg"
 ---
 
-<div class="recovered-images">
-<img src="/wp-content/uploads/2020/03/Sabby-Index-1-1.png" loading="lazy" style="max-width:100%;height:auto;">
-<img src="/wp-content/uploads/2020/03/Sabby-Index-2-1.png" loading="lazy" style="max-width:100%;height:auto;">
+<ul>
+ 	<li><strong> Sabby Management LLC is arguably one of the most prolific so-called “vulture funds” currently operating in the realm of small/micro/nano caps. </strong></li>
+ 	<li><strong> Several of the companies Sabby Management has been involved with raise several red flags. Examples include: INXP, CODX and GNPX. </strong></li>
+ 	<li><strong> Since 2018 Sabby Management has been involved with 75 different companies. The vast majority have since experienced significant decreases in their share prices, in some cases greater than 99%. The average annualised rate of return for 73 of these 75 companies is a horrific 35.45%.</strong></li>
+</ul>
+
+<hr />
+
+<strong>Intro:</strong>
+
+Another week, another investor warning focusing on a so-called “dubious” third party currently plying its trade in the realm of small/micro/nano caps. This time we turn our attention to Sabby Management LLC, the most prolific entity we have covered thus far as it has been involved with over seventy different companies during 2018 and 2019. We must emphasise that this article is no way accusing Sabby Management of breaking any laws, regulations, duties or contractual obligations (excluding matters that have been settled with the SEC), we are simply highlighting how this fund finds itself repeatedly involved with publicly traded companies that exhibit highly unusual yet somewhat predictable share price behaviour.
+
+Sabby Management is surprisingly secretive as it does not have a website, meaning that all the information presented in this article has been taken from other sources. The man at the helm of Sabby is Hal David Mintz. We believe he is based in New Jersey and owns a residence in South Florida (<a href="https://therealdeal.com/miami/2018/08/14/sabby-management-fund-manager-pays-10m-for-palazzo-del-sol-unit/" target="_blank" rel="noopener noreferrer">1</a>). A quick Google search will reveal that Sabby Management’s track record is not squeaky clean as it was named as a defendant in an SEC administrative proceeding resulting in a cease and desist order. This came as a result of Sabby Management violating  Rule 105 of Regulation M of the Exchange Act, a rule that “prohibits buying an equity security made available through a public offering, conducted on a firm commitment basis, from an underwriter or broker or dealer participating in the offering after having sold short the same security during the restricted period as defined therein”.  The SEC stated that “On two occasions between December 2014 and February 2015, Sabby bought offering shares from an underwriter or broker or dealer participating in a follow-on public offering after having sold short the same security during the Rule 105 restricted period.  The violations resulted inprofits of $184,747.10” (<a href="https://www.sec.gov/litigation/admin/2015/34-76141.pdf" target="_blank" rel="noopener noreferrer">2</a>). Sabby Management settled the matter by agreeing to pay disgorgement of $184,747.10, prejudgment interest of $2,331.51, and a penalty of $91,669.95 (<a href="https://www.sec.gov/news/pressrelease/2015-239.html" target="_blank" rel="noopener noreferrer">3</a>). Our previous investor warning highlighted how <a href="https://utopiacap.wordpress.com/2020/03/20/hudson-bay-capital-management/" target="_blank" rel="noopener noreferrer">Hudson Bay Capital settled with the SEC for violating this very same rule</a>.
+
 <img src="/wp-content/uploads/2020/03/Sabby-SEC-lawsuit.png" loading="lazy" style="max-width:100%;height:auto;">
-</div>
 
-<ul>
-<li><strong>Sabby Management LLC is arguably one of the most prolific so-called “vulture funds” currently operating in the realm of small/micro/nano caps.</strong></li>
-<li><strong>Several of the companies Sabby Management has been involved with raise several red flags. Examples include: INXP, CODX and GNPX.</strong></li>
-<li><strong>Since 2018 Sabby Management has been involved with 75 different companies. The vast majority have since experienced significant decreases in their share prices, in some cases greater than 99%. The average annualised rate of return for 73 of these 75 companies is a horrific 35.45%.</strong></li>
-</ul>
-<hr>
-<p><strong>Intro:</strong></p>
-<p>Another week, another investor warning focusing on a so-called “dubious” third party currently plying its trade in the realm of small/micro/nano caps. This time we turn our attention to Sabby Management LLC, the most prolific entity we have covered thus far as it has been involved with over seventy different companies during 2018 and 2019. We must emphasise that this article is no way accusing Sabby Management of breaking any laws, regulations, duties or contractual obligations (excluding matters that have been settled with the SEC), we are simply highlighting how this fund finds itself repeatedly involved with publicly traded companies that exhibit highly unusual yet somewhat predictable share price behaviour.</p>
-<p>Sabby Management is surprisingly secretive as it does not have a website, meaning that all the information presented in this article has been taken from other sources. The man at the helm of Sabby is Hal David Mintz. We believe he is based in New Jersey and owns a residence in South Florida (<a href="https://therealdeal.com/miami/2018/08/14/sabby-management-fund-manager-pays-10m-for-palazzo-del-sol-unit/" target="_blank" rel="noopener noreferrer">1</a>). A quick Google search will reveal that Sabby Management’s track record is not squeaky clean as it was named as a defendant in an SEC administrative proceeding resulting in a cease and desist order. This came as a result of Sabby Management violating &nbsp;Rule 105 of Regulation M of the Exchange Act, a rule that “prohibits buying an equity security made available through a public offering, conducted on a firm commitment basis, from an underwriter or broker or dealer participating in the offering after having sold short the same security during the restricted period as defined therein”.&nbsp; The SEC stated that “On two occasions between December 2014 and February 2015, Sabby bought offering shares from an underwriter or broker or dealer participating in a follow-on public offering after having sold short the same security during the Rule 105 restricted period.&nbsp; The violations resulted inprofits of $184,747.10” (<a href="https://www.sec.gov/litigation/admin/2015/34-76141.pdf" target="_blank" rel="noopener noreferrer">2</a>). Sabby Management settled the matter by agreeing to pay disgorgement of $184,747.10, prejudgment interest of $2,331.51, and a penalty of $91,669.95 (<a href="https://www.sec.gov/news/pressrelease/2015-239.html" target="_blank" rel="noopener noreferrer">3</a>). Our previous investor warning highlighted how <a href="/2020/03/20/hudson-bay-capital-management/" target="_blank" rel="noopener noreferrer">Hudson Bay Capital settled with the SEC for violating this very same rule</a>.</p>
-<p>In order to illustrate Sabby Mangement’s investments we will first take a closer look at three of the companies it has been involved with over the last couple of years that have also recently exhibited unusual price behaviour. Later on, we will give an overview of the rates of return generated by 75 different companies since Sabby Management purchased a stake in them. Please note that we will be comparing historical share prices to those of March 4, 2020, as this date precedes the “Great Corona Crash”.</p>
-<p>See our other Investor Warnings focusing on so-called "dubious" third parties:</p>
-<ul>
- 	<li><a href="/2020/03/20/hudson-bay-capital-management/">Hudson Bay Capital</a></li>
- 	<li><a href="/2020/04/21/cvi-investments/">CVI Investments</a></li>
- 	<li><a href="/2020/03/18/iliad-research-and-trading/">Iliad Research and Trading</a></li>
-</ul>
-<p>To have an idea of what to expect, have a look at our free Investor Warning on <a href="/2020/03/17/lincoln-park-capital/">Lincoln Park Capital</a>.</p>
-<p>GNPX, CODX, GHSI, LPCN, VXRT, YTEN, PULM, PAVM, MKGI, CJJD, AMPE, APDN, SESN / EBIO, MNKD, ATNM, NAOV, VBLT, ORMP, TRVN, EMAN, SYN, ZEST, OGEN, BPTH, MBRX, CYTR, MDGS, BNTC, CGIX, ARMP / APHB, XBIO, CTXR, KTOV, EDSA / SBOT, ZSAN, IPCIF, AIM / HEB, RKDA, ACHV, OPGN, APOP, CANF, SEEL / APRI, BIOC, NVIV, ONTX, OTLK, OBLN, TTNP, NSPR, ADXS, ABILF, DMPI, TEUM, SNCA / CUR, ROSGQ, PHIO / RXII, RWLK, SHIP, RBZ, CHFS, TRNX, TNXP, DFFN, JAGX, NSPX, HMNY, INPX, AKAOQ, TOPS, RSLS, ABWN, BIOAQ, FCSC</p>
+In order to illustrate Sabby Mangement’s investments we will first take a closer look at three of the companies it has been involved with over the last couple of years that have also recently exhibited unusual price behaviour. Later on, we will give an overview of the rates of return generated by 75 different companies since Sabby Management purchased a stake in them. Please note that we will be comparing historical share prices to those of March 4, 2020, as this date precedes the “Great Corona Crash”.
 
-<h2>Ready to jump in?</h2>
+<hr />
 
-<p><a href="/membership/" class="join-cta">Become a part of our community</a>.</p>
+<h4>INPX:</h4>
+<img src="/wp-content/uploads/2020/03/Sabby_INPX.png" loading="lazy" style="max-width:100%;height:auto;">
 
-<p>If you require further information about our premium service, contact us at <a href="mailto:research@utopiacap.com">research@utopiacap.com</a>.</p>
+We covered <a href="https://utopiacap.wordpress.com/2020/01/06/inpx/" target="_blank" rel="noopener noreferrer">INPX on January 6, 2020</a>. Since Sabby Management filed a Schedule 13G form on April 4, 2018, INPX’s share price has experienced a 99.87% decrease. This company raised many red flags namely: an underwriter with links to an alleged pump and dump ring and a debt agreement with Iliad Research and Trading that resulted in extreme levels of dilution. <a href="https://utopiacap.wordpress.com/2020/03/18/iliad-research-and-trading/" target="_blank" rel="noopener noreferrer">We have previously covered Iliad Research and Trading</a> and highlighted how since 2016 it has been involved with approximately 28 different companies. The vast majority of these companies have since experienced significant decreases in their share prices, in some cases greater than 99%. The average annualised rate of return for 27 of these 28 companies is a horrific -49%. On January 2, 2020, INPX went on parabolic run that resulted in a five-fold price increase on January 3, 2020. The next trading day, January 6, 2020, a 1-to-45 reverse split was announced and its share price collapsed just as quickly as it rose (<a href="https://www.globenewswire.com/news-release/2020/01/06/1966746/0/en/InpixonAnnounces-Reverse-Stock-Split-for-NASDAQ-Compliance.html" target="_blank" rel="noopener noreferrer">4</a>).
+
+<hr />
+
+<h4>CODX:</h4>
+CODX is another ticker that has exhibited highly unusual behaviour in recent months and raises several red flags. The most concerning of these red flags is paid promotion. On January 10, 2020, well known promoters such as OTCtipReporter, Buzzstocks.com, James Connelly (aka Penny Stock Prophet), HotOTC, BullRally and other, sent out premarket alerts promoting CODX.
+
+<img src="/wp-content/uploads/2020/01/CODX_promo_otctip.png" loading="lazy" style="max-width:100%;height:auto;"><img src="/wp-content/uploads/2020/01/CODX_promo_james_connemy.png" loading="lazy" style="max-width:100%;height:auto;"><img src="/wp-content/uploads/2020/01/CODX_promo_Buzzstocks.png" loading="lazy" style="max-width:100%;height:auto;"><img src="/wp-content/uploads/2020/03/Sabby-management-CODX-disclaimer.png" loading="lazy" style="max-width:100%;height:auto;">
+
+According to the disclaimer CODX paid $110,000 for these pump newsletters. This should make any investor very wary about CODX current price run as it likely has little to do with the value of its products.
+
+CODX’s transfer agent, VStock transfer agent, also gives reason for concern. VStock transfer is/was also the transfer agent of BEAG (Blue Eagle Lithium). BEAG is a confirmed mailer pump and dump as exposed by Michael Goode (<a href="https://www.goodetrades.com/2019/06/blue-eagle-lithium-beag-is-newest-mailer-pump-dump/">5</a>), that paid over $1.3 million dollar for a landing page. It ended up getting into serious trouble with the SEC, who went to suspend its trading on July 1, 2019 because of lack of accuracy of publicly available information and unusual unexplained market activity (<a href="https://www.sec.gov/litigation/suspensions/2019/34-86271-o.pdf">6</a>). BEAG now dwells in the grey market (also known as the OTC cemetery) where it currently trades at less than $0.05 after having reached $3.50 pre SEC suspension.
+
+<img src="/wp-content/uploads/2020/01/CODX_Vstock_BEAG.png" loading="lazy" style="max-width:100%;height:auto;">
+
+<hr />
+
+<h4>GNPX:</h4>
+Like CODX, GNPX is another ticker that has recently exhibited unusual price action and raises several red flags. Once again, the most concerning of these red flags concerns is paid promotion. In mid to late January 2020, promotional email newsletters were in circulation. One of these newsletters, Small-Cap Street LLC, clearly states that they have “been compensated twelve thousand dollars cash via bank wire by venado media llc for this weeks coverage of GNPX”.
+
+<img src="/wp-content/uploads/2020/01/GNPX_promotion.png" loading="lazy" style="max-width:100%;height:auto;">
+
+Furthermore, Hudson Capital Bay Management has also held GNPX shares over the last couple of years. Hudson Bay Capital is another so-called “vulture fund”. <a href="https://utopiacap.wordpress.com/2020/03/20/hudson-bay-capital-management/">We wrote about them in mid-March, 2020</a>. Like Sabby Management, it also violated Rule 105 of Regulation M of the Exchange Act and has settled the charges with the SEC. During 2018 and 2019 Hudson Bay Capital Management has been involved with approximately 34 different companies. The vast majority have since experienced significant decreases in their share price, in some cases greater than 95%. The average annualised rate of return for these 34 companies is an underwhelming -18%. If shells and tickers with recent and unusual price runs are excluded the average annualised rate of return drops to a horrific -53%.
+
+<hr />
+
+<h4>The rest:</h4>
+
+The above three examples do not provide a comprehensive picture of the nature and performance of Sabby Management’s investments. So, we went through the hassle of calculating the annualised rate of return of all the tickers that Sabby Management has been involved with during 2018 and 2019. We did this by taking the closing price of the ticker on the date when Sabby Management filed its first Schedule 13 form with a given company during 2018 and 2019 and compared it to the closing price on March 4, 2020 (as this date precedes the “Great Corona Crash”). We give you the “Sabby Management Index”:
+
+<img src="/wp-content/uploads/2020/03/Sabby-Index-1-1.png" loading="lazy" style="max-width:100%;height:auto;"><img src="/wp-content/uploads/2020/03/Sabby-Index-2-1.png" loading="lazy" style="max-width:100%;height:auto;">
+
+<span style="color: #ffffff">GNPX, CODX, GHSI, LPCN, VXRT, YTEN, PULM, PAVM, MKGI, CJJD, AMPE, APDN, SESN / EBIO, MNKD, ATNM, NAOV, VBLT, ORMP, TRVN, EMAN, SYN, ZEST, OGEN, BPTH, MBRX, CYTR, MDGS, BNTC, CGIX, ARMP / APHB, XBIO, CTXR, KTOV, EDSA / SBOT, ZSAN, IPCIF, AIM / HEB, RKDA, ACHV, OPGN, APOP, CANF, SEEL / APRI, BIOC, NVIV, ONTX, OTLK, OBLN, TTNP, NSPR, ADXS, ABILF, DMPI, TEUM, SNCA / CUR, ROSGQ, PHIO / RXII, RWLK, SHIP, RBZ, CHFS, TRNX, TNXP, DFFN, JAGX, NSPX, HMNY, INPX, AKAOQ, TOPS, RSLS, ABWN, BIOAQ, FCSC.</span>
+
+The average of the annualised rate of return of all the tickers is 19,901%. Amazing right? Wrong. This statistic is massively skewed by CODX and GNPX both of which have had recent price runs that have coincided with paid promotion (as already explained). If CODX and GNPX are excluded, the average of the annualised rate of return for the remainder of the tickers drops to -35.45%. Furthermore, the average downside for all the tickers is -21.53% and if GNPX and CODX are excluded it drops to a shocking -52.47%.
+
+It is fairly clear that the vast majority of companies that Sabby Management gets involved with experience significant decreases in their share price.
+
+Given Sabby Management’s previous brushes with the SEC and the unusual price action of companies that it gets involved with (and the many other red flags these companies raise), we advise investors to diligently read filings and be careful when dealing with any company in which Sabby Management has or has had a stake in. Experienced small/micro/nano cap traders should take note of them as short selling opportunities are virtually guaranteed. And beginner investors should avoid them or treat them with extreme caution.
+
+<strong>We also welcome our readers who have invested in or traded the above listed companies to please come forward and share their experiences. This will prove very valuable as a warning to current and prospective investors/traders about the perils of getting involved with companies that have links to Sabby Management.</strong>
+
+<ol>
+ 	<li><a href="https://therealdeal.com/miami/2018/08/14/sabby-management-fund-manager-pays-10m-for-palazzo-del-sol-unit/" target="_blank" rel="noopener noreferrer">https://therealdeal.com/miami/2018/08/14/sabby-management-fund-manager-pays-10m-for-palazzo-del-sol-unit/</a></li>
+ 	<li><a href="https://www.sec.gov/litigation/admin/2015/34-76141.pdf" target="_blank" rel="noopener noreferrer">https://www.sec.gov/litigation/admin/2015/34-76141.pdf</a></li>
+ 	<li><a href="https://www.sec.gov/news/pressrelease/2015-239.html" target="_blank" rel="noopener noreferrer">https://www.sec.gov/news/pressrelease/2015-239.html</a></li>
+ 	<li><a href="https://www.globenewswire.com/news-release/2020/01/06/1966746/0/en/InpixonAnnounces-Reverse-Stock-Split-for-NASDAQ-Compliance.html" target="_blank" rel="noopener noreferrer">https://www.globenewswire.com/news-release/2020/01/06/1966746/0/en/InpixonAnnounces-Reverse-Stock-Split-for-NASDAQ-Compliance.html</a></li>
+ 	<li><a href="https://www.goodetrades.com/2019/06/blue-eagle-lithium-beag-is-newest-mailer-pump-dump/" target="_blank" rel="noopener noreferrer">https://www.goodetrades.com/2019/06/blue-eagle-lithium-beag-is-newest-mailer-pump-dump/</a></li>
+ 	<li><a href="https://www.sec.gov/litigation/suspensions/2019/34-86271-o.pdf" target="_blank" rel="noopener noreferrer">https://www.sec.gov/litigation/suspensions/2019/34-86271-o.pdf</a></li>
+</ol>
+
+<span style="color: #ffffff">GNPX, CODX, GHSI, LPCN, VXRT, YTEN, PULM, PAVM, MKGI, CJJD, AMPE, APDN, SESN / EBIO, MNKD, ATNM, NAOV, VBLT, ORMP, TRVN, EMAN, SYN, ZEST, OGEN, BPTH, MBRX, CYTR, MDGS, BNTC, CGIX, ARMP / APHB, XBIO, CTXR, KTOV, EDSA / SBOT, ZSAN, IPCIF, AIM / HEB, RKDA, ACHV, OPGN, APOP, CANF, SEEL / APRI, BIOC, NVIV, ONTX, OTLK, OBLN, TTNP, NSPR, ADXS, ABILF, DMPI, TEUM, SNCA / CUR, ROSGQ, PHIO / RXII, RWLK, SHIP, RBZ, CHFS, TRNX, TNXP, DFFN, JAGX, NSPX, HMNY, INPX, AKAOQ, TOPS, RSLS, ABWN, BIOAQ, FCSC.</span>
