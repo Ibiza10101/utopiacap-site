@@ -5,9 +5,9 @@ layout: base.njk
 ---
 
 <h2>Membership</h2>
-<img src="https://utopiacap.wordpress.com/wp-content/uploads/2024/07/513e5-bc-tr-graph-sep10.png?w=1536&amp;h=721" alt="Blockchain track record" width="800" height="376" />
+<img src="/wp-content/uploads/2024/07/513e5-bc-tr-graph-sep10.png?w=1536&amp;h=721" alt="Blockchain track record" width="800" height="376" />
 
-As our track record shows, going against our trades will result in an an average loss greater than 20% after 5 days. For greater detail please have a look at <strong><a href="https://utopiacap.wordpress.com/track-record/">our full Blockchain time stamped track record</a></strong>.
+As our track record shows, going against our trades will result in an an average loss greater than 20% after 5 days. For greater detail please have a look at <strong><a href="/track-record/">our full Blockchain time stamped track record</a></strong>.
 
 Besides publishing freely available short reports and trade alerts, Utopia Capital Research fosters a trading community united by a passion for lifelong learning and critical thinking through our membership services. Our approach to short trading  has been around for decades and if properly applied can be highly profitable. It is the result of years of experience and constant evolution. Our chat room is not merely focused on the technical aspect of trading because our approach is heavily reliant on thorough research and planning. This instills our members with the necessary skills to become independent and consistently profitable short traders. Consequently, our more comprehensive services come at a premium.
 

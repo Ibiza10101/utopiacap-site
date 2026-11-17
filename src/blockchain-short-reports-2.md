@@ -17,52 +17,52 @@ archivedAt: "20200924201017"
 						Membership
 					</a>
                 <article>
-                            <a href="https://utopiacap.wordpress.com/2020/07/21/tonix-pharmaceuticals-holdings-corp-amex-tnxp-short-report-1145am-july-21-2020/"></a>
-                                <img src="https://utopiacap.wordpress.com/wp-content/uploads/2024/07/ad21f-tnxp2-candles.png?w=300&amp;h=215" alt="TNXP short report candles">
-                            <header><h2><a href="https://utopiacap.wordpress.com/2020/07/21/tonix-pharmaceuticals-holdings-corp-amex-tnxp-short-report-1145am-july-21-2020/" title="Tonix Pharmaceuticals Holdings Corp. AMEX: TNXP Short Report. 11:45am July 21, 2020">Tonix Pharmaceuticals Holdings Corp. AMEX: TNXP Short Report. 11:45am July 21, 2020</a></h2></header>
-                <a href="https://utopiacap.wordpress.com/2020/07/21/tonix-pharmaceuticals-holdings-corp-amex-tnxp-short-report-1145am-july-21-2020/">Read More</a>
+                            <a href="/2020/07/21/tonix-pharmaceuticals-holdings-corp-amex-tnxp-short-report-1145am-july-21-2020/"></a>
+                                <img src="/wp-content/uploads/2024/07/ad21f-tnxp2-candles.png?w=300&amp;h=215" alt="TNXP short report candles">
+                            <header><h2><a href="/2020/07/21/tonix-pharmaceuticals-holdings-corp-amex-tnxp-short-report-1145am-july-21-2020/" title="Tonix Pharmaceuticals Holdings Corp. AMEX: TNXP Short Report. 11:45am July 21, 2020">Tonix Pharmaceuticals Holdings Corp. AMEX: TNXP Short Report. 11:45am July 21, 2020</a></h2></header>
+                <a href="/2020/07/21/tonix-pharmaceuticals-holdings-corp-amex-tnxp-short-report-1145am-july-21-2020/">Read More</a>
             <time datetime="21. July 2020">21. July 2020</time>
                     </article><article>
-                            <a href="https://utopiacap.wordpress.com/2020/07/13/american-lithium-corp-otcqb-liacf-short-report-945am-july-13-2020/"></a>
-                                <img src="https://utopiacap.wordpress.com/wp-content/uploads/2024/07/e4132-liacf_candles_2.png?w=300&amp;h=201" alt="LIACF short report">
-                            <header><h2><a href="https://utopiacap.wordpress.com/2020/07/13/american-lithium-corp-otcqb-liacf-short-report-945am-july-13-2020/" title="American Lithium Corp. OTCQB: LIACF Short Report. 9:45am July 13, 2020">American Lithium Corp. OTCQB: LIACF Short Report. 9:45am July 13, 2020</a></h2></header>
-                <a href="https://utopiacap.wordpress.com/2020/07/13/american-lithium-corp-otcqb-liacf-short-report-945am-july-13-2020/">Read More</a>
+                            <a href="/2020/07/13/american-lithium-corp-otcqb-liacf-short-report-945am-july-13-2020/"></a>
+                                <img src="/wp-content/uploads/2024/07/e4132-liacf_candles_2.png?w=300&amp;h=201" alt="LIACF short report">
+                            <header><h2><a href="/2020/07/13/american-lithium-corp-otcqb-liacf-short-report-945am-july-13-2020/" title="American Lithium Corp. OTCQB: LIACF Short Report. 9:45am July 13, 2020">American Lithium Corp. OTCQB: LIACF Short Report. 9:45am July 13, 2020</a></h2></header>
+                <a href="/2020/07/13/american-lithium-corp-otcqb-liacf-short-report-945am-july-13-2020/">Read More</a>
             <time datetime="13. July 2020">13. July 2020</time>
                     </article><article>
-                            <a href="https://utopiacap.wordpress.com/2020/07/01/workhorse-group-inc-nasdaq-wkhs-short-report-900am-july-1-2020-a-robinhooders-pipe-dream/"></a>
-                                <img src="https://utopiacap.wordpress.com/wp-content/uploads/2024/07/6b9d4-wkhs_candles.png?w=300&amp;h=201" alt="WKHS short report candles">
-                            <header><h2><a href="https://utopiacap.wordpress.com/2020/07/01/workhorse-group-inc-nasdaq-wkhs-short-report-900am-july-1-2020-a-robinhooders-pipe-dream/" title="Workhorse Group Inc. NASDAQ: WKHS Short Report, 9:00am July 1, 2020, A Robinhooder&#8217;s pipe dream?">Workhorse Group Inc. NASDAQ: WKHS Short Report, 9:00am July 1, 2020, A Robinhooder&#8217;s pipe dream?</a></h2></header>
-                <a href="https://utopiacap.wordpress.com/2020/07/01/workhorse-group-inc-nasdaq-wkhs-short-report-900am-july-1-2020-a-robinhooders-pipe-dream/">Read More</a>
+                            <a href="/2020/07/01/workhorse-group-inc-nasdaq-wkhs-short-report-900am-july-1-2020-a-robinhooders-pipe-dream/"></a>
+                                <img src="/wp-content/uploads/2024/07/6b9d4-wkhs_candles.png?w=300&amp;h=201" alt="WKHS short report candles">
+                            <header><h2><a href="/2020/07/01/workhorse-group-inc-nasdaq-wkhs-short-report-900am-july-1-2020-a-robinhooders-pipe-dream/" title="Workhorse Group Inc. NASDAQ: WKHS Short Report, 9:00am July 1, 2020, A Robinhooder&#8217;s pipe dream?">Workhorse Group Inc. NASDAQ: WKHS Short Report, 9:00am July 1, 2020, A Robinhooder&#8217;s pipe dream?</a></h2></header>
+                <a href="/2020/07/01/workhorse-group-inc-nasdaq-wkhs-short-report-900am-july-1-2020-a-robinhooders-pipe-dream/">Read More</a>
             <time datetime="1. July 2020">1. July 2020</time>
                     </article><article>
-                            <a href="https://utopiacap.wordpress.com/2020/04/14/cydy-2/"></a>
-                                <img src="https://utopiacap.wordpress.com/wp-content/uploads/2024/07/e2ff1-cydy_candles_2.png?w=300&amp;h=205" alt="CYDY candles 2">
-                            <header><h2><a href="https://utopiacap.wordpress.com/2020/04/14/cydy-2/" title="CytoDyn, Inc. OTCQB: CYDY Short Report, 9:30am April 14, 2020">CytoDyn, Inc. OTCQB: CYDY Short Report, 9:30am April 14, 2020</a></h2></header>
-                <a href="https://utopiacap.wordpress.com/2020/04/14/cydy-2/">Read More</a>
+                            <a href="/2020/04/14/cydy-2/"></a>
+                                <img src="/wp-content/uploads/2024/07/e2ff1-cydy_candles_2.png?w=300&amp;h=205" alt="CYDY candles 2">
+                            <header><h2><a href="/2020/04/14/cydy-2/" title="CytoDyn, Inc. OTCQB: CYDY Short Report, 9:30am April 14, 2020">CytoDyn, Inc. OTCQB: CYDY Short Report, 9:30am April 14, 2020</a></h2></header>
+                <a href="/2020/04/14/cydy-2/">Read More</a>
             <time datetime="14. April 2020">14. April 2020</time>
                     </article><article>
-                            <a href="https://utopiacap.wordpress.com/2020/04/14/worx/"></a>
-                                <img src="https://utopiacap.wordpress.com/wp-content/uploads/2024/07/86c48-worx_candles.png?w=300&amp;h=211" alt="">
-                            <header><h2><a href="https://utopiacap.wordpress.com/2020/04/14/worx/" title="SCWorx Corp. Nasdaq: WORX Short Report, 8:50am April 14, 2020">SCWorx Corp. Nasdaq: WORX Short Report, 8:50am April 14, 2020</a></h2></header>
-                <a href="https://utopiacap.wordpress.com/2020/04/14/worx/">Read More</a>
+                            <a href="/2020/04/14/worx/"></a>
+                                <img src="/wp-content/uploads/2024/07/86c48-worx_candles.png?w=300&amp;h=211" alt="">
+                            <header><h2><a href="/2020/04/14/worx/" title="SCWorx Corp. Nasdaq: WORX Short Report, 8:50am April 14, 2020">SCWorx Corp. Nasdaq: WORX Short Report, 8:50am April 14, 2020</a></h2></header>
+                <a href="/2020/04/14/worx/">Read More</a>
             <time datetime="14. April 2020">14. April 2020</time>
                     </article><article>
-                            <a href="https://utopiacap.wordpress.com/2020/04/07/aker/"></a>
-                                <img src="https://utopiacap.wordpress.com/wp-content/uploads/2024/07/2d8a0-aker_candles.png?w=300&amp;h=201" alt="AKER candles">
-                            <header><h2><a href="https://utopiacap.wordpress.com/2020/04/07/aker/" title="Akers Biosciences Inc. Nasdaq: AKER Short report 9:40am, April 7, 2020">Akers Biosciences Inc. Nasdaq: AKER Short report 9:40am, April 7, 2020</a></h2></header>
-                <a href="https://utopiacap.wordpress.com/2020/04/07/aker/">Read More</a>
+                            <a href="/2020/04/07/aker/"></a>
+                                <img src="/wp-content/uploads/2024/07/2d8a0-aker_candles.png?w=300&amp;h=201" alt="AKER candles">
+                            <header><h2><a href="/2020/04/07/aker/" title="Akers Biosciences Inc. Nasdaq: AKER Short report 9:40am, April 7, 2020">Akers Biosciences Inc. Nasdaq: AKER Short report 9:40am, April 7, 2020</a></h2></header>
+                <a href="/2020/04/07/aker/">Read More</a>
             <time datetime="7. April 2020">7. April 2020</time>
                     </article><article>
-                            <a href="https://utopiacap.wordpress.com/2020/03/26/usau/"></a>
-                                <img src="https://utopiacap.wordpress.com/wp-content/uploads/2024/07/1b3cf-usau_candles.png?w=300&amp;h=210" alt="U.S Gold Corp USAU candles">
-                            <header><h2><a href="https://utopiacap.wordpress.com/2020/03/26/usau/" title="U.S Gold Corp. Nasdaq: USAU Short Report, 9:40am March 26, 2020">U.S Gold Corp. Nasdaq: USAU Short Report, 9:40am March 26, 2020</a></h2></header>
-                <a href="https://utopiacap.wordpress.com/2020/03/26/usau/">Read More</a>
+                            <a href="/2020/03/26/usau/"></a>
+                                <img src="/wp-content/uploads/2024/07/1b3cf-usau_candles.png?w=300&amp;h=210" alt="U.S Gold Corp USAU candles">
+                            <header><h2><a href="/2020/03/26/usau/" title="U.S Gold Corp. Nasdaq: USAU Short Report, 9:40am March 26, 2020">U.S Gold Corp. Nasdaq: USAU Short Report, 9:40am March 26, 2020</a></h2></header>
+                <a href="/2020/03/26/usau/">Read More</a>
             <time datetime="26. March 2020">26. March 2020</time>
                     </article><article>
-                            <a href="https://utopiacap.wordpress.com/2020/02/21/sens/"></a>
-                                <img src="https://utopiacap.wordpress.com/wp-content/uploads/2024/07/bebd3-sens_candles.png?w=300&amp;h=201" alt="SENS short report candles">
-                            <header><h2><a href="https://utopiacap.wordpress.com/2020/02/21/sens/" title="Senseonics Holdings, Inc. NYSE MKYT: SENS Short Report, 12:35pm February 21, 2020">Senseonics Holdings, Inc. NYSE MKYT: SENS Short Report, 12:35pm February 21, 2020</a></h2></header>
-                <a href="https://utopiacap.wordpress.com/2020/02/21/sens/">Read More</a>
+                            <a href="/2020/02/21/sens/"></a>
+                                <img src="/wp-content/uploads/2024/07/bebd3-sens_candles.png?w=300&amp;h=201" alt="SENS short report candles">
+                            <header><h2><a href="/2020/02/21/sens/" title="Senseonics Holdings, Inc. NYSE MKYT: SENS Short Report, 12:35pm February 21, 2020">Senseonics Holdings, Inc. NYSE MKYT: SENS Short Report, 12:35pm February 21, 2020</a></h2></header>
+                <a href="/2020/02/21/sens/">Read More</a>
             <time datetime="21. February 2020">21. February 2020</time>
                     </article>
 					

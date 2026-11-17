@@ -32,7 +32,7 @@ Regulatory risk: Market regulators may temporarily ban short selling because of 
 <h2>WHY YOU SHOULD CONSIDER SHORT SELLING</h2>
 Besides the above risks, short sellers are often times ill perceived and vilified. Many among you are probably asking “why short sell or learn about it?”. The answer is a simple one. Prices fall faster than they rise. Over the last two decades we have seen two major stock market crashes and countless failed companies and scams. Understanding the nuances of short selling can thus not only allow one to gain a skillset that can be highly profitable, it can also teach one the needed scepticism and research skills to spot the many hazards that can be found in the world of finance.
 
-In the next article in the series will taking a quick look at <a href="https://utopiacap.wordpress.com/a-short-history-of-short-selling/" target="_blank" rel="noopener noreferrer"><b>the history of short selling</b></a>.
+In the next article in the series will taking a quick look at <a href="/a-short-history-of-short-selling/" target="_blank" rel="noopener noreferrer"><b>the history of short selling</b></a>.
 
 Ready to jump in?
 <h2>Become a part of our community</h2>

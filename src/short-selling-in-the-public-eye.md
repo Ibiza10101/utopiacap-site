@@ -23,7 +23,7 @@ Ideally, market regulators would do their job perfectly and intervene whenever t
 
 Short selling may not be popular or looked up to, but it is at worse a necessary evil and at best an integral part of a healthy financial system. Otherwise it would have been banned and remained banned a very long time ago.
 
-In our next article we will going over some of the reasons why <a href="https://utopiacap.wordpress.com/why-you-should-learn-about-short-selling/" target="_blank" rel="noopener noreferrer"><b>you should nurture your inner bear</b></a>.
+In our next article we will going over some of the reasons why <a href="/why-you-should-learn-about-short-selling/" target="_blank" rel="noopener noreferrer"><b>you should nurture your inner bear</b></a>.
 
 Ready to jump in?
 <h2>Become a part of our community</h2>

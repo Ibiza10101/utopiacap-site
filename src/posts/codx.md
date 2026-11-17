@@ -60,7 +60,7 @@ CODX financials are not as bad as one would expect. Debt seems to be under contr
 <h4>A shareholder to worry about</h4>
 <img src="/wp-content/uploads/2020/01/codx_cvi.png" loading="lazy" style="max-width:100%;height:auto;">
 
-On January 30, 2019, CVI investments acquired 1.3 million CODX shares of common stock ( <a href="https://www.otcmarkets.com/filing/html?id=13206751&amp;guid=80jjUqxrs05T68h">3</a> ). According to our Asgard database (a proprietary database and stock selection tool that identifies high-probability fraudulent/dubious companies based on several characteristics), CVI has been involved with other suspect tickers, such as BPTH, RKDA and TRNX among other. A quick look at the historical price action of these tickers will show the same trend; a very extended downward trend characterised by “spikes in volatility”. TRNX is one of the dodgiest ticker we took a look at when we started publishing our research, <a href="https://utopiacap.wordpress.com/2019/07/30/taronis-technologies-inc-nasdaq-trnx-very-colourful-past-recent-name-change-reverse-split-underwriter-faced-legal-issues-in-2018-transfer-agent-sued-for-fraudulent-transfer-in-2018-a-shareh/">check out our very short article on it</a>.
+On January 30, 2019, CVI investments acquired 1.3 million CODX shares of common stock ( <a href="https://www.otcmarkets.com/filing/html?id=13206751&amp;guid=80jjUqxrs05T68h">3</a> ). According to our Asgard database (a proprietary database and stock selection tool that identifies high-probability fraudulent/dubious companies based on several characteristics), CVI has been involved with other suspect tickers, such as BPTH, RKDA and TRNX among other. A quick look at the historical price action of these tickers will show the same trend; a very extended downward trend characterised by “spikes in volatility”. TRNX is one of the dodgiest ticker we took a look at when we started publishing our research, <a href="/2019/07/30/taronis-technologies-inc-nasdaq-trnx-very-colourful-past-recent-name-change-reverse-split-underwriter-faced-legal-issues-in-2018-transfer-agent-sued-for-fraudulent-transfer-in-2018-a-shareh/">check out our very short article on it</a>.
 
 <img src="/wp-content/uploads/2020/01/CODX_CVI_BPTH.png" loading="lazy" style="max-width:100%;height:auto;"><img src="/wp-content/uploads/2020/01/codx_cvi_rkda.png" loading="lazy" style="max-width:100%;height:auto;"><img src="/wp-content/uploads/2020/01/codx_cvi_trnx.png" loading="lazy" style="max-width:100%;height:auto;">
 
@@ -107,6 +107,6 @@ CODX is a terrible investment. Bad financials, dilution, dodgy institutional sha
 
 <hr />
 
-<h3>If you found this short report useful please consider <a href="https://utopiacap.wordpress.com/premium/"><span style="color: #00ff00">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
+<h3>If you found this short report useful please consider <a href="/premium/"><span style="color: #00ff00">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
 
 <hr />

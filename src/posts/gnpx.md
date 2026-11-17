@@ -92,7 +92,7 @@ GNPX is not a good investment. Its lead candidate is old and ineffective. Its fi
 
 <hr />
 
-<h3>If you found this short report useful please consider <a href="https://utopiacap.wordpress.com/premium/"><span style="color: #00ff00">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
+<h3>If you found this short report useful please consider <a href="/premium/"><span style="color: #00ff00">signing up</span></a> for our premium service. You will receive our short reports directly to your email before they are published on our website and will also gain access to a due diligence, research and trading chatroom.</h3>
 
 <hr />
 

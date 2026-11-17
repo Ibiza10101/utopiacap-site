@@ -36,7 +36,7 @@ These tickers will likely crash in the near future meaning that one is better of
 
 <hr />
 
-<strong>Through invitation-only and member publications, Utopia Capital Research fosters a community of intelligent investors united by a passion of lifelong learning and critical thinking. For more information on how to become a member of community click here: </strong><a href="https://utopiacap.wordpress.com/premium-service/" target="_blank" rel="noopener noreferrer"><strong>Waiting List</strong></a>
+<strong>Through invitation-only and member publications, Utopia Capital Research fosters a community of intelligent investors united by a passion of lifelong learning and critical thinking. For more information on how to become a member of community click here: </strong><a href="/premium-service/" target="_blank" rel="noopener noreferrer"><strong>Waiting List</strong></a>
 
 <hr />
 

@@ -114,7 +114,7 @@ SENS seems like a poor investment at the present time. Despite having a promisin
 
 <hr />
 
-<h3>Through invitation-only and member publications, Utopia Capital Research fosters a community of intelligent investors united by a passion of lifelong learning and critical thinking. For more information on how to become a member of community click here: <span style="color: #00ff00"><a style="color: #00ff00" href="https://utopiacap.wordpress.com/premium-service/" target="_blank" rel="noopener noreferrer">Waiting List</a></span></h3>
+<h3>Through invitation-only and member publications, Utopia Capital Research fosters a community of intelligent investors united by a passion of lifelong learning and critical thinking. For more information on how to become a member of community click here: <span style="color: #00ff00"><a style="color: #00ff00" href="/premium-service/" target="_blank" rel="noopener noreferrer">Waiting List</a></span></h3>
 
 <hr />
 
